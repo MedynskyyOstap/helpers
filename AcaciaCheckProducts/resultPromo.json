@@ -1,0 +1,2338 @@
+[
+	{
+		"publishedData": {
+			"salesRuleIds": [],
+			"salesCouponIds": [],
+			"optionAdwancedPriceIds": [],
+			"env": "https://acaciaspa.dermpro.com",
+			"storeCode": "acaciaspa",
+			"cmsBlockId": null,
+			"bannerRuleId": null,
+			"homepageBannerId": null
+		},
+		"slider": {
+			"sliderGroups": []
+		},
+		"labelsEvents": [],
+		"labelsGenerals": [],
+		"labelsManufactures": [],
+		"skus": [
+			{
+				"id": 11943,
+				"sku": "SKUTREAT1006112",
+				"name": "SkinPen® Micro Therapy ",
+				"attribute_set_id": 4,
+				"price": 250,
+				"status": 1,
+				"visibility": 4,
+				"type_id": "virtual",
+				"created_at": "2018-05-31 07:32:59",
+				"updated_at": "2020-09-15 00:37:52",
+				"product_links": [],
+				"tier_prices": [],
+				"custom_attributes": []
+			}
+		],
+		"categories": [
+			{
+				"id": 3276,
+				"parent_id": 2,
+				"name": "Inverness Derm Specials",
+				"is_active": true,
+				"position": 868,
+				"level": 2,
+				"children": "",
+				"created_at": "2020-08-05 08:12:39",
+				"updated_at": "2021-04-26 15:38:36",
+				"path": "1/2/3276",
+				"available_sort_by": [],
+				"include_in_menu": false,
+				"custom_attributes": [],
+				"nameWithPath": "Inverness Derm Specials"
+			},
+			{
+				"id": 828,
+				"parent_id": 152,
+				"name": "SkinPen",
+				"is_active": true,
+				"position": 277,
+				"level": 4,
+				"children": "",
+				"created_at": "2018-11-21 09:33:48",
+				"updated_at": "2020-11-06 11:45:39",
+				"path": "1/2/31/152/828",
+				"available_sort_by": [],
+				"include_in_menu": true,
+				"custom_attributes": [],
+				"nameWithPath": "Cosmetic Services / By Brand / SkinPen"
+			}
+		],
+		"optionsAdvancedPrices": [],
+		"_id": "608959a50000ad003bd75c7b",
+		"typeCode": "PR",
+		"environment": "https://acaciaspa.dermpro.com",
+		"storeCode": "acaciaspa",
+		"storeName": "Acacia Spa Store View",
+		"store": {
+			"id": 211,
+			"code": "acaciaspa",
+			"name": "Acacia Spa Store View",
+			"website_id": 211,
+			"store_group_id": 211
+		},
+		"promoName": "May2021 - Inverness - PR - Purchase SkinPen® Package of Any 3 Treatments and Pick 2 FREE Treatments of Your Choice: Dermaplaning, Microdermabrasion, or Chemical Peel",
+		"categoryForAssign": {
+			"id": 3276,
+			"parent_id": 2,
+			"name": "Inverness Derm Specials",
+			"is_active": true,
+			"position": 868,
+			"level": 2,
+			"children": "",
+			"created_at": "2020-08-05 08:12:39",
+			"updated_at": "2021-04-26 15:38:36",
+			"path": "1/2/3276",
+			"available_sort_by": [],
+			"include_in_menu": false,
+			"custom_attributes": [],
+			"nameWithPath": "Inverness Derm Specials"
+		},
+		"enableSalesIcon": true,
+		"promoDescription": "**Purchase SkinPen® Package of Any 3 Treatments and Pick 2 FREE Treatments of Your Choice: Dermaplaning, Microdermabrasion, or Chemical Peel**  \n**Can mix free treatments including 2 of one or 2 different ones. Bankable. Valid on any SkinPen® package purchase. Choose your free treatment upon consultation.*",
+		"categoryDescription": "**Purchase SkinPen® Package of Any 3 Treatments and Pick 2 FREE Treatments of Your Choice: Dermaplaning, Microdermabrasion, or Chemical Peel**  \n**Can mix free treatments including 2 of one or 2 different ones. Bankable. Valid on any SkinPen® package purchase. Choose your free treatment upon consultation.*",
+		"startDate": "05/03/2021",
+		"endDate": "05/31/2021",
+		"salesRules": [],
+		"status": "New",
+		"createdAt": "2021-04-28T12:48:37.063Z",
+		"updatedAt": "2021-04-28T12:48:37.063Z",
+		"__v": 1,
+		"optionsData": [],
+		"strikethroughs": []
+	},
+	{
+		"publishedData": {
+			"salesRuleIds": [],
+			"salesCouponIds": [],
+			"optionAdwancedPriceIds": [],
+			"env": "https://acaciaspa.dermpro.com",
+			"storeCode": "acaciaspa",
+			"cmsBlockId": null,
+			"bannerRuleId": null,
+			"homepageBannerId": null
+		},
+		"slider": {
+			"sliderGroups": []
+		},
+		"labelsEvents": [],
+		"labelsGenerals": [],
+		"labelsManufactures": [],
+		"skus": [
+			{
+				"id": 1160,
+				"sku": "SKUTREAT1072",
+				"name": "BOTOX® by the Unit",
+				"attribute_set_id": 15,
+				"price": 12,
+				"status": 1,
+				"visibility": 4,
+				"type_id": "virtual",
+				"created_at": "2016-01-19 12:30:14",
+				"updated_at": "2020-12-11 06:00:37",
+				"product_links": [],
+				"tier_prices": [],
+				"custom_attributes": []
+			}
+		],
+		"categories": [
+			{
+				"id": 2836,
+				"parent_id": 2,
+				"name": "7 Seas Medical Spa Specials",
+				"is_active": true,
+				"position": 388,
+				"level": 2,
+				"children": "",
+				"created_at": "2019-10-04 08:46:39",
+				"updated_at": "2021-05-03 06:01:43",
+				"path": "1/2/2836",
+				"available_sort_by": [],
+				"include_in_menu": true,
+				"custom_attributes": [],
+				"nameWithPath": "7 Seas Medical Spa Specials"
+			},
+			{
+				"id": 6,
+				"parent_id": 2,
+				"name": "Services",
+				"is_active": true,
+				"position": 15,
+				"level": 2,
+				"children": "101,108,109,110,116,117,129,149,168,172,178,192,55,56,57,58,59,68,75,76,77,78,79,80,82,86,88",
+				"created_at": "2018-11-21 09:25:09",
+				"updated_at": "2021-05-03 06:01:41",
+				"path": "1/2/6",
+				"available_sort_by": [],
+				"include_in_menu": true,
+				"custom_attributes": [],
+				"nameWithPath": "Services"
+			},
+			{
+				"id": 277,
+				"parent_id": 65,
+				"name": "Botox Cosmetic",
+				"is_active": true,
+				"position": 45,
+				"level": 4,
+				"children": "",
+				"created_at": "2018-11-21 09:27:20",
+				"updated_at": "2020-12-10 06:01:09",
+				"path": "1/2/3/65/277",
+				"available_sort_by": [],
+				"include_in_menu": true,
+				"custom_attributes": [],
+				"nameWithPath": "Shop By Brand / Spa Services by / Botox Cosmetic"
+			}
+		],
+		"optionsAdvancedPrices": [],
+		"_id": "60a3caea02df93003bd65041",
+		"typeCode": "SP",
+		"environment": "https://acaciaspa.dermpro.com",
+		"storeCode": "acaciaspa",
+		"storeName": "Acacia Spa Store View",
+		"store": {
+			"id": 211,
+			"code": "acaciaspa",
+			"name": "Acacia Spa Store View",
+			"website_id": 211,
+			"store_group_id": 211
+		},
+		"promoName": "June 2021 - 7 Seas - SP - BroTOX BOTOX® for Men for $10/Unit (Reg. $12/Unit) *Consultation required.",
+		"categoryForAssign": {
+			"id": 2836,
+			"parent_id": 2,
+			"name": "7 Seas Medical Spa Specials",
+			"is_active": true,
+			"position": 388,
+			"level": 2,
+			"children": "",
+			"created_at": "2019-10-04 08:46:39",
+			"updated_at": "2021-05-03 06:01:43",
+			"path": "1/2/2836",
+			"available_sort_by": [],
+			"include_in_menu": true,
+			"custom_attributes": [],
+			"nameWithPath": "7 Seas Medical Spa Specials"
+		},
+		"enableSalesIcon": true,
+		"promoDescription": "**BroTOX**  \nBOTOX® for Men for $10/Unit (Reg. $12/Unit)  \n**Consultation required.*",
+		"categoryDescription": "**BroTOX**  \nBOTOX® for Men for $10/Unit (Reg. $12/Unit)  \n**Consultation required.*",
+		"startDate": "06/01/2021",
+		"endDate": "06/30/2021",
+		"autoSaveInLibrary": true,
+		"salesRules": [],
+		"specialPrices": {
+			"SKUTREAT1072": "10"
+		},
+		"strikethroughs": [],
+		"optionsData": [],
+		"status": "Started",
+		"createdAt": "2021-05-18T14:10:50.496Z",
+		"updatedAt": "2021-05-18T14:10:50.496Z",
+		"__v": 0,
+		"inLibrary": true,
+		"libraryId": "60a3caea02df93003bd65041"
+	},
+	{
+		"publishedData": {
+			"salesRuleIds": [],
+			"salesCouponIds": [],
+			"optionAdwancedPriceIds": [],
+			"env": "https://acaciaspa.dermpro.com",
+			"storeCode": "acaciaspa",
+			"cmsBlockId": null,
+			"bannerRuleId": null,
+			"homepageBannerId": null
+		},
+		"slider": {
+			"sliderGroups": []
+		},
+		"labelsEvents": [],
+		"labelsGenerals": [],
+		"labelsManufactures": [],
+		"skus": [
+			{
+				"id": 483,
+				"sku": "SKUPROD1217",
+				"name": "Obagi-C® Rx System C-Clarifying Serum (Normal to Oily Skin)",
+				"attribute_set_id": 13,
+				"price": 139,
+				"status": 1,
+				"visibility": 4,
+				"type_id": "simple",
+				"created_at": "2016-01-19 12:29:40",
+				"updated_at": "2021-04-28 21:51:31",
+				"weight": 1,
+				"product_links": [],
+				"tier_prices": [],
+				"custom_attributes": []
+			},
+			{
+				"id": 484,
+				"sku": "SKUPROD1218",
+				"name": "Obagi-C® Rx System C-Clarifying Serum (Normal to Dry)",
+				"attribute_set_id": 13,
+				"price": 139,
+				"status": 1,
+				"visibility": 4,
+				"type_id": "simple",
+				"created_at": "2016-01-19 12:29:40",
+				"updated_at": "2021-04-28 21:51:45",
+				"weight": 1,
+				"product_links": [],
+				"tier_prices": [],
+				"custom_attributes": []
+			},
+			{
+				"id": 508,
+				"sku": "SKUPROD1242",
+				"name": "OBAGI® ELASTIderm® Eye Cream",
+				"attribute_set_id": 13,
+				"price": 115.5,
+				"status": 1,
+				"visibility": 4,
+				"type_id": "simple",
+				"created_at": "2016-01-19 12:29:41",
+				"updated_at": "2021-05-12 17:34:48",
+				"weight": 0.5,
+				"product_links": [],
+				"tier_prices": [],
+				"custom_attributes": []
+			}
+		],
+		"categories": [
+			{
+				"id": 3382,
+				"parent_id": 2,
+				"name": "North Atlanta Dermatology This Month's Specials",
+				"is_active": true,
+				"position": 507,
+				"level": 2,
+				"children": "",
+				"created_at": "2021-04-23 12:24:04",
+				"updated_at": "2021-04-28 15:03:03",
+				"path": "1/2/3382",
+				"available_sort_by": [],
+				"include_in_menu": false,
+				"custom_attributes": [],
+				"nameWithPath": "North Atlanta Dermatology This Month's Specials"
+			},
+			{
+				"id": 4,
+				"parent_id": 2,
+				"name": "Products",
+				"is_active": true,
+				"position": 18,
+				"level": 2,
+				"children": "2944,40,41,42,43,44,45,48,49,50,51,54,69,70,72",
+				"created_at": "2018-11-21 09:25:08",
+				"updated_at": "2021-04-28 15:41:43",
+				"path": "1/2/4",
+				"available_sort_by": [],
+				"include_in_menu": true,
+				"custom_attributes": [],
+				"nameWithPath": "Products"
+			},
+			{
+				"id": 274,
+				"parent_id": 64,
+				"name": "Obagi",
+				"is_active": true,
+				"position": 438,
+				"level": 4,
+				"children": "",
+				"created_at": "2018-11-21 09:27:18",
+				"updated_at": "2020-06-25 22:37:09",
+				"path": "1/2/3/64/274",
+				"available_sort_by": [],
+				"include_in_menu": true,
+				"custom_attributes": [],
+				"nameWithPath": "Shop By Brand / Products by / Obagi"
+			}
+		],
+		"optionsAdvancedPrices": [],
+		"_id": "60a3d3d502df93003bd65047",
+		"typeCode": "PR",
+		"environment": "https://acaciaspa.dermpro.com",
+		"storeCode": "acaciaspa",
+		"storeName": "Acacia Spa Store View",
+		"store": {
+			"id": 211,
+			"code": "acaciaspa",
+			"name": "Acacia Spa Store View",
+			"website_id": 211,
+			"store_group_id": 211
+		},
+		"promoName": "June 2021 - NA Derm - PR - Purchase Any Obagi® Skin Care Products and Receive a Free Gift ($25 Value) ",
+		"categoryForAssign": {
+			"id": 3382,
+			"parent_id": 2,
+			"name": "North Atlanta Dermatology This Month's Specials",
+			"is_active": true,
+			"position": 507,
+			"level": 2,
+			"children": "",
+			"created_at": "2021-04-23 12:24:04",
+			"updated_at": "2021-04-28 15:03:03",
+			"path": "1/2/3382",
+			"available_sort_by": [],
+			"include_in_menu": false,
+			"custom_attributes": [],
+			"nameWithPath": "North Atlanta Dermatology This Month's Specials"
+		},
+		"promoDescription": "**Purchase Any Obagi® Skin Care Products and Receive a Free Gift ($25 Value)**  \n**While supplies last. Free gift will be included in your purchase.*",
+		"categoryDescription": "**Purchase Any Obagi® Skin Care Products and Receive a Free Gift ($25 Value)**  \n**While supplies last. Free gift will be included in your purchase.*",
+		"startDate": "06/01/2021",
+		"endDate": "06/30/2021",
+		"autoSaveInLibrary": true,
+		"salesRules": [],
+		"strikethroughs": [],
+		"optionsData": [],
+		"status": "Started",
+		"createdAt": "2021-05-18T14:48:53.331Z",
+		"updatedAt": "2021-05-18T14:48:53.331Z",
+		"__v": 0,
+		"inLibrary": true,
+		"libraryId": "60a3d3d502df93003bd65047"
+	},
+	{
+		"publishedData": {
+			"salesRuleIds": [
+				1105
+			],
+			"salesCouponIds": [],
+			"optionAdwancedPriceIds": [],
+			"env": "https://acaciaspa.dermpro.com",
+			"storeCode": "acaciaspa",
+			"cmsBlockId": null,
+			"bannerRuleId": null,
+			"homepageBannerId": 1576
+		},
+		"slider": {
+			"sliderGroups": [
+				{
+					"group_id": "325",
+					"title": "gallaherplasticsurgery slider",
+					"identifier": "gallaherplasticsurgery",
+					"is_active": "1",
+					"group_position": "content_top",
+					"width": "0",
+					"group_smoothheight": "1",
+					"group_sort_order": "1",
+					"thumbnail_size": "200",
+					"group_type": "basic",
+					"group_random_slides": "0",
+					"theme": "1",
+					"slider_size": "D(1660x500)",
+					"custom_theme": null,
+					"group_startdate": null,
+					"group_enddate": null,
+					"group_loggedin": "0",
+					"group_animation": "slide",
+					"group_animation_direction": "horizontal",
+					"group_animation_duration": "600",
+					"group_animation_reverse": "0",
+					"group_animation_easing": "jswing",
+					"group_autoslide": "1",
+					"group_autoloop": "1",
+					"group_pauseonaction": "0",
+					"group_pauseonhover": "1",
+					"group_slide_duration": "7000",
+					"nav_show": "hover",
+					"nav_style": "type-1",
+					"nav_size": "normal",
+					"nav_position": "inside",
+					"nav_color": "#666666",
+					"pagination_show": "always",
+					"pagination_style": "circular",
+					"pagination_position": "below",
+					"pagination_color": "#ffffff",
+					"pagination_hover_color": "#cccccc",
+					"pagination_active_color": "#293f67",
+					"loader_show": "0",
+					"loader_position": "top",
+					"loader_color": "#eeeeee",
+					"loader_bgcolor": "#222222",
+					"caption_textcolor": "#ffffff",
+					"caption_bgcolor": "rgba(34, 34, 34, 0.8)",
+					"overlay_position": "right",
+					"overlay_textcolor": "#ffffff",
+					"overlay_bgcolor": "rgba(34, 34, 34, 0.8)",
+					"overlay_hovercolor": "rgba(102, 102, 102, 0.8)",
+					"carousel_minitems": "3",
+					"carousel_maxitems": "5",
+					"carousel_move": "0",
+					"_first_store_id": "178",
+					"store_code": "gallaherplasticsurgery",
+					"store_id": [
+						"178"
+					]
+				}
+			],
+			"bannerImageInfo": {
+				"fieldname": "file",
+				"originalname": "gallaher-gift cards.jpeg",
+				"encoding": "7bit",
+				"mimetype": "image/jpeg",
+				"destination": "/var/www/public/images/",
+				"filename": "homepage-banner-1621817235072.jpeg",
+				"path": "/var/www/public/images/homepage-banner-1621817235072.jpeg",
+				"size": 84810,
+				"imageS3": "https://dermpro-promotool-data.s3.amazonaws.com/homepage-banner-1621817235072.jpeg"
+			},
+			"bannerImageOrder": 5,
+			"bannerImageAltText": "20% OFF Gift Cards",
+			"bannerImageOnClickUrl": "https://store.gallaherplasticsurgery.com/gift-card-004.html",
+			"openInNewWindow": false,
+			"captionHtml": "",
+			"captionPosition": "bottom-right",
+			"captionAnimation": false
+		},
+		"labelsEvents": [],
+		"labelsGenerals": [],
+		"labelsManufactures": [],
+		"skus": [
+			{
+				"id": 13570,
+				"sku": "SKUGIFT004",
+				"name": "E-Gift Card",
+				"attribute_set_id": 16,
+				"status": 1,
+				"visibility": 4,
+				"type_id": "mpgiftcard",
+				"created_at": "2016-01-30 03:50:09",
+				"updated_at": "2021-05-03 06:10:01",
+				"weight": 1,
+				"product_links": [],
+				"tier_prices": [],
+				"custom_attributes": []
+			}
+		],
+		"categories": [
+			{
+				"id": 3358,
+				"parent_id": 2,
+				"name": "Gallaher Plastic Surgery This Month's Specials",
+				"is_active": true,
+				"position": 569,
+				"level": 2,
+				"children": "",
+				"created_at": "2020-10-16 11:40:09",
+				"updated_at": "2021-05-06 19:56:26",
+				"path": "1/2/3358",
+				"available_sort_by": [],
+				"include_in_menu": false,
+				"custom_attributes": [],
+				"nameWithPath": "Gallaher Plastic Surgery This Month's Specials"
+			},
+			{
+				"id": 15,
+				"parent_id": 2,
+				"name": "E-Gift Card",
+				"is_active": true,
+				"position": 36,
+				"level": 2,
+				"children": "",
+				"created_at": "2018-11-21 09:25:13",
+				"updated_at": "2021-05-03 06:08:18",
+				"path": "1/2/15",
+				"available_sort_by": [],
+				"include_in_menu": true,
+				"custom_attributes": [],
+				"nameWithPath": "E-Gift Card"
+			}
+		],
+		"optionsAdvancedPrices": [],
+		"_id": "60aaf845ace68f003bd4757e",
+		"typeCode": "SC-1A",
+		"environment": "https://acaciaspa.dermpro.com",
+		"storeCode": "acaciaspa",
+		"storeName": "Acacia Spa Store View",
+		"store": {
+			"id": 211,
+			"code": "acaciaspa",
+			"name": "Acacia Spa Store View",
+			"website_id": 211,
+			"store_group_id": 211
+		},
+		"promoName": "June 2021 - SC1A - 20% OFF Gift Cards",
+		"categoryForAssign": {
+			"id": 3358,
+			"parent_id": 2,
+			"name": "Gallaher Plastic Surgery This Month's Specials",
+			"is_active": true,
+			"position": 569,
+			"level": 2,
+			"children": "",
+			"created_at": "2020-10-16 11:40:09",
+			"updated_at": "2021-05-06 19:56:26",
+			"path": "1/2/3358",
+			"available_sort_by": [],
+			"include_in_menu": false,
+			"custom_attributes": [],
+			"nameWithPath": "Gallaher Plastic Surgery This Month's Specials"
+		},
+		"enableSalesIcon": true,
+		"promoDescription": "**20% OFF Gift Cards**  \n**Cannot be combined with other offers.*",
+		"categoryDescription": "**20% OFF Gift Cards**  \n**Cannot be combined with other offers.*",
+		"startDate": "06/01/2021",
+		"endDate": "06/30/2021",
+		"autoSaveInLibrary": true,
+		"salesRules": [
+			{
+				"_id": "60aaf845ace68f003bd4757f",
+				"discountType": "by_percent",
+				"ruleConditions": {
+					"aggregator": {
+						"type": "all",
+						"value": "1"
+					},
+					"conditions": []
+				},
+				"ruleActions": {
+					"aggregator": {
+						"type": "all",
+						"value": "1"
+					},
+					"conditions": [
+						{
+							"type": "sku",
+							"operator": "==",
+							"data": {
+								"id": 13570,
+								"sku": "SKUGIFT004",
+								"name": "E-Gift Card",
+								"attribute_set_id": 16,
+								"status": 1,
+								"visibility": 4,
+								"type_id": "mpgiftcard",
+								"created_at": "2016-01-30 03:50:09",
+								"updated_at": "2021-05-03 06:10:01",
+								"weight": 1,
+								"product_links": [],
+								"tier_prices": [],
+								"custom_attributes": []
+							}
+						}
+					]
+				},
+				"ruleName": "20% OFF Gift Cards",
+				"ruleDescription": "20% OFF Gift Cards",
+				"CustomerGroups": [
+					{
+						"id": 0,
+						"code": "NOT LOGGED IN",
+						"tax_class_id": 3,
+						"tax_class_name": "Retail Customer"
+					},
+					{
+						"id": 1,
+						"code": "General",
+						"tax_class_id": 3,
+						"tax_class_name": "Retail Customer"
+					},
+					{
+						"id": 186,
+						"code": "Gallaher Plastic Customer",
+						"tax_class_id": 3,
+						"tax_class_name": "Retail Customer",
+						"extension_attributes": {
+							"customer_group_store_code": "178"
+						}
+					},
+					{
+						"id": 187,
+						"code": "Gallaher Beauty Club",
+						"tax_class_id": 3,
+						"tax_class_name": "Retail Customer",
+						"extension_attributes": {
+							"customer_group_store_code": "178"
+						}
+					}
+				],
+				"discountAmount": 20,
+				"minQtyForDiscount": 1,
+				"discardSubsequentRules": true,
+				"rulePriority": 5,
+				"label": "20% OFF",
+				"freeShipping": false
+			}
+		],
+		"strikethroughs": [],
+		"optionsData": [],
+		"status": "Started",
+		"createdAt": "2021-05-24T00:50:13.410Z",
+		"updatedAt": "2021-05-24T00:50:13.410Z",
+		"__v": 2,
+		"inLibrary": true,
+		"libraryId": "60aaf845ace68f003bd4757e"
+	},
+	{
+		"publishedData": {
+			"salesRuleIds": [
+				1203
+			],
+			"salesCouponIds": [],
+			"optionAdwancedPriceIds": [],
+			"env": "https://acaciaspa.dermpro.com",
+			"storeCode": "acaciaspa",
+			"cmsBlockId": null,
+			"bannerRuleId": null,
+			"homepageBannerId": 1294
+		},
+		"slider": {
+			"sliderGroups": [
+				{
+					"group_id": "283",
+					"title": "lexingtonps slider",
+					"identifier": "lexingtonps",
+					"is_active": "1",
+					"group_position": "content_top",
+					"width": "0",
+					"group_smoothheight": "1",
+					"group_sort_order": "1",
+					"thumbnail_size": "200",
+					"group_type": "basic",
+					"group_random_slides": "0",
+					"theme": "1",
+					"slider_size": "D(1660x500)",
+					"custom_theme": null,
+					"group_startdate": null,
+					"group_enddate": null,
+					"group_loggedin": "0",
+					"group_animation": "slide",
+					"group_animation_direction": "horizontal",
+					"group_animation_duration": "600",
+					"group_animation_reverse": "0",
+					"group_animation_easing": "jswing",
+					"group_autoslide": "1",
+					"group_autoloop": "1",
+					"group_pauseonaction": "0",
+					"group_pauseonhover": "1",
+					"group_slide_duration": "7000",
+					"nav_show": "hover",
+					"nav_style": "type-1",
+					"nav_size": "normal",
+					"nav_position": "inside",
+					"nav_color": "#666666",
+					"pagination_show": "always",
+					"pagination_style": "circular",
+					"pagination_position": "below",
+					"pagination_color": "#ffffff",
+					"pagination_hover_color": "#cccccc",
+					"pagination_active_color": "#293f67",
+					"loader_show": "0",
+					"loader_position": "top",
+					"loader_color": "#eeeeee",
+					"loader_bgcolor": "#222222",
+					"caption_textcolor": "#ffffff",
+					"caption_bgcolor": "rgba(34, 34, 34, 0.8)",
+					"overlay_position": "right",
+					"overlay_textcolor": "#ffffff",
+					"overlay_bgcolor": "rgba(34, 34, 34, 0.8)",
+					"overlay_hovercolor": "rgba(102, 102, 102, 0.8)",
+					"carousel_minitems": "3",
+					"carousel_maxitems": "5",
+					"carousel_move": "0",
+					"_first_store_id": "53",
+					"store_code": "lexingtonps",
+					"store_id": [
+						"53"
+					]
+				}
+			],
+			"bannerImageInfo": {
+				"fieldname": "file",
+				"originalname": "lexington-prod.jpeg",
+				"encoding": "7bit",
+				"mimetype": "image/jpeg",
+				"destination": "/var/www/public/images/",
+				"filename": "homepage-banner-1622042771226.jpeg",
+				"path": "/var/www/public/images/homepage-banner-1622042771226.jpeg",
+				"size": 115860,
+				"imageS3": "https://dermpro-promotool-data.s3.amazonaws.com/homepage-banner-1622042771226.jpeg"
+			},
+			"bannerImageOrder": 2,
+			"bannerImageAltText": "20% OFF All ALASTIN™ Skincare Products",
+			"bannerImageOnClickUrl": "https://store.lexingtonps.com/shop-by-brand/products-brands/alastin-skincare.html",
+			"openInNewWindow": false,
+			"captionHtml": "",
+			"captionPosition": "bottom-right",
+			"captionAnimation": false
+		},
+		"labelsEvents": [],
+		"labelsGenerals": [],
+		"labelsManufactures": [],
+		"skus": [
+			{
+				"id": 6963,
+				"sku": "SKUPROD00767",
+				"name": "ALASTIN Skincare® Regenerating Skin Nectar with TriHex Technology® ",
+				"attribute_set_id": 13,
+				"price": 195,
+				"status": 1,
+				"visibility": 4,
+				"type_id": "simple",
+				"created_at": "2017-02-27 15:32:32",
+				"updated_at": "2020-11-26 18:21:33",
+				"weight": 1,
+				"product_links": [],
+				"tier_prices": [],
+				"custom_attributes": []
+			},
+			{
+				"id": 7174,
+				"sku": "SKUPROD005829",
+				"name": "ALASTIN Skincare® Restorative Skin Complex With TriHex Technology®",
+				"attribute_set_id": 13,
+				"price": 195,
+				"status": 1,
+				"visibility": 4,
+				"type_id": "simple",
+				"created_at": "2017-02-27 15:32:42",
+				"updated_at": "2020-08-19 16:56:50",
+				"weight": 0.2,
+				"product_links": [],
+				"tier_prices": [],
+				"custom_attributes": []
+			},
+			{
+				"id": 7232,
+				"sku": "SKUPROD009847",
+				"name": "ALASTIN Skincare® Restorative Eye Treatment with TriHex Technology®",
+				"attribute_set_id": 13,
+				"price": 85,
+				"status": 1,
+				"visibility": 4,
+				"type_id": "simple",
+				"created_at": "2017-02-27 15:32:44",
+				"updated_at": "2020-07-08 17:23:12",
+				"weight": 0.5,
+				"product_links": [],
+				"tier_prices": [],
+				"custom_attributes": []
+			},
+			{
+				"id": 7584,
+				"sku": "SKUPROD008983",
+				"name": "ALASTIN Skincare® Ultra Nourishing Moisturizer with TriHex Technology®",
+				"attribute_set_id": 13,
+				"price": 70,
+				"status": 1,
+				"visibility": 4,
+				"type_id": "simple",
+				"created_at": "2017-02-27 15:32:57",
+				"updated_at": "2020-07-28 18:20:00",
+				"weight": 59.1,
+				"product_links": [],
+				"tier_prices": [],
+				"custom_attributes": []
+			},
+			{
+				"id": 8773,
+				"sku": "SKUPROD20372",
+				"name": "ALASTIN Skincare® HydraTint Pro Mineral Broad Spectrum Sunscreen SPF 36",
+				"attribute_set_id": 13,
+				"price": 55,
+				"status": 1,
+				"visibility": 4,
+				"type_id": "simple",
+				"created_at": "2017-02-27 15:33:48",
+				"updated_at": "2021-05-06 17:14:10",
+				"weight": 0.1625,
+				"product_links": [],
+				"tier_prices": [],
+				"custom_attributes": []
+			}
+		],
+		"categories": [
+			{
+				"id": 3010,
+				"parent_id": 2,
+				"name": "Lexington Plastic Surgery Specials",
+				"is_active": true,
+				"position": 457,
+				"level": 2,
+				"children": "",
+				"created_at": "2019-12-20 12:03:11",
+				"updated_at": "2021-05-07 18:42:33",
+				"path": "1/2/3010",
+				"available_sort_by": [],
+				"include_in_menu": false,
+				"custom_attributes": [],
+				"nameWithPath": "Lexington Plastic Surgery Specials"
+			},
+			{
+				"id": 4,
+				"parent_id": 2,
+				"name": "Products",
+				"is_active": true,
+				"position": 18,
+				"level": 2,
+				"children": "106,40,41,42,44,45,46,47,48,49,50,72",
+				"created_at": "2018-11-21 09:25:08",
+				"updated_at": "2021-05-07 18:41:18",
+				"path": "1/2/4",
+				"available_sort_by": [],
+				"include_in_menu": true,
+				"custom_attributes": [],
+				"nameWithPath": "Products"
+			},
+			{
+				"id": 1609,
+				"parent_id": 64,
+				"name": "Alastin Skincare",
+				"is_active": true,
+				"position": 17,
+				"level": 4,
+				"children": "",
+				"created_at": "2018-11-21 09:49:04",
+				"updated_at": "2021-05-06 17:14:09",
+				"path": "1/2/3/64/1609",
+				"available_sort_by": [],
+				"include_in_menu": true,
+				"custom_attributes": [],
+				"nameWithPath": "Shop By Brand / Products by / Alastin Skincare"
+			}
+		],
+		"optionsAdvancedPrices": [],
+		"_id": "60ad10e0ace68f003bd476d3",
+		"typeCode": "SC-12A",
+		"environment": "https://acaciaspa.dermpro.com",
+		"storeCode": "acaciaspa",
+		"storeName": "Acacia Spa Store View",
+		"store": {
+			"id": 211,
+			"code": "acaciaspa",
+			"name": "Acacia Spa Store View",
+			"website_id": 211,
+			"store_group_id": 211
+		},
+		"promoName": "June 2021 - SC 12A - 20% OFF All ALASTIN™ Skincare Products",
+		"categoryForAssign": {
+			"id": 3010,
+			"parent_id": 2,
+			"name": "Lexington Plastic Surgery Specials",
+			"is_active": true,
+			"position": 457,
+			"level": 2,
+			"children": "",
+			"created_at": "2019-12-20 12:03:11",
+			"updated_at": "2021-05-07 18:42:33",
+			"path": "1/2/3010",
+			"available_sort_by": [],
+			"include_in_menu": false,
+			"custom_attributes": [],
+			"nameWithPath": "Lexington Plastic Surgery Specials"
+		},
+		"enableSalesIcon": true,
+		"promoDescription": "**20% OFF All ALASTIN™ Skincare Products**  \n**Limit 5 products per customer. Valid for the month of June only. Add to cart and discount will apply.*   ",
+		"categoryDescription": "**20% OFF All ALASTIN™ Skincare Products**  \n**Limit 5 products per customer. Valid for the month of June only. Add to cart and discount will apply.*   ",
+		"startDate": "06/01/2021",
+		"endDate": "06/30/2021",
+		"autoSaveInLibrary": true,
+		"salesRules": [
+			{
+				"_id": "60ad10e0ace68f003bd476d4",
+				"discountType": "eachn_perc",
+				"ruleConditions": {
+					"aggregator": {
+						"type": "all",
+						"value": "1"
+					},
+					"conditions": []
+				},
+				"ruleActions": {
+					"aggregator": {
+						"type": "all",
+						"value": "1"
+					},
+					"conditions": [
+						{
+							"type": "category_ids",
+							"operator": "==",
+							"data": {
+								"id": 1609,
+								"parent_id": 64,
+								"name": "Alastin Skincare",
+								"is_active": true,
+								"position": 17,
+								"level": 4,
+								"children": "",
+								"created_at": "2018-11-21 09:49:04",
+								"updated_at": "2021-05-06 17:14:09",
+								"path": "1/2/3/64/1609",
+								"available_sort_by": [],
+								"include_in_menu": true,
+								"custom_attributes": [],
+								"nameWithPath": "Shop By Brand / Products by / Alastin Skincare"
+							}
+						}
+					]
+				},
+				"ruleName": "20% OFF All ALASTIN™ Skincare Products",
+				"ruleDescription": "20% OFF All ALASTIN™ Skincare Products",
+				"CustomerGroups": [
+					{
+						"id": 0,
+						"code": "NOT LOGGED IN",
+						"tax_class_id": 3,
+						"tax_class_name": "Retail Customer"
+					},
+					{
+						"id": 1,
+						"code": "General",
+						"tax_class_id": 3,
+						"tax_class_name": "Retail Customer"
+					},
+					{
+						"id": 92,
+						"code": "Lexington Plastic Customer",
+						"tax_class_id": 3,
+						"tax_class_name": "Retail Customer",
+						"extension_attributes": {
+							"customer_group_store_code": "53"
+						}
+					},
+					{
+						"id": 93,
+						"code": "VIP Membership $650/year",
+						"tax_class_id": 3,
+						"tax_class_name": "Retail Customer",
+						"extension_attributes": {
+							"customer_group_store_code": "53"
+						}
+					}
+				],
+				"discountAmount": 20,
+				"maxQtyForDiscount": 5,
+				"minQtyForDiscount": 1,
+				"discardSubsequentRules": true,
+				"rulePriority": 1,
+				"label": "20% OFF",
+				"freeShipping": false
+			}
+		],
+		"strikethroughs": [],
+		"optionsData": [],
+		"status": "Started",
+		"createdAt": "2021-05-25T14:59:44.325Z",
+		"updatedAt": "2021-05-25T14:59:44.325Z",
+		"__v": 6
+	},
+	{
+		"publishedData": {
+			"salesRuleIds": [],
+			"salesCouponIds": [],
+			"optionAdwancedPriceIds": [],
+			"env": "https://acaciaspa.dermpro.com",
+			"storeCode": "acaciaspa",
+			"cmsBlockId": null,
+			"bannerRuleId": null,
+			"homepageBannerId": null
+		},
+		"slider": {
+			"sliderGroups": []
+		},
+		"labelsEvents": [],
+		"labelsGenerals": [],
+		"labelsManufactures": [],
+		"skus": [
+			{
+				"id": 13570,
+				"sku": "SKUGIFT004",
+				"name": "E-Gift Card",
+				"attribute_set_id": 16,
+				"status": 1,
+				"visibility": 4,
+				"type_id": "mpgiftcard",
+				"created_at": "2016-01-30 03:50:09",
+				"updated_at": "2020-12-28 20:09:38",
+				"weight": 1,
+				"product_links": [],
+				"tier_prices": [],
+				"custom_attributes": []
+			}
+		],
+		"categories": [
+			{
+				"id": 3200,
+				"parent_id": 2,
+				"name": "Shell Plastic Surgery Specials",
+				"is_active": true,
+				"position": 523,
+				"level": 2,
+				"children": "",
+				"created_at": "2020-04-21 06:04:28",
+				"updated_at": "2021-05-03 14:41:01",
+				"path": "1/2/3200",
+				"available_sort_by": [],
+				"include_in_menu": false,
+				"custom_attributes": [],
+				"nameWithPath": "Shell Plastic Surgery Specials"
+			},
+			{
+				"id": 15,
+				"parent_id": 2,
+				"name": "E-Gift Card",
+				"is_active": true,
+				"position": 36,
+				"level": 2,
+				"children": "",
+				"created_at": "2018-11-21 09:25:13",
+				"updated_at": "2021-02-01 13:39:15",
+				"path": "1/2/15",
+				"available_sort_by": [],
+				"include_in_menu": true,
+				"custom_attributes": [],
+				"nameWithPath": "E-Gift Card"
+			}
+		],
+		"optionsAdvancedPrices": [],
+		"_id": "60ad6dfbace68f003bd47740",
+		"typeCode": "PR",
+		"environment": "https://acaciaspa.dermpro.com",
+		"storeCode": "acaciaspa",
+		"storeName": "Acacia Spa Store View",
+		"store": {
+			"id": 211,
+			"code": "acaciaspa",
+			"name": "Acacia Spa Store View",
+			"website_id": 211,
+			"store_group_id": 211
+		},
+		"promoName": "June 2021 - PR - Gift Cards",
+		"categoryForAssign": {
+			"id": 3200,
+			"parent_id": 2,
+			"name": "Shell Plastic Surgery Specials",
+			"is_active": true,
+			"position": 523,
+			"level": 2,
+			"children": "",
+			"created_at": "2020-04-21 06:04:28",
+			"updated_at": "2021-05-03 14:41:01",
+			"path": "1/2/3200",
+			"available_sort_by": [],
+			"include_in_menu": false,
+			"custom_attributes": [],
+			"nameWithPath": "Shell Plastic Surgery Specials"
+		},
+		"promoDescription": "**Gift Cards**",
+		"categoryDescription": "**Gift Cards**",
+		"startDate": "06/01/2021",
+		"endDate": "06/30/2021",
+		"autoSaveInLibrary": true,
+		"salesRules": [],
+		"strikethroughs": [],
+		"optionsData": [],
+		"status": "Started",
+		"createdAt": "2021-05-25T21:36:59.512Z",
+		"updatedAt": "2021-05-25T21:36:59.512Z",
+		"__v": 0,
+		"inLibrary": true,
+		"libraryId": "60ad6dfbace68f003bd47740"
+	},
+	{
+		"publishedData": {
+			"salesRuleIds": [
+				1299
+			],
+			"salesCouponIds": [],
+			"optionAdwancedPriceIds": [],
+			"env": "https://acaciaspa.dermpro.com",
+			"storeCode": "acaciaspa",
+			"cmsBlockId": null,
+			"bannerRuleId": null,
+			"homepageBannerId": 1659
+		},
+		"slider": {
+			"sliderGroups": [
+				{
+					"group_id": "302",
+					"title": "northtexasplasticsurgery slider",
+					"identifier": "northtexasplasticsurgery",
+					"is_active": "1",
+					"group_position": "content_top",
+					"width": null,
+					"group_smoothheight": "1",
+					"group_sort_order": "1",
+					"thumbnail_size": "200",
+					"group_type": "basic",
+					"group_random_slides": "0",
+					"theme": "16",
+					"slider_size": "D(1660x500)",
+					"custom_theme": null,
+					"group_startdate": null,
+					"group_enddate": null,
+					"group_loggedin": "0",
+					"group_animation": "slide",
+					"group_animation_direction": "horizontal",
+					"group_animation_duration": "600",
+					"group_animation_reverse": "0",
+					"group_animation_easing": "swing",
+					"group_autoslide": "1",
+					"group_autoloop": "1",
+					"group_pauseonaction": "0",
+					"group_pauseonhover": "1",
+					"group_slide_duration": "7000",
+					"nav_show": "hover",
+					"nav_style": "type-1",
+					"nav_size": "",
+					"nav_position": "inside",
+					"nav_color": "#666666",
+					"pagination_show": "always",
+					"pagination_style": "circular",
+					"pagination_position": "below",
+					"pagination_color": "#ffffff",
+					"pagination_hover_color": "#cccccc",
+					"pagination_active_color": "#293f67",
+					"loader_show": "0",
+					"loader_position": "top",
+					"loader_color": "#eeeeee",
+					"loader_bgcolor": "#222222",
+					"caption_textcolor": "#ffffff",
+					"caption_bgcolor": "rgba(34, 34, 34, 0.8)",
+					"overlay_position": "right",
+					"overlay_textcolor": "#ffffff",
+					"overlay_bgcolor": "rgba(34, 34, 34, 0.8)",
+					"overlay_hovercolor": "rgba(102, 102, 102, 0.8)",
+					"carousel_minitems": "3",
+					"carousel_maxitems": "5",
+					"carousel_move": "0",
+					"_first_store_id": "72",
+					"store_code": "northtexasplasticsurgery",
+					"store_id": [
+						"72"
+					]
+				}
+			],
+			"bannerImageInfo": {
+				"fieldname": "file",
+				"originalname": "nt-plastic-june-alastin.jpg",
+				"encoding": "7bit",
+				"mimetype": "image/jpeg",
+				"destination": "/var/www/public/images/",
+				"filename": "homepage-banner-1622520626291.jpeg",
+				"path": "/var/www/public/images/homepage-banner-1622520626291.jpeg",
+				"size": 610592,
+				"imageS3": "https://dermpro-promotool-data.s3.amazonaws.com/homepage-banner-1622520626291.jpeg"
+			},
+			"bannerImageOrder": 2,
+			"bannerImageAltText": "10% OFF ALASTIN Skincare® HydraTint Pro Mineral Broad Spectrum Sunscreen SPF 36 ",
+			"bannerImageOnClickUrl": "https://store.northtexasplasticsurgery.com/alastin-skincare-hydratint-pro-mineral-broad-spectrum-sunscreen-spf-36.html",
+			"openInNewWindow": false,
+			"captionHtml": "",
+			"captionPosition": "bottom-right",
+			"captionAnimation": false
+		},
+		"labelsEvents": [],
+		"labelsGenerals": [],
+		"labelsManufactures": [],
+		"skus": [
+			{
+				"id": 8773,
+				"sku": "SKUPROD20372",
+				"name": "ALASTIN Skincare® HydraTint Pro Mineral Broad Spectrum Sunscreen SPF 36",
+				"attribute_set_id": 13,
+				"price": 55,
+				"status": 1,
+				"visibility": 4,
+				"type_id": "simple",
+				"created_at": "2017-02-27 15:33:48",
+				"updated_at": "2021-05-06 06:13:26",
+				"weight": 0.1625,
+				"product_links": [],
+				"tier_prices": [],
+				"custom_attributes": []
+			}
+		],
+		"categories": [
+			{
+				"id": 3169,
+				"parent_id": 2,
+				"name": "North Texas Plastic Surgery Specials",
+				"is_active": true,
+				"position": 512,
+				"level": 2,
+				"children": "",
+				"created_at": "2020-04-15 12:53:18",
+				"updated_at": "2021-05-06 07:56:05",
+				"path": "1/2/3169",
+				"available_sort_by": [],
+				"include_in_menu": false,
+				"custom_attributes": [],
+				"nameWithPath": "North Texas Plastic Surgery Specials"
+			},
+			{
+				"id": 1609,
+				"parent_id": 64,
+				"name": "Alastin Skincare",
+				"is_active": true,
+				"position": 17,
+				"level": 4,
+				"children": "",
+				"created_at": "2018-11-21 09:49:04",
+				"updated_at": "2021-03-01 06:17:52",
+				"path": "1/2/3/64/1609",
+				"available_sort_by": [],
+				"include_in_menu": true,
+				"custom_attributes": [],
+				"nameWithPath": "Shop By Brand / Products by / Alastin Skincare"
+			},
+			{
+				"id": 4,
+				"parent_id": 2,
+				"name": "Products",
+				"is_active": true,
+				"position": 18,
+				"level": 2,
+				"children": "106,185,212,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,69,70,73",
+				"created_at": "2018-11-21 09:25:08",
+				"updated_at": "2021-04-02 14:49:10",
+				"path": "1/2/4",
+				"available_sort_by": [],
+				"include_in_menu": true,
+				"custom_attributes": [],
+				"nameWithPath": "Products"
+			}
+		],
+		"optionsAdvancedPrices": [],
+		"_id": "60ad894cace68f003bd47765",
+		"typeCode": "SC-1A",
+		"environment": "https://acaciaspa.dermpro.com",
+		"storeCode": "acaciaspa",
+		"storeName": "Acacia Spa Store View",
+		"store": {
+			"id": 211,
+			"code": "acaciaspa",
+			"name": "Acacia Spa Store View",
+			"website_id": 211,
+			"store_group_id": 211
+		},
+		"promoName": "June 2021 - SC-1A - 10% OFF ALASTIN Skincare® HydraTint Pro Mineral Broad Spectrum Sunscreen SPF 36 ",
+		"categoryForAssign": {
+			"id": 3169,
+			"parent_id": 2,
+			"name": "North Texas Plastic Surgery Specials",
+			"is_active": true,
+			"position": 512,
+			"level": 2,
+			"children": "",
+			"created_at": "2020-04-15 12:53:18",
+			"updated_at": "2021-05-06 07:56:05",
+			"path": "1/2/3169",
+			"available_sort_by": [],
+			"include_in_menu": false,
+			"custom_attributes": [],
+			"nameWithPath": "North Texas Plastic Surgery Specials"
+		},
+		"enableSalesIcon": true,
+		"promoDescription": "**Product of the month**  \n10% OFF ALASTIN Skincare® HydraTint Pro Mineral Broad Spectrum Sunscreen SPF 36  \n**Add to cart and discount will apply.*",
+		"categoryDescription": "**Product of the month**  \n10% OFF ALASTIN Skincare® HydraTint Pro Mineral Broad Spectrum Sunscreen SPF 36  \n**Add to cart and discount will apply.*",
+		"startDate": "06/01/2021",
+		"endDate": "06/30/2021",
+		"autoSaveInLibrary": true,
+		"salesRules": [
+			{
+				"_id": "60ad894cace68f003bd47766",
+				"discountType": "by_percent",
+				"ruleConditions": {
+					"aggregator": {
+						"type": "all",
+						"value": "1"
+					},
+					"conditions": []
+				},
+				"ruleActions": {
+					"aggregator": {
+						"type": "all",
+						"value": "1"
+					},
+					"conditions": [
+						{
+							"type": "sku",
+							"operator": "==",
+							"data": {
+								"id": 8773,
+								"sku": "SKUPROD20372",
+								"name": "ALASTIN Skincare® HydraTint Pro Mineral Broad Spectrum Sunscreen SPF 36",
+								"attribute_set_id": 13,
+								"price": 55,
+								"status": 1,
+								"visibility": 4,
+								"type_id": "simple",
+								"created_at": "2017-02-27 15:33:48",
+								"updated_at": "2021-05-06 06:13:26",
+								"weight": 0.1625,
+								"product_links": [],
+								"tier_prices": [],
+								"custom_attributes": []
+							}
+						}
+					]
+				},
+				"ruleName": "10% OFF ALASTIN Skincare® HydraTint Pro Mineral Broad Spectrum Sunscreen SPF 36",
+				"ruleDescription": "10% OFF ALASTIN Skincare® HydraTint Pro Mineral Broad Spectrum Sunscreen SPF 36 ",
+				"CustomerGroups": [
+					{
+						"id": 0,
+						"code": "NOT LOGGED IN",
+						"tax_class_id": 3,
+						"tax_class_name": "Retail Customer"
+					},
+					{
+						"id": 1,
+						"code": "General",
+						"tax_class_id": 3,
+						"tax_class_name": "Retail Customer"
+					},
+					{
+						"id": 134,
+						"code": "North Texas Derm Customers",
+						"tax_class_id": 3,
+						"tax_class_name": "Retail Customer",
+						"extension_attributes": {
+							"customer_group_store_code": "72"
+						}
+					}
+				],
+				"discountAmount": 10,
+				"minQtyForDiscount": 1,
+				"rulePriority": 5,
+				"label": "10% OFF",
+				"freeShipping": false,
+				"discardSubsequentRules": true
+			}
+		],
+		"strikethroughs": [],
+		"optionsData": [],
+		"status": "Started",
+		"createdAt": "2021-05-25T23:33:32.372Z",
+		"updatedAt": "2021-05-25T23:33:32.372Z",
+		"__v": 2,
+		"inLibrary": true,
+		"libraryId": "60ad894cace68f003bd47765"
+	},
+	{
+		"publishedData": {
+			"salesRuleIds": [
+				1019
+			],
+			"salesCouponIds": [],
+			"optionAdwancedPriceIds": [],
+			"env": "https://acaciaspa.dermpro.com",
+			"storeCode": "acaciaspa",
+			"cmsBlockId": 752,
+			"bannerRuleId": 343,
+			"homepageBannerId": 1552
+		},
+		"slider": {
+			"sliderGroups": [
+				{
+					"group_id": "328",
+					"title": "thedermgrouppartners slider",
+					"identifier": "thedermgrouppartners",
+					"is_active": "1",
+					"group_position": "content_top",
+					"width": "0",
+					"group_smoothheight": "1",
+					"group_sort_order": "1",
+					"thumbnail_size": "200",
+					"group_type": "basic",
+					"group_random_slides": "0",
+					"theme": "1",
+					"slider_size": "D(1660x500)",
+					"custom_theme": null,
+					"group_startdate": null,
+					"group_enddate": null,
+					"group_loggedin": "0",
+					"group_animation": "slide",
+					"group_animation_direction": "horizontal",
+					"group_animation_duration": "600",
+					"group_animation_reverse": "0",
+					"group_animation_easing": "jswing",
+					"group_autoslide": "1",
+					"group_autoloop": "1",
+					"group_pauseonaction": "0",
+					"group_pauseonhover": "1",
+					"group_slide_duration": "7000",
+					"nav_show": "no",
+					"nav_style": "type-1",
+					"nav_size": "",
+					"nav_position": "inside",
+					"nav_color": "#666666",
+					"pagination_show": "always",
+					"pagination_style": "circular",
+					"pagination_position": "below",
+					"pagination_color": "#ffffff",
+					"pagination_hover_color": "#cccccc",
+					"pagination_active_color": "#293f67",
+					"loader_show": "0",
+					"loader_position": "top",
+					"loader_color": "#eeeeee",
+					"loader_bgcolor": "#222222",
+					"caption_textcolor": "#ffffff",
+					"caption_bgcolor": "rgba(34, 34, 34, 0.8)",
+					"overlay_position": "right",
+					"overlay_textcolor": "#ffffff",
+					"overlay_bgcolor": "rgba(34, 34, 34, 0.8)",
+					"overlay_hovercolor": "rgba(102, 102, 102, 0.8)",
+					"carousel_minitems": "3",
+					"carousel_maxitems": "5",
+					"carousel_move": "0",
+					"_first_store_id": "191",
+					"store_code": "thedermgrouppartners",
+					"store_id": [
+						"191"
+					]
+				}
+			],
+			"bannerImageInfo": {
+				"fieldname": "file",
+				"originalname": "thedermatologygroup-alastin.jpeg",
+				"encoding": "7bit",
+				"mimetype": "image/jpeg",
+				"destination": "/var/www/public/images/",
+				"filename": "homepage-banner-1622552767017.jpeg",
+				"path": "/var/www/public/images/homepage-banner-1622552767017.jpeg",
+				"size": 68060,
+				"imageS3": "https://dermpro-promotool-data.s3.amazonaws.com/homepage-banner-1622552767017.jpeg"
+			},
+			"bannerImageOrder": 2,
+			"bannerImageAltText": "Purchase Both Alastin Skincare® Restorative Neck Complex ($110) and Alastin Skincare® TransForm Body Treatment ($195) and Receive a FREE Alastin Skincare® HydraTint ($55)",
+			"bannerImageOnClickUrl": "https://store.thedermgrouppartners.com/alastin-skin-care-package-the-dermatology-group-promo2021.html",
+			"openInNewWindow": false,
+			"captionHtml": "",
+			"captionPosition": "bottom-right",
+			"captionAnimation": false
+		},
+		"labelsEvents": [],
+		"labelsGenerals": [],
+		"labelsManufactures": [],
+		"skus": [
+			{
+				"id": 10584,
+				"sku": "SKUPROD21096",
+				"name": "Alastin Restorative Neck Complex",
+				"attribute_set_id": 13,
+				"price": 110,
+				"status": 1,
+				"visibility": 4,
+				"type_id": "simple",
+				"created_at": "2017-11-22 00:43:33",
+				"updated_at": "2021-03-04 20:50:30",
+				"weight": 1.7,
+				"product_links": [],
+				"tier_prices": [],
+				"custom_attributes": []
+			},
+			{
+				"id": 12917,
+				"sku": "SKUPROD300141",
+				"name": "Alastin TransFORM body Treatment",
+				"attribute_set_id": 13,
+				"price": 195,
+				"status": 1,
+				"visibility": 4,
+				"type_id": "simple",
+				"created_at": "2018-09-12 12:56:38",
+				"updated_at": "2021-03-04 21:43:08",
+				"weight": 0.37,
+				"product_links": [],
+				"tier_prices": [],
+				"custom_attributes": []
+			}
+		],
+		"categories": [
+			{
+				"id": 3368,
+				"parent_id": 2,
+				"name": "The Dermatology Group This Month's Specials",
+				"is_active": true,
+				"position": 579,
+				"level": 2,
+				"children": "",
+				"created_at": "2020-12-10 19:51:21",
+				"updated_at": "2021-05-03 06:16:10",
+				"path": "1/2/3368",
+				"available_sort_by": [],
+				"include_in_menu": false,
+				"custom_attributes": [],
+				"nameWithPath": "The Dermatology Group This Month's Specials"
+			},
+			{
+				"id": 4,
+				"parent_id": 2,
+				"name": "Products",
+				"is_active": true,
+				"position": 18,
+				"level": 2,
+				"children": "106,145,181,185,212,40,41,42,43,44,45,47,48,49,50,51,52,53,54,70,72,93",
+				"created_at": "2018-11-21 09:25:08",
+				"updated_at": "2021-05-03 06:16:14",
+				"path": "1/2/4",
+				"available_sort_by": [],
+				"include_in_menu": true,
+				"custom_attributes": [],
+				"nameWithPath": "Products"
+			},
+			{
+				"id": 1609,
+				"parent_id": 64,
+				"name": "Alastin Skincare",
+				"is_active": true,
+				"position": 17,
+				"level": 4,
+				"children": "",
+				"created_at": "2018-11-21 09:49:04",
+				"updated_at": "2021-04-01 10:20:04",
+				"path": "1/2/3/64/1609",
+				"available_sort_by": [],
+				"include_in_menu": true,
+				"custom_attributes": [],
+				"nameWithPath": "Shop By Brand / Products by / Alastin Skincare"
+			}
+		],
+		"optionsAdvancedPrices": [],
+		"_id": "60ae21c3ace68f003bd477d9",
+		"typeCode": "SC-6A",
+		"environment": "https://acaciaspa.dermpro.com",
+		"storeCode": "acaciaspa",
+		"storeName": "Acacia Spa Store View",
+		"store": {
+			"id": 211,
+			"code": "acaciaspa",
+			"name": "Acacia Spa Store View",
+			"website_id": 211,
+			"store_group_id": 211
+		},
+		"promoName": "June 2021 - Sc 6A - Purchase Both Alastin Skincare® Restorative Neck Complex ($110) and Alastin Skincare® TransForm Body Treatment ($195) and Receive a FREE Alastin Skincare® HydraTint ($55)",
+		"categoryForAssign": {
+			"id": 3368,
+			"parent_id": 2,
+			"name": "The Dermatology Group This Month's Specials",
+			"is_active": true,
+			"position": 579,
+			"level": 2,
+			"children": "",
+			"created_at": "2020-12-10 19:51:21",
+			"updated_at": "2021-05-03 06:16:10",
+			"path": "1/2/3368",
+			"available_sort_by": [],
+			"include_in_menu": false,
+			"custom_attributes": [],
+			"nameWithPath": "The Dermatology Group This Month's Specials"
+		},
+		"enableSalesIcon": true,
+		"promoDescription": "**Purchase Both Alastin Skincare® Restorative Neck Complex ($110) and Alastin Skincare® TransForm Body Treatment ($195)  \nand Receive a FREE Alastin Skincare® HydraTint ($55)**  \n**While supplies last. Add both to cart and you'll be prompted to add the free product upon checkout.*",
+		"categoryDescription": "**Purchase Both Alastin Skincare® Restorative Neck Complex ($110) and Alastin Skincare® TransForm Body Treatment ($195)  \nand Receive a FREE Alastin Skincare® HydraTint ($55)**  \n**While supplies last. Add both to cart and you'll be prompted to add the free product upon checkout.*",
+		"startDate": "06/01/2021",
+		"endDate": "06/30/2021",
+		"autoSaveInLibrary": true,
+		"salesRules": [
+			{
+				"_id": "60ae21c3ace68f003bd477da",
+				"discountType": "buyxgetn_perc",
+				"ruleConditions": {
+					"aggregator": {
+						"type": "all",
+						"value": "1"
+					},
+					"conditions": [
+						{
+							"type": "qty",
+							"operator": ">=",
+							"data": "1",
+							"subConditions": [
+								{
+									"type": "sku",
+									"operator": "()",
+									"data": [
+										{
+											"id": 10584,
+											"sku": "SKUPROD21096",
+											"name": "Alastin Restorative Neck Complex",
+											"attribute_set_id": 13,
+											"price": 110,
+											"status": 1,
+											"visibility": 4,
+											"type_id": "simple",
+											"created_at": "2017-11-22 00:43:33",
+											"updated_at": "2021-03-04 20:50:30",
+											"weight": 1.7,
+											"product_links": [],
+											"tier_prices": [],
+											"custom_attributes": []
+										},
+										{
+											"id": 12917,
+											"sku": "SKUPROD300141",
+											"name": "Alastin TransFORM body Treatment",
+											"attribute_set_id": 13,
+											"price": 195,
+											"status": 1,
+											"visibility": 4,
+											"type_id": "simple",
+											"created_at": "2018-09-12 12:56:38",
+											"updated_at": "2021-03-04 21:43:08",
+											"weight": 0.37,
+											"product_links": [],
+											"tier_prices": [],
+											"custom_attributes": []
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				"ruleActions": {
+					"aggregator": {
+						"type": "all",
+						"value": "1"
+					},
+					"conditions": [
+						{
+							"type": "sku",
+							"operator": "()",
+							"data": [
+								{
+									"id": 12917,
+									"sku": "SKUPROD300141",
+									"name": "Alastin TransFORM body Treatment",
+									"attribute_set_id": 13,
+									"price": 195,
+									"status": 1,
+									"visibility": 4,
+									"type_id": "simple",
+									"created_at": "2018-09-12 12:56:38",
+									"updated_at": "2021-03-04 21:43:08",
+									"weight": 0.37,
+									"product_links": [],
+									"tier_prices": [],
+									"custom_attributes": []
+								},
+								{
+									"id": 10584,
+									"sku": "SKUPROD21096",
+									"name": "Alastin Restorative Neck Complex",
+									"attribute_set_id": 13,
+									"price": 110,
+									"status": 1,
+									"visibility": 4,
+									"type_id": "simple",
+									"created_at": "2017-11-22 00:43:33",
+									"updated_at": "2021-03-04 20:50:30",
+									"weight": 1.7,
+									"product_links": [],
+									"tier_prices": [],
+									"custom_attributes": []
+								}
+							]
+						}
+					]
+				},
+				"ruleName": "Purchase Both Alastin Skincare® Restorative Neck Complex ($110) and Alastin Skincare® TransForm Body Treatment ($195)   and Receive a FREE Alastin Skincare® HydraTint ($55)",
+				"ruleDescription": "Purchase Both Alastin Skincare® Restorative Neck Complex ($110) and Alastin Skincare® TransForm Body Treatment ($195)   and Receive a FREE Alastin Skincare® HydraTint ($55)",
+				"CustomerGroups": [
+					{
+						"id": 0,
+						"code": "NOT LOGGED IN",
+						"tax_class_id": 3,
+						"tax_class_name": "Retail Customer"
+					},
+					{
+						"id": 1,
+						"code": "General",
+						"tax_class_id": 3,
+						"tax_class_name": "Retail Customer"
+					},
+					{
+						"id": 191,
+						"code": "Dermatology Group Customer",
+						"tax_class_id": 3,
+						"tax_class_name": "Retail Customer",
+						"extension_attributes": {
+							"customer_group_store_code": "191"
+						}
+					}
+				],
+				"discountAmount": 100,
+				"minQtyForDiscount": 1,
+				"nQtyY": 1,
+				"discardSubsequentRules": true,
+				"label": "Special Offer!",
+				"freeShipping": false,
+				"getYSKUS": [
+					{
+						"id": 8773,
+						"sku": "SKUPROD20372",
+						"name": "Alastin  Hydratint SPF36 Sunscreen",
+						"attribute_set_id": 13,
+						"price": 55,
+						"status": 1,
+						"visibility": 4,
+						"type_id": "simple",
+						"created_at": "2017-02-27 15:33:48",
+						"updated_at": "2021-05-01 06:03:18",
+						"weight": 0.1625,
+						"product_links": [],
+						"tier_prices": [],
+						"custom_attributes": []
+					}
+				],
+				"rulePriority": 5
+			}
+		],
+		"strikethroughs": [],
+		"optionsData": [],
+		"status": "Started",
+		"createdAt": "2021-05-26T10:24:03.112Z",
+		"updatedAt": "2021-05-26T10:24:03.112Z",
+		"__v": 6,
+		"cmsBlock": {
+			"bannerRuleConditions": {
+				"aggregator": {
+					"type": "all",
+					"value": "1"
+				},
+				"conditions": [
+					{
+						"type": "qty",
+						"operator": ">=",
+						"data": "1",
+						"subConditions": [
+							{
+								"type": "sku",
+								"operator": "()",
+								"data": [
+									{
+										"id": 10584,
+										"sku": "SKUPROD21096",
+										"name": "Alastin Restorative Neck Complex",
+										"attribute_set_id": 13,
+										"price": 110,
+										"status": 1,
+										"visibility": 4,
+										"type_id": "simple",
+										"created_at": "2017-11-22 00:43:33",
+										"updated_at": "2021-03-04 20:50:30",
+										"weight": 1.7,
+										"product_links": [],
+										"tier_prices": [],
+										"custom_attributes": []
+									},
+									{
+										"id": 12917,
+										"sku": "SKUPROD300141",
+										"name": "Alastin TransFORM body Treatment",
+										"attribute_set_id": 13,
+										"price": 195,
+										"status": 1,
+										"visibility": 4,
+										"type_id": "simple",
+										"created_at": "2018-09-12 12:56:38",
+										"updated_at": "2021-03-04 21:43:08",
+										"weight": 0.37,
+										"product_links": [],
+										"tier_prices": [],
+										"custom_attributes": []
+									}
+								]
+							}
+						]
+					},
+					{
+						"type": "qty",
+						"operator": "<",
+						"data": "1",
+						"subConditions": [
+							{
+								"type": "sku",
+								"operator": "==",
+								"data": {
+									"id": 8773,
+									"sku": "SKUPROD20372",
+									"name": "Alastin  Hydratint SPF36 Sunscreen",
+									"attribute_set_id": 13,
+									"price": 55,
+									"status": 1,
+									"visibility": 4,
+									"type_id": "simple",
+									"created_at": "2017-02-27 15:33:48",
+									"updated_at": "2021-05-01 06:03:18",
+									"weight": 0.1625,
+									"product_links": [],
+									"tier_prices": [],
+									"custom_attributes": []
+								}
+							}
+						]
+					}
+				]
+			},
+			"title": "june2021_dermgroup_alastin",
+			"content": "###  Purchase Both Alastin Skincare® Restorative Neck Complex ($110) and Alastin Skincare® TransForm Body Treatment ($195)  \nand Receive a FREE Alastin Skincare® HydraTint ($55)  ###\nClick [HERE](https://store.thedermgrouppartners.com/alastin-skincare-hydratint-pro-mineral-broad-spectrum-sunscreen-spf-36.html) to add the free product. \n**While supplies last. Add both to cart and discount will apply.*\n\n\n\n\n",
+			"identifier": "june2021_dermgroup_alastin"
+		},
+		"inLibrary": true,
+		"libraryId": "60ae21c3ace68f003bd477d9"
+	},
+	{
+		"publishedData": {
+			"salesRuleIds": [],
+			"salesCouponIds": [],
+			"optionAdwancedPriceIds": [],
+			"env": "https://acaciaspa.dermpro.com",
+			"storeCode": "acaciaspa",
+			"cmsBlockId": null,
+			"bannerRuleId": null,
+			"homepageBannerId": 1085
+		},
+		"slider": {
+			"sliderGroups": [
+				{
+					"group_id": "300",
+					"title": "culturamed slider",
+					"identifier": "cultura",
+					"is_active": "1",
+					"group_position": "content_top",
+					"width": "0",
+					"group_smoothheight": "1",
+					"group_sort_order": "1",
+					"thumbnail_size": "200",
+					"group_type": "basic",
+					"group_random_slides": "0",
+					"theme": "1",
+					"slider_size": "D(1660x500)",
+					"custom_theme": null,
+					"group_startdate": null,
+					"group_enddate": null,
+					"group_loggedin": "0",
+					"group_animation": "slide",
+					"group_animation_direction": "horizontal",
+					"group_animation_duration": "600",
+					"group_animation_reverse": "0",
+					"group_animation_easing": "jswing",
+					"group_autoslide": "1",
+					"group_autoloop": "1",
+					"group_pauseonaction": "0",
+					"group_pauseonhover": "1",
+					"group_slide_duration": "7000",
+					"nav_show": "hover",
+					"nav_style": "type-1",
+					"nav_size": "normal",
+					"nav_position": "inside",
+					"nav_color": "#666666",
+					"pagination_show": "always",
+					"pagination_style": "circular",
+					"pagination_position": "below",
+					"pagination_color": "#ffffff",
+					"pagination_hover_color": "#cccccc",
+					"pagination_active_color": "#293f67",
+					"loader_show": "0",
+					"loader_position": "top",
+					"loader_color": "#eeeeee",
+					"loader_bgcolor": "#222222",
+					"caption_textcolor": "#ffffff",
+					"caption_bgcolor": "rgba(34, 34, 34, 0.8)",
+					"overlay_position": "right",
+					"overlay_textcolor": "#ffffff",
+					"overlay_bgcolor": "rgba(34, 34, 34, 0.8)",
+					"overlay_hovercolor": "rgba(102, 102, 102, 0.8)",
+					"carousel_minitems": "3",
+					"carousel_maxitems": "5",
+					"carousel_move": "0",
+					"_first_store_id": "66",
+					"store_code": "culturamed",
+					"store_id": [
+						"66"
+					]
+				}
+			],
+			"bannerImageInfo": {
+				"fieldname": "file",
+				"originalname": "cultura-june-banner2.jpg",
+				"encoding": "7bit",
+				"mimetype": "image/jpeg",
+				"destination": "/var/www/public/images/",
+				"filename": "homepage-banner-1622538529346.jpeg",
+				"path": "/var/www/public/images/homepage-banner-1622538529346.jpeg",
+				"size": 375408,
+				"imageS3": "https://dermpro-promotool-data.s3.amazonaws.com/homepage-banner-1622538529346.jpeg"
+			},
+			"bannerImageOrder": 3,
+			"bannerImageAltText": "Purchase Kybella® for $600 (Reg. $650)",
+			"bannerImageOnClickUrl": "Tel:+12024104331",
+			"openInNewWindow": false,
+			"captionHtml": "",
+			"captionPosition": "bottom-right",
+			"captionAnimation": false
+		},
+		"labelsEvents": [],
+		"labelsGenerals": [],
+		"labelsManufactures": [],
+		"skus": [
+			{
+				"id": 4808,
+				"sku": "SKUTREAT6263",
+				"name": "Kybella® Washington DC",
+				"attribute_set_id": 15,
+				"price": 650,
+				"status": 1,
+				"visibility": 4,
+				"type_id": "virtual",
+				"created_at": "2016-01-19 12:33:32",
+				"updated_at": "2020-10-08 14:01:09",
+				"product_links": [],
+				"tier_prices": [],
+				"custom_attributes": []
+			}
+		],
+		"categories": [
+			{
+				"id": 3304,
+				"parent_id": 2,
+				"name": "Cultura Specials",
+				"is_active": true,
+				"position": 880,
+				"level": 2,
+				"children": "",
+				"created_at": "2020-08-12 13:52:36",
+				"updated_at": "2021-05-06 18:21:05",
+				"path": "1/2/3304",
+				"available_sort_by": [],
+				"include_in_menu": false,
+				"custom_attributes": [],
+				"nameWithPath": "Cultura Specials"
+			}
+		],
+		"optionsAdvancedPrices": [],
+		"_id": "60aed593ace68f003bd4788f",
+		"typeCode": "PR",
+		"environment": "https://acaciaspa.dermpro.com",
+		"storeCode": "acaciaspa",
+		"storeName": "Acacia Spa Store View",
+		"store": {
+			"id": 211,
+			"code": "acaciaspa",
+			"name": "Acacia Spa Store View",
+			"website_id": 211,
+			"store_group_id": 211
+		},
+		"promoName": "June 2021 - PR - Purchase Kybella® for $600 (Reg. $650)",
+		"categoryForAssign": {
+			"id": 3304,
+			"parent_id": 2,
+			"name": "Cultura Specials",
+			"is_active": true,
+			"position": 880,
+			"level": 2,
+			"children": "",
+			"created_at": "2020-08-12 13:52:36",
+			"updated_at": "2021-05-06 18:21:05",
+			"path": "1/2/3304",
+			"available_sort_by": [],
+			"include_in_menu": false,
+			"custom_attributes": [],
+			"nameWithPath": "Cultura Specials"
+		},
+		"promoDescription": "**Goodbye Double Chin**  \nPurchase Kybella® for $600 (Reg. $650)  \nCall [(202) 410-4331](Tel:+12024104331) To Learn More",
+		"categoryDescription": "**Goodbye Double Chin**  \nPurchase Kybella® for $600 (Reg. $650)  \nCall [(202) 410-4331](Tel:+12024104331) To Learn More",
+		"startDate": "06/01/2021",
+		"endDate": "06/30/2021",
+		"autoSaveInLibrary": true,
+		"salesRules": [],
+		"strikethroughs": [],
+		"optionsData": [],
+		"status": "Started",
+		"createdAt": "2021-05-26T23:11:15.167Z",
+		"updatedAt": "2021-05-26T23:11:15.167Z",
+		"__v": 1,
+		"inLibrary": true,
+		"libraryId": "60aed593ace68f003bd4788f"
+	},
+	{
+		"publishedData": {
+			"salesRuleIds": [
+				1100
+			],
+			"salesCouponIds": [],
+			"optionAdwancedPriceIds": [],
+			"env": "https://acaciaspa.dermpro.com",
+			"storeCode": "acaciaspa",
+			"cmsBlockId": null,
+			"bannerRuleId": null,
+			"homepageBannerId": 1577
+		},
+		"slider": {
+			"sliderGroups": [
+				{
+					"group_id": "326",
+					"title": "antiageinstitute slider",
+					"identifier": "antiageinstitute",
+					"is_active": "1",
+					"group_position": "content_top",
+					"width": null,
+					"group_smoothheight": "1",
+					"group_sort_order": "1",
+					"thumbnail_size": "200",
+					"group_type": "basic",
+					"group_random_slides": "0",
+					"theme": "16",
+					"slider_size": "D(1660x500)",
+					"custom_theme": null,
+					"group_startdate": null,
+					"group_enddate": null,
+					"group_loggedin": "0",
+					"group_animation": "slide",
+					"group_animation_direction": "horizontal",
+					"group_animation_duration": "600",
+					"group_animation_reverse": "0",
+					"group_animation_easing": "swing",
+					"group_autoslide": "1",
+					"group_autoloop": "1",
+					"group_pauseonaction": "0",
+					"group_pauseonhover": "1",
+					"group_slide_duration": "7000",
+					"nav_show": "hover",
+					"nav_style": "type-1",
+					"nav_size": "",
+					"nav_position": "inside",
+					"nav_color": "#666666",
+					"pagination_show": "always",
+					"pagination_style": "circular",
+					"pagination_position": "below",
+					"pagination_color": "#ffffff",
+					"pagination_hover_color": "#cccccc",
+					"pagination_active_color": "#293f67",
+					"loader_show": "0",
+					"loader_position": "top",
+					"loader_color": "#eeeeee",
+					"loader_bgcolor": "#222222",
+					"caption_textcolor": "#ffffff",
+					"caption_bgcolor": "rgba(34, 34, 34, 0.8)",
+					"overlay_position": "right",
+					"overlay_textcolor": "#ffffff",
+					"overlay_bgcolor": "rgba(34, 34, 34, 0.8)",
+					"overlay_hovercolor": "rgba(102, 102, 102, 0.8)",
+					"carousel_minitems": "3",
+					"carousel_maxitems": "5",
+					"carousel_move": "0",
+					"_first_store_id": "184",
+					"store_code": "antiageinstitute",
+					"store_id": [
+						"184"
+					]
+				}
+			],
+			"bannerImageInfo": {
+				"fieldname": "file",
+				"originalname": "antiaging-botox.jpeg",
+				"encoding": "7bit",
+				"mimetype": "image/jpeg",
+				"destination": "/var/www/public/images/",
+				"filename": "homepage-banner-1622147652534.jpeg",
+				"path": "/var/www/public/images/homepage-banner-1622147652534.jpeg",
+				"size": 70877,
+				"imageS3": "https://dermpro-promotool-data.s3.amazonaws.com/homepage-banner-1622147652534.jpeg"
+			},
+			"bannerImageOrder": 3,
+			"bannerImageAltText": "BOTOX® for $12.50 per Unit (Reg. $14 per Unit)",
+			"bannerImageOnClickUrl": "https://store.antiageinstitute.com/botox-by-the-unit.html",
+			"openInNewWindow": false,
+			"captionHtml": "",
+			"captionPosition": "bottom-right",
+			"captionAnimation": false
+		},
+		"labelsEvents": [],
+		"labelsGenerals": [],
+		"labelsManufactures": [],
+		"skus": [
+			{
+				"id": 1160,
+				"sku": "SKUTREAT1072",
+				"name": "BOTOX® by the Unit",
+				"attribute_set_id": 15,
+				"price": 14,
+				"status": 1,
+				"visibility": 4,
+				"type_id": "virtual",
+				"created_at": "2016-01-19 12:30:14",
+				"updated_at": "2021-05-03 06:15:53",
+				"product_links": [],
+				"tier_prices": [],
+				"custom_attributes": []
+			}
+		],
+		"categories": [
+			{
+				"id": 3362,
+				"parent_id": 2,
+				"name": "Institute of Anti-Aging Medicine and Skin Spa This Month's Specials",
+				"is_active": true,
+				"position": 573,
+				"level": 2,
+				"children": "",
+				"created_at": "2020-11-09 23:50:14",
+				"updated_at": "2021-05-03 09:07:23",
+				"path": "1/2/3362",
+				"available_sort_by": [],
+				"include_in_menu": false,
+				"custom_attributes": [],
+				"nameWithPath": "Institute of Anti-Aging Medicine and Skin Spa This Month's Specials"
+			},
+			{
+				"id": 277,
+				"parent_id": 65,
+				"name": "Botox Cosmetic",
+				"is_active": true,
+				"position": 44,
+				"level": 4,
+				"children": "",
+				"created_at": "2018-11-21 09:27:20",
+				"updated_at": "2021-05-03 06:01:12",
+				"path": "1/2/3/65/277",
+				"available_sort_by": [],
+				"include_in_menu": true,
+				"custom_attributes": [],
+				"nameWithPath": "Shop By Brand / Aesthetic Treatments By / Botox Cosmetic"
+			}
+		],
+		"optionsAdvancedPrices": [],
+		"_id": "60b0031face68f003bd4794e",
+		"typeCode": "SC-2A",
+		"environment": "https://acaciaspa.dermpro.com",
+		"storeCode": "acaciaspa",
+		"storeName": "Acacia Spa Store View",
+		"store": {
+			"id": 211,
+			"code": "acaciaspa",
+			"name": "Acacia Spa Store View",
+			"website_id": 211,
+			"store_group_id": 211
+		},
+		"promoName": "June 2021 - SC 2A - BOTOX® for $12.50 per Unit (Reg. $14 per Unit)",
+		"categoryForAssign": {
+			"id": 3362,
+			"parent_id": 2,
+			"name": "Institute of Anti-Aging Medicine and Skin Spa This Month's Specials",
+			"is_active": true,
+			"position": 573,
+			"level": 2,
+			"children": "",
+			"created_at": "2020-11-09 23:50:14",
+			"updated_at": "2021-05-03 09:07:23",
+			"path": "1/2/3362",
+			"available_sort_by": [],
+			"include_in_menu": false,
+			"custom_attributes": [],
+			"nameWithPath": "Institute of Anti-Aging Medicine and Skin Spa This Month's Specials"
+		},
+		"enableSalesIcon": true,
+		"promoDescription": "**BOTOX® for $12.50 per Unit (Reg. $14 per Unit)**  \n**Add to cart and discount will apply.*",
+		"categoryDescription": "**BOTOX® for $12.50 per Unit (Reg. $14 per Unit)**  \n**Add to cart and discount will apply.*",
+		"startDate": "06/01/2021",
+		"endDate": "06/30/2021",
+		"autoSaveInLibrary": true,
+		"salesRules": [
+			{
+				"_id": "60b0031face68f003bd4794f",
+				"discountType": "by_fixed",
+				"ruleConditions": {
+					"aggregator": {
+						"type": "all",
+						"value": "1"
+					},
+					"conditions": []
+				},
+				"ruleActions": {
+					"aggregator": {
+						"type": "all",
+						"value": "1"
+					},
+					"conditions": [
+						{
+							"type": "sku",
+							"operator": "==",
+							"data": {
+								"id": 1160,
+								"sku": "SKUTREAT1072",
+								"name": "BOTOX® by the Unit",
+								"attribute_set_id": 15,
+								"price": 14,
+								"status": 1,
+								"visibility": 4,
+								"type_id": "virtual",
+								"created_at": "2016-01-19 12:30:14",
+								"updated_at": "2021-05-03 06:15:53",
+								"product_links": [],
+								"tier_prices": [],
+								"custom_attributes": []
+							}
+						}
+					]
+				},
+				"ruleName": "BOTOX® for $12.50 per Unit (Reg. $14 per Unit)",
+				"ruleDescription": "BOTOX® for $12.50 per Unit (Reg. $14 per Unit)",
+				"CustomerGroups": [
+					{
+						"id": 0,
+						"code": "NOT LOGGED IN",
+						"tax_class_id": 3,
+						"tax_class_name": "Retail Customer"
+					},
+					{
+						"id": 1,
+						"code": "General",
+						"tax_class_id": 3,
+						"tax_class_name": "Retail Customer"
+					},
+					{
+						"id": 188,
+						"code": "Anti-Aging Customer",
+						"tax_class_id": 3,
+						"tax_class_name": "Retail Customer",
+						"extension_attributes": {
+							"customer_group_store_code": "184"
+						}
+					},
+					{
+						"id": 189,
+						"code": "Anti-Aging Membership",
+						"tax_class_id": 3,
+						"tax_class_name": "Retail Customer",
+						"extension_attributes": {
+							"customer_group_store_code": "184"
+						}
+					}
+				],
+				"discountAmount": 1.5,
+				"minQtyForDiscount": 1,
+				"discardSubsequentRules": true,
+				"rulePriority": 5,
+				"label": "Special Offer!",
+				"freeShipping": false
+			}
+		],
+		"strikethroughs": [],
+		"optionsData": [],
+		"status": "Started",
+		"createdAt": "2021-05-27T20:37:51.695Z",
+		"updatedAt": "2021-05-27T20:37:51.695Z",
+		"__v": 2,
+		"inLibrary": true,
+		"libraryId": "60b0031face68f003bd4794e"
+	}
+]

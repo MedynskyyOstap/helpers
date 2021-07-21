@@ -1,0 +1,4162 @@
+[
+    {
+        "promoID": "5fbe7febc63877003b81aa06",
+        "promoName": "12Days Arviv Dec9",
+        "salesRules": [
+            {
+                "_id": "5fbe7febc63877003b81aa07",
+                "discountType": "by_percent",
+                "ruleConditions": {
+                    "aggregator": {
+                        "type": "all",
+                        "value": "1"
+                    },
+                    "conditions": []
+                },
+                "ruleActions": {
+                    "aggregator": {
+                        "type": "all",
+                        "value": "1"
+                    },
+                    "conditions": [
+                        {
+                            "type": "sku",
+                            "operator": "==",
+                            "data": {
+                                "id": 18359,
+                                "sku": "SKUTREAT0246",
+                                "name": "Ultherapy",
+                                "attribute_set_id": 15,
+                                "price": 1000,
+                                "status": 1,
+                                "visibility": 4,
+                                "type_id": "virtual",
+                                "created_at": "2020-04-07 06:01:08",
+                                "updated_at": "2020-04-07 14:02:16",
+                                "product_links": [],
+                                "tier_prices": [],
+                                "custom_attributes": []
+                            }
+                        }
+                    ]
+                },
+                "ruleName": "Dec 9, 2020 Only 30% OFF All Ultherapy® Treatments",
+                "ruleDescription": "Dec 9, 2020 Only 30% OFF All Ultherapy® Treatments",
+                "CustomerGroups": [
+                    {
+                        "id": 0,
+                        "code": "NOT LOGGED IN",
+                        "tax_class_id": 3,
+                        "tax_class_name": "Retail Customer"
+                    },
+                    {
+                        "id": 1,
+                        "code": "General",
+                        "tax_class_id": 3,
+                        "tax_class_name": "Retail Customer"
+                    },
+                    {
+                        "id": 104,
+                        "code": "Arvivaesthetics Group",
+                        "tax_class_id": 3,
+                        "tax_class_name": "Retail Customer",
+                        "extension_attributes": {
+                            "customer_group_store_code": "60"
+                        }
+                    }
+                ],
+                "discountAmount": 30,
+                "minQtyForDiscount": 1,
+                "discardSubsequentRules": true,
+                "rulePriority": 5,
+                "label": "30% OFF",
+                "freeShipping": true
+            }
+        ],
+        "store": {
+            "id": 60,
+            "code": "arvivaesthetics",
+            "name": "Arviv Medical Aesthetics Store View",
+            "website_id": 60,
+            "store_group_id": 60
+        },
+        "typeCode": "SC-1A",
+        "labelsEvents": [],
+        "labelsGenerals": [],
+        "labelsManufactures": []
+    },
+    {
+        "promoID": "5fbe7e7ac63877003b81aa02",
+        "promoName": "12Days Arviv Dec8",
+        "salesRules": [
+            {
+                "_id": "5fbe7e7ac63877003b81aa03",
+                "discountType": "groupn",
+                "ruleConditions": {
+                    "aggregator": {
+                        "type": "all",
+                        "value": "1"
+                    },
+                    "conditions": []
+                },
+                "ruleActions": {
+                    "aggregator": {
+                        "type": "all",
+                        "value": "1"
+                    },
+                    "conditions": [
+                        {
+                            "type": "sku",
+                            "operator": "==",
+                            "data": {
+                                "id": 1160,
+                                "sku": "SKUTREAT1072",
+                                "name": "BOTOX® by the Unit",
+                                "attribute_set_id": 15,
+                                "price": 12.5,
+                                "status": 1,
+                                "visibility": 4,
+                                "type_id": "virtual",
+                                "created_at": "2016-01-19 12:30:14",
+                                "updated_at": "2020-11-09 20:18:12",
+                                "product_links": [],
+                                "tier_prices": [],
+                                "custom_attributes": []
+                            }
+                        }
+                    ]
+                },
+                "ruleName": "Dec 8, 2020 Only Purchase BOTOX® 100 Units for $900",
+                "ruleDescription": "Dec 8, 2020 Only Purchase BOTOX® 100 Units for $900",
+                "CustomerGroups": [
+                    {
+                        "id": 0,
+                        "code": "NOT LOGGED IN",
+                        "tax_class_id": 3,
+                        "tax_class_name": "Retail Customer"
+                    },
+                    {
+                        "id": 1,
+                        "code": "General",
+                        "tax_class_id": 3,
+                        "tax_class_name": "Retail Customer"
+                    },
+                    {
+                        "id": 104,
+                        "code": "Arvivaesthetics Group",
+                        "tax_class_id": 3,
+                        "tax_class_name": "Retail Customer",
+                        "extension_attributes": {
+                            "customer_group_store_code": "60"
+                        }
+                    }
+                ],
+                "discountAmount": 900,
+                "minQtyForDiscount": 100,
+                "discardSubsequentRules": true,
+                "rulePriority": 5,
+                "label": "Special Discount",
+                "freeShipping": false
+            }
+        ],
+        "store": {
+            "id": 60,
+            "code": "arvivaesthetics",
+            "name": "Arviv Medical Aesthetics Store View",
+            "website_id": 60,
+            "store_group_id": 60
+        },
+        "typeCode": "SC-16A",
+        "labelsEvents": [],
+        "labelsGenerals": [],
+        "labelsManufactures": []
+    },
+    {
+        "promoID": "5fbe7c25c63877003b81a9fe",
+        "promoName": "12Days Arviv Dec7",
+        "salesRules": [
+            {
+                "_id": "5fbe7c25c63877003b81a9ff",
+                "discountType": "by_percent",
+                "ruleConditions": {
+                    "aggregator": {
+                        "type": "all",
+                        "value": "1"
+                    },
+                    "conditions": []
+                },
+                "ruleActions": {
+                    "aggregator": {
+                        "type": "all",
+                        "value": "1"
+                    },
+                    "conditions": [
+                        {
+                            "type": "sku",
+                            "operator": "==",
+                            "data": {
+                                "id": 14690,
+                                "sku": "SKUTREAT10028157",
+                                "name": "Genius™ Intelligent RF Microneedling ",
+                                "attribute_set_id": 15,
+                                "price": 1000,
+                                "status": 1,
+                                "visibility": 4,
+                                "type_id": "virtual",
+                                "created_at": "2019-03-29 13:33:02",
+                                "updated_at": "2020-11-23 21:09:50",
+                                "product_links": [],
+                                "tier_prices": [],
+                                "custom_attributes": []
+                            }
+                        }
+                    ]
+                },
+                "ruleName": "Dec 7, 2020 Only 25% Genius™ Intelligent RF Microneedling",
+                "ruleDescription": "Dec 7, 2020 Only 25% Genius™ Intelligent RF Microneedling",
+                "CustomerGroups": [
+                    {
+                        "id": 0,
+                        "code": "NOT LOGGED IN",
+                        "tax_class_id": 3,
+                        "tax_class_name": "Retail Customer"
+                    },
+                    {
+                        "id": 1,
+                        "code": "General",
+                        "tax_class_id": 3,
+                        "tax_class_name": "Retail Customer"
+                    },
+                    {
+                        "id": 104,
+                        "code": "Arvivaesthetics Group",
+                        "tax_class_id": 3,
+                        "tax_class_name": "Retail Customer",
+                        "extension_attributes": {
+                            "customer_group_store_code": "60"
+                        }
+                    }
+                ],
+                "discountAmount": 25,
+                "minQtyForDiscount": 1,
+                "discardSubsequentRules": true,
+                "rulePriority": 5,
+                "label": "25% OFF",
+                "freeShipping": false
+            }
+        ],
+        "store": {
+            "id": 60,
+            "code": "arvivaesthetics",
+            "name": "Arviv Medical Aesthetics Store View",
+            "website_id": 60,
+            "store_group_id": 60
+        },
+        "typeCode": "SC-1A",
+        "labelsEvents": [],
+        "labelsGenerals": [],
+        "labelsManufactures": []
+    },
+    {
+        "promoID": "5fbe7a2bc63877003b81a9fb",
+        "promoName": "Hair Restoration Platelet-Rich Plasma  (2 areas) Package of 5 for $4500 Plus Receive 5 Votesse™ FREE ($500 value) (The Doc Spa)",
+        "salesRules": [],
+        "store": {
+            "id": 182,
+            "code": "thedocspa",
+            "name": "The Doc Spa Store View",
+            "website_id": 182,
+            "store_group_id": 182
+        },
+        "typeCode": "LTS-A",
+        "labelsEvents": [],
+        "labelsGenerals": [],
+        "labelsManufactures": []
+    },
+    {
+        "promoID": "5fbe75d0c63877003b81a9f4",
+        "promoName": "12 days dec16 alabama",
+        "salesRules": [
+            {
+                "_id": "5fbe75d0c63877003b81a9f5",
+                "discountType": "by_percent",
+                "ruleConditions": {
+                    "aggregator": {
+                        "type": "all",
+                        "value": "1"
+                    },
+                    "conditions": []
+                },
+                "ruleActions": {
+                    "aggregator": {
+                        "type": "all",
+                        "value": "1"
+                    },
+                    "conditions": [
+                        {
+                            "type": "sku",
+                            "operator": "()",
+                            "data": [
+                                {
+                                    "id": 1948,
+                                    "sku": "SKUPROD438-DS",
+                                    "name": "SkinCeuticals PHLORETIN CF",
+                                    "attribute_set_id": 13,
+                                    "price": 166,
+                                    "status": 1,
+                                    "visibility": 4,
+                                    "type_id": "simple",
+                                    "created_at": "2016-01-19 12:30:53",
+                                    "updated_at": "2020-07-22 18:03:59",
+                                    "weight": 0.06,
+                                    "product_links": [],
+                                    "tier_prices": [],
+                                    "custom_attributes": []
+                                },
+                                {
+                                    "id": 1951,
+                                    "sku": "SKUPROD437-DS",
+                                    "name": "SkinCeuticals C E FERULIC® ",
+                                    "attribute_set_id": 13,
+                                    "price": 166,
+                                    "status": 1,
+                                    "visibility": 4,
+                                    "type_id": "simple",
+                                    "created_at": "2016-01-19 12:30:53",
+                                    "updated_at": "2020-09-18 17:21:45",
+                                    "weight": 0.1,
+                                    "product_links": [],
+                                    "tier_prices": [],
+                                    "custom_attributes": []
+                                },
+                                {
+                                    "id": 3112,
+                                    "sku": "SKUPROD435-DS",
+                                    "name": "SkinCeuticals AOX+ EYE GEL",
+                                    "attribute_set_id": 13,
+                                    "price": 95,
+                                    "status": 1,
+                                    "visibility": 4,
+                                    "type_id": "simple",
+                                    "created_at": "2016-01-19 12:31:58",
+                                    "updated_at": "2020-07-17 18:29:07",
+                                    "weight": 0.03,
+                                    "product_links": [],
+                                    "tier_prices": [],
+                                    "custom_attributes": []
+                                },
+                                {
+                                    "id": 3121,
+                                    "sku": "SKUPROD439-DS",
+                                    "name": "SkinCeuticals PHLORETIN CF GEL",
+                                    "attribute_set_id": 13,
+                                    "price": 166,
+                                    "status": 1,
+                                    "visibility": 4,
+                                    "type_id": "simple",
+                                    "created_at": "2016-01-19 12:31:59",
+                                    "updated_at": "2020-07-16 08:22:05",
+                                    "weight": 0.1,
+                                    "product_links": [],
+                                    "tier_prices": [],
+                                    "custom_attributes": []
+                                },
+                                {
+                                    "id": 3123,
+                                    "sku": "SKUPROD1958-DS",
+                                    "name": "SkinCeuticals RESVERATROL B E",
+                                    "attribute_set_id": 13,
+                                    "price": 153,
+                                    "status": 1,
+                                    "visibility": 4,
+                                    "type_id": "simple",
+                                    "created_at": "2016-01-19 12:31:59",
+                                    "updated_at": "2020-08-06 17:40:35",
+                                    "weight": 0.06,
+                                    "product_links": [],
+                                    "tier_prices": [],
+                                    "custom_attributes": []
+                                },
+                                {
+                                    "id": 5813,
+                                    "sku": "SKUPROD440-DS",
+                                    "name": "SkinCeuticals Serum 10 AOX+",
+                                    "attribute_set_id": 13,
+                                    "price": 70,
+                                    "status": 1,
+                                    "visibility": 4,
+                                    "type_id": "simple",
+                                    "created_at": "2016-03-08 13:08:16",
+                                    "updated_at": "2020-11-25 14:34:19",
+                                    "weight": 0.06,
+                                    "product_links": [],
+                                    "tier_prices": [],
+                                    "custom_attributes": []
+                                },
+                                {
+                                    "id": 5814,
+                                    "sku": "SKUPROD436-DS",
+                                    "name": "SkinCeuticals C + AHA ",
+                                    "attribute_set_id": 13,
+                                    "price": 136,
+                                    "status": 1,
+                                    "visibility": 4,
+                                    "type_id": "simple",
+                                    "created_at": "2016-03-08 13:08:16",
+                                    "updated_at": "2020-06-30 19:02:41",
+                                    "weight": 0.1,
+                                    "product_links": [],
+                                    "tier_prices": [],
+                                    "custom_attributes": []
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "ruleName": "Dec. 16, 2020 Only 30% OFF SkinCeuticals Antioxidants",
+                "ruleDescription": "Dec. 16, 2020 Only 30% OFF SkinCeuticals Antioxidants",
+                "CustomerGroups": [
+                    {
+                        "id": 0,
+                        "code": "NOT LOGGED IN",
+                        "tax_class_id": 3,
+                        "tax_class_name": "Retail Customer"
+                    },
+                    {
+                        "id": 1,
+                        "code": "General",
+                        "tax_class_id": 3,
+                        "tax_class_name": "Retail Customer"
+                    },
+                    {
+                        "id": 127,
+                        "code": "Alabama Derm Associates Customer",
+                        "tax_class_id": 3,
+                        "tax_class_name": "Retail Customer",
+                        "extension_attributes": {
+                            "customer_group_store_code": "68"
+                        }
+                    }
+                ],
+                "discountAmount": 30,
+                "minQtyForDiscount": 1,
+                "discardSubsequentRules": true,
+                "rulePriority": 5,
+                "label": "30% OFF",
+                "freeShipping": false
+            }
+        ],
+        "store": {
+            "id": 68,
+            "code": "alabamaderm",
+            "name": "Alabama Dermatology Associates Store View",
+            "website_id": 68,
+            "store_group_id": 68
+        },
+        "typeCode": "SC-1A",
+        "labelsEvents": [],
+        "labelsGenerals": [],
+        "labelsManufactures": []
+    },
+    {
+        "promoID": "5fbe7346c63877003b81a9f0",
+        "promoName": "12 days dec15 alabama",
+        "salesRules": [
+            {
+                "_id": "5fbe7346c63877003b81a9f1",
+                "discountType": "by_percent",
+                "ruleConditions": {
+                    "aggregator": {
+                        "type": "all",
+                        "value": "1"
+                    },
+                    "conditions": []
+                },
+                "ruleActions": {
+                    "aggregator": {
+                        "type": "all",
+                        "value": "1"
+                    },
+                    "conditions": [
+                        {
+                            "type": "sku",
+                            "operator": "()",
+                            "data": [
+                                {
+                                    "id": 6110,
+                                    "sku": "SKUPROD2936",
+                                    "name": "SkinCeuticals TRIPLE LIPID RESTORE 2:4:2",
+                                    "attribute_set_id": 13,
+                                    "price": 128,
+                                    "status": 1,
+                                    "visibility": 4,
+                                    "type_id": "simple",
+                                    "created_at": "2017-02-27 15:32:04",
+                                    "updated_at": "2020-10-08 14:01:53",
+                                    "weight": 0.624,
+                                    "product_links": [],
+                                    "tier_prices": [],
+                                    "custom_attributes": []
+                                },
+                                {
+                                    "id": 19450,
+                                    "sku": "SKUPROD0001607",
+                                    "name": "SkinCeuticals TRIPEPTIDE-R NECK REPAIR",
+                                    "attribute_set_id": 13,
+                                    "price": 120,
+                                    "status": 1,
+                                    "visibility": 4,
+                                    "type_id": "simple",
+                                    "created_at": "2020-07-01 15:16:55",
+                                    "updated_at": "2020-09-18 17:34:49",
+                                    "weight": 0.1062,
+                                    "product_links": [],
+                                    "tier_prices": [],
+                                    "custom_attributes": []
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "ruleName": "Dec. 15, 2020 Only 25% OFF SkinCeuticals Tripeptide-R Neck Repair & Triple Lipid Restore ",
+                "ruleDescription": "Dec. 15, 2020 Only 25% OFF SkinCeuticals Tripeptide-R Neck Repair & Triple Lipid Restore ",
+                "CustomerGroups": [
+                    {
+                        "id": 0,
+                        "code": "NOT LOGGED IN",
+                        "tax_class_id": 3,
+                        "tax_class_name": "Retail Customer"
+                    },
+                    {
+                        "id": 1,
+                        "code": "General",
+                        "tax_class_id": 3,
+                        "tax_class_name": "Retail Customer"
+                    },
+                    {
+                        "id": 127,
+                        "code": "Alabama Derm Associates Customer",
+                        "tax_class_id": 3,
+                        "tax_class_name": "Retail Customer",
+                        "extension_attributes": {
+                            "customer_group_store_code": "68"
+                        }
+                    }
+                ],
+                "discountAmount": 25,
+                "minQtyForDiscount": 1,
+                "discardSubsequentRules": true,
+                "rulePriority": 5,
+                "label": "25% OFF",
+                "freeShipping": false
+            }
+        ],
+        "store": {
+            "id": 68,
+            "code": "alabamaderm",
+            "name": "Alabama Dermatology Associates Store View",
+            "website_id": 68,
+            "store_group_id": 68
+        },
+        "typeCode": "SC-1A",
+        "labelsEvents": [],
+        "labelsGenerals": [],
+        "labelsManufactures": []
+    },
+    {
+        "promoID": "5fbe71d8c63877003b81a9ec",
+        "promoName": "12 days dec14 alabama",
+        "salesRules": [
+            {
+                "_id": "5fbe71d8c63877003b81a9ed",
+                "discountType": "by_percent",
+                "ruleConditions": {
+                    "aggregator": {
+                        "type": "all",
+                        "value": "1"
+                    },
+                    "conditions": []
+                },
+                "ruleActions": {
+                    "aggregator": {
+                        "type": "all",
+                        "value": "1"
+                    },
+                    "conditions": [
+                        {
+                            "type": "sku",
+                            "operator": "()",
+                            "data": [
+                                {
+                                    "id": 14165,
+                                    "sku": "SKUPROD400217-DS",
+                                    "name": "SkinCeuticals GLYCOLIC 10 RENEW OVERNIGHT",
+                                    "attribute_set_id": 13,
+                                    "price": 80,
+                                    "status": 1,
+                                    "visibility": 4,
+                                    "type_id": "simple",
+                                    "created_at": "2019-01-09 23:27:44",
+                                    "updated_at": "2020-08-05 13:59:17",
+                                    "weight": 0.11,
+                                    "product_links": [],
+                                    "tier_prices": [],
+                                    "custom_attributes": []
+                                },
+                                {
+                                    "id": 16922,
+                                    "sku": "SKUPROD001060",
+                                    "name": "SkinCeuticals Glycolic Renewal Cleanser Gel",
+                                    "attribute_set_id": 13,
+                                    "price": 38,
+                                    "status": 1,
+                                    "visibility": 4,
+                                    "type_id": "simple",
+                                    "created_at": "2019-11-07 08:13:46",
+                                    "updated_at": "2020-11-09 22:26:16",
+                                    "weight": 0.3,
+                                    "product_links": [],
+                                    "tier_prices": [],
+                                    "custom_attributes": []
+                                },
+                                {
+                                    "id": 3124,
+                                    "sku": "SKUPROD104-DS",
+                                    "name": "SkinCeuticals RETEXTURING ACTIVATOR ",
+                                    "attribute_set_id": 13,
+                                    "price": 82,
+                                    "status": 1,
+                                    "visibility": 4,
+                                    "type_id": "simple",
+                                    "created_at": "2016-01-19 12:31:59",
+                                    "updated_at": "2020-11-25 14:34:15",
+                                    "weight": 0.06,
+                                    "product_links": [],
+                                    "tier_prices": [],
+                                    "custom_attributes": []
+                                },
+                                {
+                                    "id": 3126,
+                                    "sku": "SKUPROD236-DS",
+                                    "name": "SkinCeuticals MICRO-EXFOLIATING SCRUB ",
+                                    "attribute_set_id": 13,
+                                    "price": 31,
+                                    "status": 1,
+                                    "visibility": 4,
+                                    "type_id": "simple",
+                                    "created_at": "2016-01-19 12:31:59",
+                                    "updated_at": "2020-08-14 05:18:05",
+                                    "weight": 0.31,
+                                    "product_links": [],
+                                    "tier_prices": [],
+                                    "custom_attributes": []
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "ruleName": "Dec. 14, 2020 Only 20% OFF SkinCeuticals Face Exfoliants",
+                "ruleDescription": "Dec. 14, 2020 Only 20% OFF SkinCeuticals Face Exfoliants *Valid with Glycolic Renew Overnight, Glycolic Renewal Cleanser, Retexturing Activator, and Micro-Exfoliating Scrub. Exclude skin systems.",
+                "CustomerGroups": [
+                    {
+                        "id": 0,
+                        "code": "NOT LOGGED IN",
+                        "tax_class_id": 3,
+                        "tax_class_name": "Retail Customer"
+                    },
+                    {
+                        "id": 1,
+                        "code": "General",
+                        "tax_class_id": 3,
+                        "tax_class_name": "Retail Customer"
+                    },
+                    {
+                        "id": 127,
+                        "code": "Alabama Derm Associates Customer",
+                        "tax_class_id": 3,
+                        "tax_class_name": "Retail Customer",
+                        "extension_attributes": {
+                            "customer_group_store_code": "68"
+                        }
+                    }
+                ],
+                "discountAmount": 20,
+                "minQtyForDiscount": 1,
+                "discardSubsequentRules": true,
+                "rulePriority": 5,
+                "label": "20% OFF",
+                "freeShipping": false
+            }
+        ],
+        "store": {
+            "id": 68,
+            "code": "alabamaderm",
+            "name": "Alabama Dermatology Associates Store View",
+            "website_id": 68,
+            "store_group_id": 68
+        },
+        "typeCode": "SC-1A",
+        "labelsEvents": [],
+        "labelsGenerals": [],
+        "labelsManufactures": []
+    },
+    {
+        "promoID": "5fbe6ebdc63877003b81a9e8",
+        "promoName": "12 days dec11 alabama",
+        "salesRules": [
+            {
+                "_id": "5fbe6ebdc63877003b81a9e9",
+                "discountType": "by_percent",
+                "ruleConditions": {
+                    "aggregator": {
+                        "type": "all",
+                        "value": "1"
+                    },
+                    "conditions": []
+                },
+                "ruleActions": {
+                    "aggregator": {
+                        "type": "all",
+                        "value": "1"
+                    },
+                    "conditions": [
+                        {
+                            "type": "sku",
+                            "operator": "()",
+                            "data": [
+                                {
+                                    "id": 3115,
+                                    "sku": "SKUPROD356-DS",
+                                    "name": "SkinCeuticals DAILY MOISTURE",
+                                    "attribute_set_id": 13,
+                                    "price": 63,
+                                    "status": 1,
+                                    "visibility": 4,
+                                    "type_id": "simple",
+                                    "created_at": "2016-01-19 12:31:58",
+                                    "updated_at": "2020-11-25 14:34:12",
+                                    "weight": 0.13,
+                                    "product_links": [],
+                                    "tier_prices": [],
+                                    "custom_attributes": []
+                                },
+                                {
+                                    "id": 3116,
+                                    "sku": "SKUPROD357-DS",
+                                    "name": "SkinCeuticals EMOLLIENCE",
+                                    "attribute_set_id": 13,
+                                    "price": 63,
+                                    "status": 1,
+                                    "visibility": 4,
+                                    "type_id": "simple",
+                                    "created_at": "2016-01-19 12:31:58",
+                                    "updated_at": "2020-11-25 14:34:13",
+                                    "weight": 0.13,
+                                    "product_links": [],
+                                    "tier_prices": [],
+                                    "custom_attributes": []
+                                },
+                                {
+                                    "id": 3118,
+                                    "sku": "SKUPROD359-DS",
+                                    "name": "SkinCeuticals HYDRATING B5 GEL",
+                                    "attribute_set_id": 13,
+                                    "price": 83,
+                                    "status": 1,
+                                    "visibility": 4,
+                                    "type_id": "simple",
+                                    "created_at": "2016-01-19 12:31:58",
+                                    "updated_at": "2020-11-25 14:34:14",
+                                    "weight": 0.06,
+                                    "product_links": [],
+                                    "tier_prices": [],
+                                    "custom_attributes": []
+                                },
+                                {
+                                    "id": 237,
+                                    "sku": "SKUPROD360-DS",
+                                    "name": "SkinCeuticals HYDRATING B5 MASQUE",
+                                    "attribute_set_id": 13,
+                                    "price": 55,
+                                    "status": 1,
+                                    "visibility": 4,
+                                    "type_id": "simple",
+                                    "created_at": "2016-01-19 12:29:27",
+                                    "updated_at": "2020-09-21 16:13:46",
+                                    "weight": 0.16,
+                                    "product_links": [],
+                                    "tier_prices": [],
+                                    "custom_attributes": []
+                                },
+                                {
+                                    "id": 1556,
+                                    "sku": "SKUPROD1992-DS",
+                                    "name": "SkinCeuticals HYDRA BALM",
+                                    "attribute_set_id": 13,
+                                    "price": 23,
+                                    "status": 1,
+                                    "visibility": 4,
+                                    "type_id": "simple",
+                                    "created_at": "2016-01-19 12:30:34",
+                                    "updated_at": "2020-06-26 17:03:21",
+                                    "weight": 0.11,
+                                    "product_links": [],
+                                    "tier_prices": [],
+                                    "custom_attributes": []
+                                },
+                                {
+                                    "id": 3973,
+                                    "sku": "SKUPROD6285-DS",
+                                    "name": "SkinCeuticals METACELL RENEWAL B3",
+                                    "attribute_set_id": 13,
+                                    "price": 112,
+                                    "status": 1,
+                                    "visibility": 4,
+                                    "type_id": "simple",
+                                    "created_at": "2016-01-19 12:32:46",
+                                    "updated_at": "2020-11-25 14:34:18",
+                                    "weight": 0.11,
+                                    "product_links": [],
+                                    "tier_prices": [],
+                                    "custom_attributes": []
+                                },
+                                {
+                                    "id": 13100,
+                                    "sku": "SKUPROD3001534-DS",
+                                    "name": "SkinCeuticals RETINOL 0.3",
+                                    "attribute_set_id": 13,
+                                    "price": 67,
+                                    "status": 1,
+                                    "visibility": 4,
+                                    "type_id": "simple",
+                                    "created_at": "2018-09-30 04:13:12",
+                                    "updated_at": "2020-08-05 14:18:27",
+                                    "weight": 0.06,
+                                    "product_links": [],
+                                    "tier_prices": [],
+                                    "custom_attributes": []
+                                },
+                                {
+                                    "id": 3127,
+                                    "sku": "SKUPROD388-DS",
+                                    "name": "SkinCeuticals RETINOL 0.5",
+                                    "attribute_set_id": 13,
+                                    "price": 76,
+                                    "status": 1,
+                                    "visibility": 4,
+                                    "type_id": "simple",
+                                    "created_at": "2016-01-19 12:31:59",
+                                    "updated_at": "2020-08-17 16:22:48",
+                                    "weight": 0.06,
+                                    "product_links": [],
+                                    "tier_prices": [],
+                                    "custom_attributes": []
+                                },
+                                {
+                                    "id": 307,
+                                    "sku": "SKUPROD389-DS",
+                                    "name": "SkinCeuticals RETINOL 1.0",
+                                    "attribute_set_id": 13,
+                                    "price": 88,
+                                    "status": 1,
+                                    "visibility": 4,
+                                    "type_id": "simple",
+                                    "created_at": "2016-01-19 12:29:31",
+                                    "updated_at": "2020-09-21 16:14:57",
+                                    "weight": 0.06,
+                                    "product_links": [],
+                                    "tier_prices": [],
+                                    "custom_attributes": []
+                                },
+                                {
+                                    "id": 6110,
+                                    "sku": "SKUPROD2936",
+                                    "name": "SkinCeuticals TRIPLE LIPID RESTORE 2:4:2",
+                                    "attribute_set_id": 13,
+                                    "price": 128,
+                                    "status": 1,
+                                    "visibility": 4,
+                                    "type_id": "simple",
+                                    "created_at": "2017-02-27 15:32:04",
+                                    "updated_at": "2020-10-08 14:01:53",
+                                    "weight": 0.624,
+                                    "product_links": [],
+                                    "tier_prices": [],
+                                    "custom_attributes": []
+                                },
+                                {
+                                    "id": 3109,
+                                    "sku": "SKUPROD106-DS",
+                                    "name": "SkinCeuticals A.G.E. INTERRUPTER",
+                                    "attribute_set_id": 13,
+                                    "price": 162,
+                                    "status": 1,
+                                    "visibility": 4,
+                                    "type_id": "simple",
+                                    "created_at": "2016-01-19 12:31:58",
+                                    "updated_at": "2020-10-12 16:31:19",
+                                    "weight": 0.11,
+                                    "product_links": [],
+                                    "tier_prices": [],
+                                    "custom_attributes": []
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "ruleName": "Dec. 11, 2020 Only20% OFF SkinCeuticals Moisturizers or Night Creams",
+                "ruleDescription": "Dec. 11, 2020 Only20% OFF SkinCeuticals Moisturizers or Night Creams *Valid with Daily Moisture, Emollience, Hydrating B5 Gel, Hydrating B5 Masque, Hydra Balm, Metacell Renewal B3, Retinol 0.3, Retinol 0.5, Retinol 1.0, Triple Lipid Restore 2:4:2, and A.G.E. Interrupter.",
+                "CustomerGroups": [
+                    {
+                        "id": 0,
+                        "code": "NOT LOGGED IN",
+                        "tax_class_id": 3,
+                        "tax_class_name": "Retail Customer"
+                    },
+                    {
+                        "id": 1,
+                        "code": "General",
+                        "tax_class_id": 3,
+                        "tax_class_name": "Retail Customer"
+                    },
+                    {
+                        "id": 127,
+                        "code": "Alabama Derm Associates Customer",
+                        "tax_class_id": 3,
+                        "tax_class_name": "Retail Customer",
+                        "extension_attributes": {
+                            "customer_group_store_code": "68"
+                        }
+                    }
+                ],
+                "discountAmount": 20,
+                "minQtyForDiscount": 1,
+                "discardSubsequentRules": true,
+                "rulePriority": 5,
+                "label": "20% OFF",
+                "freeShipping": false
+            }
+        ],
+        "store": {
+            "id": 68,
+            "code": "alabamaderm",
+            "name": "Alabama Dermatology Associates Store View",
+            "website_id": 68,
+            "store_group_id": 68
+        },
+        "typeCode": "SC-1A",
+        "labelsEvents": [],
+        "labelsGenerals": [],
+        "labelsManufactures": []
+    },
+    {
+        "promoID": "5fbe6c15c63877003b81a9e2",
+        "promoName": "12 days dec10 alabama",
+        "salesRules": [
+            {
+                "_id": "5fbe6c15c63877003b81a9e3",
+                "discountType": "by_percent",
+                "ruleConditions": {
+                    "aggregator": {
+                        "type": "all",
+                        "value": "1"
+                    },
+                    "conditions": []
+                },
+                "ruleActions": {
+                    "aggregator": {
+                        "type": "all",
+                        "value": "1"
+                    },
+                    "conditions": [
+                        {
+                            "type": "category_ids",
+                            "operator": "==",
+                            "data": {
+                                "id": 3194,
+                                "parent_id": 2,
+                                "name": "Shop Dermablend",
+                                "is_active": true,
+                                "position": 7,
+                                "level": 2,
+                                "children": "",
+                                "created_at": "2020-04-20 20:23:28",
+                                "updated_at": "2020-05-19 19:14:04",
+                                "path": "1/2/3194",
+                                "available_sort_by": [],
+                                "include_in_menu": true,
+                                "custom_attributes": [],
+                                "nameWithPath": "Shop Dermablend"
+                            }
+                        }
+                    ]
+                },
+                "ruleName": "Dec. 10, 2020 Only 20% OFF Dermablend Products",
+                "ruleDescription": "Dec. 10, 2020 Only 20% OFF Dermablend Products",
+                "CustomerGroups": [
+                    {
+                        "id": 0,
+                        "code": "NOT LOGGED IN",
+                        "tax_class_id": 3,
+                        "tax_class_name": "Retail Customer"
+                    },
+                    {
+                        "id": 1,
+                        "code": "General",
+                        "tax_class_id": 3,
+                        "tax_class_name": "Retail Customer"
+                    },
+                    {
+                        "id": 127,
+                        "code": "Alabama Derm Associates Customer",
+                        "tax_class_id": 3,
+                        "tax_class_name": "Retail Customer",
+                        "extension_attributes": {
+                            "customer_group_store_code": "68"
+                        }
+                    }
+                ],
+                "discountAmount": 20,
+                "minQtyForDiscount": 1,
+                "discardSubsequentRules": true,
+                "rulePriority": 5,
+                "label": "20% OFF",
+                "freeShipping": false
+            }
+        ],
+        "store": {
+            "id": 68,
+            "code": "alabamaderm",
+            "name": "Alabama Dermatology Associates Store View",
+            "website_id": 68,
+            "store_group_id": 68
+        },
+        "typeCode": "SC-1A",
+        "labelsEvents": [],
+        "labelsGenerals": [],
+        "labelsManufactures": []
+    },
+    {
+        "promoID": "5fbe6b0bc63877003b81a9de",
+        "promoName": "12 days dec9 alabama",
+        "salesRules": [
+            {
+                "_id": "5fbe6b0bc63877003b81a9df",
+                "discountType": "by_percent",
+                "ruleConditions": {
+                    "aggregator": {
+                        "type": "all",
+                        "value": "1"
+                    },
+                    "conditions": []
+                },
+                "ruleActions": {
+                    "aggregator": {
+                        "type": "all",
+                        "value": "1"
+                    },
+                    "conditions": [
+                        {
+                            "type": "sku",
+                            "operator": "()",
+                            "data": [
+                                {
+                                    "id": 3113,
+                                    "sku": "SKUPROD32-DS",
+                                    "name": "SkinCeuticals Blemish + Age Defense",
+                                    "attribute_set_id": 13,
+                                    "price": 92,
+                                    "status": 1,
+                                    "visibility": 4,
+                                    "type_id": "simple",
+                                    "created_at": "2016-01-19 12:31:58",
+                                    "updated_at": "2020-08-14 05:17:33",
+                                    "weight": 0.06,
+                                    "product_links": [],
+                                    "tier_prices": [],
+                                    "custom_attributes": []
+                                },
+                                {
+                                    "id": 3114,
+                                    "sku": "SKUPROD33-DS",
+                                    "name": "SkinCeuticals Clarifying Clay Masque",
+                                    "attribute_set_id": 13,
+                                    "price": 55,
+                                    "status": 1,
+                                    "visibility": 4,
+                                    "type_id": "simple",
+                                    "created_at": "2016-01-19 12:31:58",
+                                    "updated_at": "2020-09-21 16:37:27",
+                                    "weight": 0.15,
+                                    "product_links": [],
+                                    "tier_prices": [],
+                                    "custom_attributes": []
+                                },
+                                {
+                                    "id": 248,
+                                    "sku": "SKUPROD237-DS",
+                                    "name": "SkinCeuticals PURIFYING CLEANSER",
+                                    "attribute_set_id": 13,
+                                    "price": 35,
+                                    "status": 1,
+                                    "visibility": 4,
+                                    "type_id": "simple",
+                                    "created_at": "2016-01-19 12:29:28",
+                                    "updated_at": "2020-09-21 16:14:10",
+                                    "weight": 0.43,
+                                    "product_links": [],
+                                    "tier_prices": [],
+                                    "custom_attributes": []
+                                },
+                                {
+                                    "id": 3119,
+                                    "sku": "SKUPROD235-DS",
+                                    "name": "SkinCeuticals LHA CLEANSER GEL",
+                                    "attribute_set_id": 13,
+                                    "price": 41,
+                                    "status": 1,
+                                    "visibility": 4,
+                                    "type_id": "simple",
+                                    "created_at": "2016-01-19 12:31:58",
+                                    "updated_at": "2020-09-21 17:01:18",
+                                    "weight": 0.5,
+                                    "product_links": [],
+                                    "tier_prices": [],
+                                    "custom_attributes": []
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "ruleName": "Dec. 9, 2020 Only 20% OFF SkinCeuticals Acne Products",
+                "ruleDescription": " Dec. 9, 2020 Only 20% OFF SkinCeuticals Acne Products *Valid with Blemish + Age Defense, Clarifying Clay Masque, Purifying Cleanser, and LHA Cleanser.",
+                "CustomerGroups": [
+                    {
+                        "id": 0,
+                        "code": "NOT LOGGED IN",
+                        "tax_class_id": 3,
+                        "tax_class_name": "Retail Customer"
+                    },
+                    {
+                        "id": 1,
+                        "code": "General",
+                        "tax_class_id": 3,
+                        "tax_class_name": "Retail Customer"
+                    },
+                    {
+                        "id": 127,
+                        "code": "Alabama Derm Associates Customer",
+                        "tax_class_id": 3,
+                        "tax_class_name": "Retail Customer",
+                        "extension_attributes": {
+                            "customer_group_store_code": "68"
+                        }
+                    }
+                ],
+                "discountAmount": 20,
+                "minQtyForDiscount": 1,
+                "discardSubsequentRules": true,
+                "rulePriority": 4,
+                "label": "20% OFF",
+                "freeShipping": false
+            }
+        ],
+        "store": {
+            "id": 68,
+            "code": "alabamaderm",
+            "name": "Alabama Dermatology Associates Store View",
+            "website_id": 68,
+            "store_group_id": 68
+        },
+        "typeCode": "SC-1A",
+        "labelsEvents": [],
+        "labelsGenerals": [],
+        "labelsManufactures": []
+    },
+    {
+        "promoID": "5fbe672cc63877003b81a9da",
+        "promoName": "ThermiVa® Package of 3 Treatments for $3000 (Reg. $3500) (The Doc Spa)",
+        "salesRules": [],
+        "store": {
+            "id": 182,
+            "code": "thedocspa",
+            "name": "The Doc Spa Store View",
+            "website_id": 182,
+            "store_group_id": 182
+        },
+        "typeCode": "SP",
+        "labelsEvents": [],
+        "labelsGenerals": [],
+        "labelsManufactures": []
+    },
+    {
+        "promoID": "5fbe6565c63877003b81a9d7",
+        "promoName": "12 days dec8 alabama",
+        "salesRules": [
+            {
+                "_id": "5fbe6565c63877003b81a9d8",
+                "discountType": "by_percent",
+                "ruleConditions": {
+                    "aggregator": {
+                        "type": "all",
+                        "value": "1"
+                    },
+                    "conditions": []
+                },
+                "ruleActions": {
+                    "aggregator": {
+                        "type": "all",
+                        "value": "1"
+                    },
+                    "conditions": [
+                        {
+                            "type": "category_ids",
+                            "operator": "==",
+                            "data": {
+                                "id": 1961,
+                                "parent_id": 194,
+                                "name": "Body Care",
+                                "is_active": true,
+                                "position": 3,
+                                "level": 4,
+                                "children": "",
+                                "created_at": "2018-11-21 10:05:49",
+                                "updated_at": "2020-03-02 11:03:37",
+                                "path": "1/2/39/194/1961",
+                                "available_sort_by": [],
+                                "include_in_menu": true,
+                                "custom_attributes": [],
+                                "nameWithPath": "Shop SkinCeuticals / Category / Body Care"
+                            }
+                        }
+                    ]
+                },
+                "ruleName": "Dec. 8, 2020 Only 20% OFF SkinCeuticals Body Care",
+                "ruleDescription": "Dec. 8, 2020 Only 20% OFF SkinCeuticals Body Care",
+                "CustomerGroups": [
+                    {
+                        "id": 0,
+                        "code": "NOT LOGGED IN",
+                        "tax_class_id": 3,
+                        "tax_class_name": "Retail Customer"
+                    },
+                    {
+                        "id": 1,
+                        "code": "General",
+                        "tax_class_id": 3,
+                        "tax_class_name": "Retail Customer"
+                    },
+                    {
+                        "id": 127,
+                        "code": "Alabama Derm Associates Customer",
+                        "tax_class_id": 3,
+                        "tax_class_name": "Retail Customer",
+                        "extension_attributes": {
+                            "customer_group_store_code": "68"
+                        }
+                    }
+                ],
+                "discountAmount": 20,
+                "minQtyForDiscount": 1,
+                "discardSubsequentRules": true,
+                "rulePriority": 5,
+                "label": "20% OFF",
+                "freeShipping": false
+            }
+        ],
+        "store": {
+            "id": 68,
+            "code": "alabamaderm",
+            "name": "Alabama Dermatology Associates Store View",
+            "website_id": 68,
+            "store_group_id": 68
+        },
+        "typeCode": "SC-1A",
+        "labelsEvents": [],
+        "labelsGenerals": [],
+        "labelsManufactures": []
+    },
+    {
+        "promoID": "5fbe64b7c63877003b81a9d3",
+        "promoName": "15% OFF All Doc Spa Gift Cards (The Doc Spa)",
+        "salesRules": [
+            {
+                "_id": "5fbe64b7c63877003b81a9d4",
+                "discountType": "by_percent",
+                "ruleConditions": {
+                    "aggregator": {
+                        "type": "all",
+                        "value": "1"
+                    },
+                    "conditions": []
+                },
+                "ruleActions": {
+                    "aggregator": {
+                        "type": "all",
+                        "value": "1"
+                    },
+                    "conditions": [
+                        {
+                            "type": "sku",
+                            "operator": "==",
+                            "data": {
+                                "id": 13570,
+                                "sku": "SKUGIFT004",
+                                "name": "E-Gift Card",
+                                "attribute_set_id": 16,
+                                "status": 1,
+                                "visibility": 4,
+                                "type_id": "mpgiftcard",
+                                "created_at": "2016-01-30 03:50:09",
+                                "updated_at": "2020-11-16 18:28:08",
+                                "weight": 1,
+                                "product_links": [],
+                                "tier_prices": [],
+                                "custom_attributes": []
+                            }
+                        }
+                    ]
+                },
+                "ruleName": "15% OFF All Doc Spa Gift Cards",
+                "ruleDescription": "15% OFF All Doc Spa Gift Cards",
+                "CustomerGroups": [
+                    {
+                        "id": 0,
+                        "code": "NOT LOGGED IN",
+                        "tax_class_id": 3,
+                        "tax_class_name": "Retail Customer"
+                    },
+                    {
+                        "id": 1,
+                        "code": "General",
+                        "tax_class_id": 3,
+                        "tax_class_name": "Retail Customer"
+                    },
+                    {
+                        "id": 186,
+                        "code": "The Doc Spa Customer",
+                        "tax_class_id": 3,
+                        "tax_class_name": "Retail Customer",
+                        "extension_attributes": {
+                            "customer_group_store_code": "182"
+                        }
+                    },
+                    {
+                        "id": 187,
+                        "code": "1 Botox Club Membership",
+                        "tax_class_id": 3,
+                        "tax_class_name": "Retail Customer",
+                        "extension_attributes": {
+                            "customer_group_store_code": "182"
+                        }
+                    }
+                ],
+                "discountAmount": 15,
+                "minQtyForDiscount": 1,
+                "discardSubsequentRules": true,
+                "rulePriority": 5,
+                "label": "15% OFF",
+                "freeShipping": false
+            }
+        ],
+        "store": {
+            "id": 182,
+            "code": "thedocspa",
+            "name": "The Doc Spa Store View",
+            "website_id": 182,
+            "store_group_id": 182
+        },
+        "typeCode": "SC-1A",
+        "labelsEvents": [],
+        "labelsGenerals": [],
+        "labelsManufactures": []
+    },
+    {
+        "promoID": "5fbe63c6c63877003b81a9cd",
+        "promoName": "12 days dec7 alabama",
+        "salesRules": [
+            {
+                "_id": "5fbe63c6c63877003b81a9ce",
+                "discountType": "by_percent",
+                "ruleConditions": {
+                    "aggregator": {
+                        "type": "all",
+                        "value": "1"
+                    },
+                    "conditions": []
+                },
+                "ruleActions": {
+                    "aggregator": {
+                        "type": "all",
+                        "value": "1"
+                    },
+                    "conditions": [
+                        {
+                            "type": "category_ids",
+                            "operator": "==",
+                            "data": {
+                                "id": 1957,
+                                "parent_id": 194,
+                                "name": "Skincare Systems",
+                                "is_active": true,
+                                "position": 14,
+                                "level": 4,
+                                "children": "",
+                                "created_at": "2018-11-21 10:05:43",
+                                "updated_at": "2020-06-25 17:02:40",
+                                "path": "1/2/39/194/1957",
+                                "available_sort_by": [],
+                                "include_in_menu": true,
+                                "custom_attributes": [],
+                                "nameWithPath": "Shop SkinCeuticals / Category / Skincare Systems"
+                            }
+                        }
+                    ]
+                },
+                "ruleName": "Dec. 7, 2020 Only 20% OFF SkinCeuticals Skincare Systems",
+                "ruleDescription": "Dec. 7, 2020 Only 20% OFF SkinCeuticals Skincare Systems",
+                "CustomerGroups": [
+                    {
+                        "id": 0,
+                        "code": "NOT LOGGED IN",
+                        "tax_class_id": 3,
+                        "tax_class_name": "Retail Customer"
+                    },
+                    {
+                        "id": 1,
+                        "code": "General",
+                        "tax_class_id": 3,
+                        "tax_class_name": "Retail Customer"
+                    },
+                    {
+                        "id": 127,
+                        "code": "Alabama Derm Associates Customer",
+                        "tax_class_id": 3,
+                        "tax_class_name": "Retail Customer",
+                        "extension_attributes": {
+                            "customer_group_store_code": "68"
+                        }
+                    }
+                ],
+                "discountAmount": 20,
+                "minQtyForDiscount": 1,
+                "discardSubsequentRules": true,
+                "rulePriority": 5,
+                "label": "20% OFF",
+                "freeShipping": false
+            }
+        ],
+        "store": {
+            "id": 68,
+            "code": "alabamaderm",
+            "name": "Alabama Dermatology Associates Store View",
+            "website_id": 68,
+            "store_group_id": 68
+        },
+        "typeCode": "SC-1A",
+        "labelsEvents": [],
+        "labelsGenerals": [],
+        "labelsManufactures": []
+    },
+    {
+        "promoID": "5fbe4b6d44b48e003bacecef",
+        "promoName": "Exfoliation is the Key to Healthier, More Youthful Looking Skin. Save now on Customized Chemical Peels! (IAPRS)",
+        "salesRules": [
+            {
+                "_id": "5fbe4b6d44b48e003bacecf0",
+                "discountType": "by_fixed",
+                "ruleConditions": {
+                    "aggregator": {
+                        "type": "all",
+                        "value": "1"
+                    },
+                    "conditions": []
+                },
+                "ruleActions": {
+                    "aggregator": {
+                        "type": "all",
+                        "value": "1"
+                    },
+                    "conditions": [
+                        {
+                            "type": "quote_item_sku",
+                            "operator": "()",
+                            "data": [
+                                "SKUTREAT4882-single",
+                                "SKUTREAT002401-single"
+                            ]
+                        }
+                    ]
+                },
+                "ruleName": "RULE 1: Save on SkinCeuticals’ Smart TCA Peel, VI Peels®, Perfect Derma Peel, Pigment Balancing Peel, and IAPRS Signature Peels all month long! **Single treatments only. Perfect Derma Peel is in-office. ",
+                "ruleDescription": "SAVE $40",
+                "CustomerGroups": [
+                    {
+                        "id": 0,
+                        "code": "NOT LOGGED IN",
+                        "tax_class_id": 3,
+                        "tax_class_name": "Retail Customer"
+                    },
+                    {
+                        "id": 1,
+                        "code": "General",
+                        "tax_class_id": 3,
+                        "tax_class_name": "Retail Customer"
+                    },
+                    {
+                        "id": 39,
+                        "code": "IAPRS Customer",
+                        "tax_class_id": 3,
+                        "tax_class_name": "Retail Customer",
+                        "extension_attributes": {
+                            "customer_group_store_code": "27"
+                        }
+                    },
+                    {
+                        "id": 40,
+                        "code": "IAPRS VIP Member",
+                        "tax_class_id": 3,
+                        "tax_class_name": "Retail Customer",
+                        "extension_attributes": {
+                            "customer_group_store_code": "27"
+                        }
+                    }
+                ],
+                "discountAmount": 40,
+                "minQtyForDiscount": 1,
+                "discardSubsequentRules": true,
+                "rulePriority": 5,
+                "label": "Special Discount",
+                "freeShipping": false
+            },
+            {
+                "_id": "5fbe4b6d44b48e003bacecf1",
+                "discountType": "by_fixed",
+                "ruleConditions": {
+                    "aggregator": {
+                        "type": "all",
+                        "value": "1"
+                    },
+                    "conditions": []
+                },
+                "ruleActions": {
+                    "aggregator": {
+                        "type": "all",
+                        "value": "1"
+                    },
+                    "conditions": [
+                        {
+                            "type": "sku",
+                            "operator": "()",
+                            "data": [
+                                {
+                                    "id": 11692,
+                                    "sku": "SKUTREAT10417",
+                                    "name": "The Ultimate Hydrafacial®",
+                                    "attribute_set_id": 15,
+                                    "price": 325,
+                                    "status": 1,
+                                    "visibility": 4,
+                                    "type_id": "virtual",
+                                    "created_at": "2018-05-08 03:01:24",
+                                    "updated_at": "2020-06-12 15:20:35",
+                                    "product_links": [],
+                                    "tier_prices": [],
+                                    "custom_attributes": []
+                                },
+                                {
+                                    "id": 11693,
+                                    "sku": "SKUTREAT10418",
+                                    "name": "The Essential Hydrafacial®",
+                                    "attribute_set_id": 15,
+                                    "price": 245,
+                                    "status": 1,
+                                    "visibility": 4,
+                                    "type_id": "virtual",
+                                    "created_at": "2018-05-08 03:28:32",
+                                    "updated_at": "2020-06-12 15:48:04",
+                                    "product_links": [],
+                                    "tier_prices": [],
+                                    "custom_attributes": []
+                                },
+                                {
+                                    "id": 983,
+                                    "sku": "SKUTREAT2038",
+                                    "name": "VI Peel",
+                                    "attribute_set_id": 15,
+                                    "price": 295,
+                                    "status": 1,
+                                    "visibility": 4,
+                                    "type_id": "virtual",
+                                    "created_at": "2016-01-19 12:30:05",
+                                    "updated_at": "2020-06-22 19:42:27",
+                                    "product_links": [],
+                                    "tier_prices": [],
+                                    "custom_attributes": []
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "ruleName": "RULE 2: Save on SkinCeuticals’ Smart TCA Peel, VI Peels®, Perfect Derma Peel, Pigment Balancing Peel, and IAPRS Signature Peels all month long! **Single treatments only. Perfect Derma Peel is in-office. ",
+                "ruleDescription": "SAVE $30",
+                "CustomerGroups": [
+                    {
+                        "id": 0,
+                        "code": "NOT LOGGED IN",
+                        "tax_class_id": 3,
+                        "tax_class_name": "Retail Customer"
+                    },
+                    {
+                        "id": 1,
+                        "code": "General",
+                        "tax_class_id": 3,
+                        "tax_class_name": "Retail Customer"
+                    },
+                    {
+                        "id": 39,
+                        "code": "IAPRS Customer",
+                        "tax_class_id": 3,
+                        "tax_class_name": "Retail Customer",
+                        "extension_attributes": {
+                            "customer_group_store_code": "27"
+                        }
+                    },
+                    {
+                        "id": 40,
+                        "code": "IAPRS VIP Member",
+                        "tax_class_id": 3,
+                        "tax_class_name": "Retail Customer",
+                        "extension_attributes": {
+                            "customer_group_store_code": "27"
+                        }
+                    }
+                ],
+                "discountAmount": 30,
+                "minQtyForDiscount": 1,
+                "discardSubsequentRules": true,
+                "rulePriority": 5,
+                "label": "Special Discount",
+                "freeShipping": false
+            },
+            {
+                "_id": "5fbe4b6d44b48e003bacecf2",
+                "discountType": "by_fixed",
+                "ruleConditions": {
+                    "aggregator": {
+                        "type": "all",
+                        "value": "1"
+                    },
+                    "conditions": []
+                },
+                "ruleActions": {
+                    "aggregator": {
+                        "type": "all",
+                        "value": "1"
+                    },
+                    "conditions": [
+                        {
+                            "type": "sku",
+                            "operator": "()",
+                            "data": [
+                                {
+                                    "id": 11243,
+                                    "sku": "SKUTREAT123570",
+                                    "name": "SkinCeuticals Pigment Balancing Peel",
+                                    "attribute_set_id": 15,
+                                    "price": 125,
+                                    "status": 1,
+                                    "visibility": 4,
+                                    "type_id": "virtual",
+                                    "created_at": "2018-03-02 08:58:22",
+                                    "updated_at": "2020-06-15 20:11:58",
+                                    "product_links": [],
+                                    "tier_prices": [],
+                                    "custom_attributes": []
+                                },
+                                {
+                                    "id": 11244,
+                                    "sku": "SKUTREAT123571",
+                                    "name": "SkinCeuticals® Advanced Corrective Peel",
+                                    "attribute_set_id": 15,
+                                    "price": 225,
+                                    "status": 1,
+                                    "visibility": 4,
+                                    "type_id": "virtual",
+                                    "created_at": "2018-03-02 09:12:15",
+                                    "updated_at": "2020-06-22 19:26:07",
+                                    "product_links": [],
+                                    "tier_prices": [],
+                                    "custom_attributes": []
+                                },
+                                {
+                                    "id": 11273,
+                                    "sku": "SKUTREAT002112",
+                                    "name": "Skinceuticals Customized Signature Peel",
+                                    "attribute_set_id": 15,
+                                    "price": 125,
+                                    "status": 1,
+                                    "visibility": 4,
+                                    "type_id": "virtual",
+                                    "created_at": "2018-03-05 18:49:35",
+                                    "updated_at": "2019-12-04 22:52:30",
+                                    "product_links": [],
+                                    "tier_prices": [],
+                                    "custom_attributes": []
+                                }
+                            ]
+                        },
+                        {
+                            "type": "quote_item_sku",
+                            "operator": "==",
+                            "data": "SKUTREAT12310-single"
+                        }
+                    ]
+                },
+                "ruleName": "RULE 3: Save on SkinCeuticals’ Smart TCA Peel, VI Peels®, Perfect Derma Peel, Pigment Balancing Peel, and IAPRS Signature Peels all month long! **Single treatments only. Perfect Derma Peel is in-office. ",
+                "ruleDescription": "SAVE $26",
+                "CustomerGroups": [
+                    {
+                        "id": 0,
+                        "code": "NOT LOGGED IN",
+                        "tax_class_id": 3,
+                        "tax_class_name": "Retail Customer"
+                    },
+                    {
+                        "id": 1,
+                        "code": "General",
+                        "tax_class_id": 3,
+                        "tax_class_name": "Retail Customer"
+                    },
+                    {
+                        "id": 39,
+                        "code": "IAPRS Customer",
+                        "tax_class_id": 3,
+                        "tax_class_name": "Retail Customer",
+                        "extension_attributes": {
+                            "customer_group_store_code": "27"
+                        }
+                    },
+                    {
+                        "id": 40,
+                        "code": "IAPRS VIP Member",
+                        "tax_class_id": 3,
+                        "tax_class_name": "Retail Customer",
+                        "extension_attributes": {
+                            "customer_group_store_code": "27"
+                        }
+                    }
+                ],
+                "discountAmount": 26,
+                "minQtyForDiscount": 1,
+                "discardSubsequentRules": true,
+                "rulePriority": 5,
+                "label": "Special Discount",
+                "freeShipping": false
+            }
+        ],
+        "store": {
+            "id": 27,
+            "code": "theaestheticsurgeon",
+            "name": "Institute of Aesthetic Plastic & Reconstructive Surgery Store View",
+            "website_id": 27,
+            "store_group_id": 27
+        },
+        "typeCode": "SC-2B",
+        "labelsEvents": [],
+        "labelsGenerals": [],
+        "labelsManufactures": []
+    },
+    {
+        "promoID": "5fbe364544b48e003bacecdb",
+        "promoName": "Purchase a Diamond Glow™ or HydraFacial® and Receive Dermaplane for $50 (Reg. $150) (Institute of Anti-aging)",
+        "salesRules": [
+            {
+                "_id": "5fbe364544b48e003bacecdc",
+                "discountType": "buyxgetn_perc",
+                "ruleConditions": {
+                    "aggregator": {
+                        "type": "all",
+                        "value": "1"
+                    },
+                    "conditions": []
+                },
+                "ruleActions": {
+                    "aggregator": {
+                        "type": "all",
+                        "value": "1"
+                    },
+                    "conditions": [
+                        {
+                            "type": "quote_item_sku",
+                            "operator": "()",
+                            "data": [
+                                "SKUTREAT0029797-single",
+                                "SKUTREAT0029798-single"
+                            ]
+                        }
+                    ]
+                },
+                "ruleName": "Purchase a Diamond Glow™ or HydraFacial® and Receive Dermaplane for $50 (Reg. $150)",
+                "ruleDescription": "Purchase a Diamond Glow™ or HydraFacial® and Receive Dermaplane for $50 (Reg. $150)",
+                "CustomerGroups": [
+                    {
+                        "id": 0,
+                        "code": "NOT LOGGED IN",
+                        "tax_class_id": 3,
+                        "tax_class_name": "Retail Customer"
+                    },
+                    {
+                        "id": 1,
+                        "code": "General",
+                        "tax_class_id": 3,
+                        "tax_class_name": "Retail Customer"
+                    },
+                    {
+                        "id": 188,
+                        "code": "Anti-Aging Customer",
+                        "tax_class_id": 3,
+                        "tax_class_name": "Retail Customer",
+                        "extension_attributes": {
+                            "customer_group_store_code": "184"
+                        }
+                    },
+                    {
+                        "id": 189,
+                        "code": "Anti-Aging Membership",
+                        "tax_class_id": 3,
+                        "tax_class_name": "Retail Customer",
+                        "extension_attributes": {
+                            "customer_group_store_code": "184"
+                        }
+                    }
+                ],
+                "discountAmount": 100,
+                "maxQtyForDiscount": 1,
+                "minQtyForDiscount": 1,
+                "nQtyY": 1,
+                "discardSubsequentRules": true,
+                "rulePriority": 5,
+                "label": "FREE Dermaplane",
+                "freeShipping": false,
+                "getYSKUS": [
+                    {
+                        "id": 1620,
+                        "sku": "SKUTREAT100722",
+                        "name": "Dermaplaning",
+                        "attribute_set_id": 15,
+                        "price": 150,
+                        "status": 1,
+                        "visibility": 4,
+                        "type_id": "virtual",
+                        "created_at": "2016-01-19 12:30:37",
+                        "updated_at": "2020-11-23 18:38:30",
+                        "product_links": [],
+                        "tier_prices": [],
+                        "custom_attributes": []
+                    }
+                ]
+            }
+        ],
+        "store": {
+            "id": 184,
+            "code": "antiageinstitute",
+            "name": "Institute of Anti-Aging Medicine and Skin Spa Store View",
+            "website_id": 184,
+            "store_group_id": 184
+        },
+        "typeCode": "SC-6B",
+        "labelsEvents": [],
+        "labelsGenerals": [],
+        "labelsManufactures": []
+    },
+    {
+        "promoID": "5fbd3bc344b48e003bacecbd",
+        "promoName": "10% OFF Stellar M22 PhotoFractional Laser (Institute of Anti-aging)",
+        "salesRules": [
+            {
+                "_id": "5fbd29a244b48e003bacecb7",
+                "discountType": "by_percent",
+                "ruleConditions": {
+                    "aggregator": {
+                        "type": "all",
+                        "value": "1"
+                    },
+                    "conditions": []
+                },
+                "ruleActions": {
+                    "aggregator": {
+                        "type": "all",
+                        "value": "1"
+                    },
+                    "conditions": [
+                        {
+                            "type": "sku",
+                            "operator": "==",
+                            "data": {
+                                "id": 19501,
+                                "sku": "SKUTREAT0029801",
+                                "name": "Photofractional",
+                                "attribute_set_id": 15,
+                                "price": 400,
+                                "status": 1,
+                                "visibility": 4,
+                                "type_id": "virtual",
+                                "created_at": "2020-11-13 15:58:48",
+                                "updated_at": "2020-11-23 18:38:57",
+                                "product_links": [],
+                                "tier_prices": [],
+                                "custom_attributes": []
+                            }
+                        }
+                    ]
+                },
+                "ruleName": "10% OFF Stellar M22 PhotoFractional Laser",
+                "ruleDescription": "10% OFF Stellar M22 PhotoFractional Laser",
+                "CustomerGroups": [
+                    {
+                        "id": 0,
+                        "code": "NOT LOGGED IN",
+                        "tax_class_id": 3,
+                        "tax_class_name": "Retail Customer"
+                    },
+                    {
+                        "id": 1,
+                        "code": "General",
+                        "tax_class_id": 3,
+                        "tax_class_name": "Retail Customer"
+                    },
+                    {
+                        "id": 188,
+                        "code": "Anti-Aging Customer",
+                        "tax_class_id": 3,
+                        "tax_class_name": "Retail Customer",
+                        "extension_attributes": {
+                            "customer_group_store_code": "184"
+                        }
+                    },
+                    {
+                        "id": 189,
+                        "code": "Anti-Aging Membership",
+                        "tax_class_id": 3,
+                        "tax_class_name": "Retail Customer",
+                        "extension_attributes": {
+                            "customer_group_store_code": "184"
+                        }
+                    }
+                ],
+                "discountAmount": 10,
+                "minQtyForDiscount": 1,
+                "discardSubsequentRules": true,
+                "rulePriority": 5,
+                "label": "10% OFF",
+                "freeShipping": false
+            }
+        ],
+        "store": {
+            "id": 184,
+            "code": "antiageinstitute",
+            "name": "Institute of Anti-Aging Medicine and Skin Spa Store View",
+            "website_id": 184,
+            "store_group_id": 184
+        },
+        "typeCode": "SC-1A",
+        "labelsEvents": [],
+        "labelsGenerals": [],
+        "labelsManufactures": []
+    },
+    {
+        "promoID": "5fbd29a244b48e003bacecb6",
+        "promoName": "10% OFF Chemical Peels (Institute of Anti-aging)",
+        "salesRules": [
+            {
+                "_id": "5fbd29a244b48e003bacecb7",
+                "discountType": "by_percent",
+                "ruleConditions": {
+                    "aggregator": {
+                        "type": "all",
+                        "value": "1"
+                    },
+                    "conditions": []
+                },
+                "ruleActions": {
+                    "aggregator": {
+                        "type": "all",
+                        "value": "1"
+                    },
+                    "conditions": [
+                        {
+                            "type": "sku",
+                            "operator": "()",
+                            "data": [
+                                {
+                                    "id": 1883,
+                                    "sku": "SKUTREAT0143",
+                                    "name": "VI Peel Purify",
+                                    "attribute_set_id": 15,
+                                    "price": 299,
+                                    "status": 1,
+                                    "visibility": 4,
+                                    "type_id": "virtual",
+                                    "created_at": "2016-01-19 12:30:50",
+                                    "updated_at": "2020-11-23 18:38:30",
+                                    "product_links": [],
+                                    "tier_prices": [],
+                                    "custom_attributes": []
+                                },
+                                {
+                                    "id": 1884,
+                                    "sku": "SKUTREAT0144",
+                                    "name": "VI Peel® Precision Plus",
+                                    "attribute_set_id": 15,
+                                    "price": 299,
+                                    "status": 1,
+                                    "visibility": 4,
+                                    "type_id": "virtual",
+                                    "created_at": "2016-01-19 12:30:50",
+                                    "updated_at": "2020-11-23 18:38:32",
+                                    "product_links": [],
+                                    "tier_prices": [],
+                                    "custom_attributes": []
+                                },
+                                {
+                                    "id": 4388,
+                                    "sku": "SKUTREAT0155-NOBD",
+                                    "name": "Vitalize Peel",
+                                    "attribute_set_id": 15,
+                                    "price": 175,
+                                    "status": 1,
+                                    "visibility": 4,
+                                    "type_id": "virtual",
+                                    "created_at": "2016-01-19 12:33:09",
+                                    "updated_at": "2020-11-23 18:38:34",
+                                    "product_links": [],
+                                    "tier_prices": [],
+                                    "custom_attributes": []
+                                },
+                                {
+                                    "id": 4400,
+                                    "sku": "SKUTREAT2279-NOBD",
+                                    "name": "Rejuvenize Peel",
+                                    "attribute_set_id": 15,
+                                    "price": 250,
+                                    "status": 1,
+                                    "visibility": 4,
+                                    "type_id": "virtual",
+                                    "created_at": "2016-01-19 12:33:10",
+                                    "updated_at": "2020-11-23 18:38:38",
+                                    "product_links": [],
+                                    "tier_prices": [],
+                                    "custom_attributes": []
+                                },
+                                {
+                                    "id": 4401,
+                                    "sku": "SKUTREAT2039-NOBD",
+                                    "name": "Illuminize Peel®",
+                                    "attribute_set_id": 15,
+                                    "price": 125,
+                                    "status": 1,
+                                    "visibility": 4,
+                                    "type_id": "virtual",
+                                    "created_at": "2016-01-19 12:33:10",
+                                    "updated_at": "2020-11-23 18:38:38",
+                                    "product_links": [],
+                                    "tier_prices": [],
+                                    "custom_attributes": []
+                                },
+                                {
+                                    "id": 11668,
+                                    "sku": "SKUTREAT03120",
+                                    "name": "VI Peel ",
+                                    "attribute_set_id": 15,
+                                    "price": 249,
+                                    "status": 1,
+                                    "visibility": 4,
+                                    "type_id": "virtual",
+                                    "created_at": "2018-05-03 11:36:29",
+                                    "updated_at": "2020-11-23 18:38:47",
+                                    "product_links": [],
+                                    "tier_prices": [],
+                                    "custom_attributes": []
+                                },
+                                {
+                                    "id": 17230,
+                                    "sku": "SKUTREAT002156",
+                                    "name": "VI Peel PURIFY with Precision Plus",
+                                    "attribute_set_id": 15,
+                                    "price": 299,
+                                    "status": 1,
+                                    "visibility": 4,
+                                    "type_id": "virtual",
+                                    "created_at": "2019-11-29 04:34:09",
+                                    "updated_at": "2020-11-23 18:38:48",
+                                    "product_links": [],
+                                    "tier_prices": [],
+                                    "custom_attributes": []
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "ruleName": "10% OFF Chemical Peels",
+                "ruleDescription": "10% OFF Chemical Peels",
+                "CustomerGroups": [
+                    {
+                        "id": 0,
+                        "code": "NOT LOGGED IN",
+                        "tax_class_id": 3,
+                        "tax_class_name": "Retail Customer"
+                    },
+                    {
+                        "id": 1,
+                        "code": "General",
+                        "tax_class_id": 3,
+                        "tax_class_name": "Retail Customer"
+                    },
+                    {
+                        "id": 188,
+                        "code": "Anti-Aging Customer",
+                        "tax_class_id": 3,
+                        "tax_class_name": "Retail Customer",
+                        "extension_attributes": {
+                            "customer_group_store_code": "184"
+                        }
+                    },
+                    {
+                        "id": 189,
+                        "code": "Anti-Aging Membership",
+                        "tax_class_id": 3,
+                        "tax_class_name": "Retail Customer",
+                        "extension_attributes": {
+                            "customer_group_store_code": "184"
+                        }
+                    }
+                ],
+                "discountAmount": 10,
+                "minQtyForDiscount": 1,
+                "discardSubsequentRules": true,
+                "rulePriority": 5,
+                "label": "10% OFF",
+                "freeShipping": false
+            }
+        ],
+        "store": {
+            "id": 184,
+            "code": "antiageinstitute",
+            "name": "Institute of Anti-Aging Medicine and Skin Spa Store View",
+            "website_id": 184,
+            "store_group_id": 184
+        },
+        "typeCode": "SC-1A",
+        "labelsEvents": [],
+        "labelsGenerals": [],
+        "labelsManufactures": []
+    },
+    {
+        "promoID": "5fbd270e44b48e003bacecb1",
+        "promoName": "$75 OFF on Each Syringe of Filler: (Institute of Anti-Aging)",
+        "salesRules": [
+            {
+                "_id": "5fbd270e44b48e003bacecb2",
+                "discountType": "by_fixed",
+                "ruleConditions": {
+                    "aggregator": {
+                        "type": "all",
+                        "value": "1"
+                    },
+                    "conditions": []
+                },
+                "ruleActions": {
+                    "aggregator": {
+                        "type": "all",
+                        "value": "1"
+                    },
+                    "conditions": [
+                        {
+                            "type": "sku",
+                            "operator": "()",
+                            "data": [
+                                {
+                                    "id": 4387,
+                                    "sku": "SKUTREAT0116-NOBD",
+                                    "name": "JUVÉDERM VOLUMA® XC",
+                                    "attribute_set_id": 15,
+                                    "price": 900,
+                                    "status": 1,
+                                    "visibility": 4,
+                                    "type_id": "virtual",
+                                    "created_at": "2016-01-19 12:33:09",
+                                    "updated_at": "2020-11-23 19:07:01",
+                                    "product_links": [],
+                                    "tier_prices": [],
+                                    "custom_attributes": []
+                                },
+                                {
+                                    "id": 4397,
+                                    "sku": "SKUTREAT1015-NOBD",
+                                    "name": "JUVÉDERM® Ultra XC ",
+                                    "attribute_set_id": 15,
+                                    "price": 650,
+                                    "status": 1,
+                                    "visibility": 4,
+                                    "type_id": "virtual",
+                                    "created_at": "2016-01-19 12:33:10",
+                                    "updated_at": "2020-11-23 19:07:03",
+                                    "product_links": [],
+                                    "tier_prices": [],
+                                    "custom_attributes": []
+                                },
+                                {
+                                    "id": 4398,
+                                    "sku": "SKUTREAT1022-NOBD",
+                                    "name": "JUVÉDERM® Ultra Plus XC",
+                                    "attribute_set_id": 15,
+                                    "price": 650,
+                                    "status": 1,
+                                    "visibility": 4,
+                                    "type_id": "virtual",
+                                    "created_at": "2016-01-19 12:33:10",
+                                    "updated_at": "2020-11-23 19:07:05",
+                                    "product_links": [],
+                                    "tier_prices": [],
+                                    "custom_attributes": []
+                                },
+                                {
+                                    "id": 8830,
+                                    "sku": "SKUTREAT7563-NOBD",
+                                    "name": "JUVÉDERM VOLBELLA® XC ",
+                                    "attribute_set_id": 15,
+                                    "price": 700,
+                                    "status": 1,
+                                    "visibility": 4,
+                                    "type_id": "virtual",
+                                    "created_at": "2017-02-27 15:33:50",
+                                    "updated_at": "2020-11-23 19:07:08",
+                                    "product_links": [],
+                                    "tier_prices": [],
+                                    "custom_attributes": []
+                                },
+                                {
+                                    "id": 9688,
+                                    "sku": "SKUTREAT10510-NOBD",
+                                    "name": "JUVÉDERM VOLLURE™ XC  ",
+                                    "attribute_set_id": 15,
+                                    "price": 750,
+                                    "status": 1,
+                                    "visibility": 4,
+                                    "type_id": "virtual",
+                                    "created_at": "2017-07-10 20:48:07",
+                                    "updated_at": "2020-11-23 19:07:10",
+                                    "product_links": [],
+                                    "tier_prices": [],
+                                    "custom_attributes": []
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "ruleName": "$75 OFF on Each Syringe of Filler:",
+                "ruleDescription": "$75 OFF on Each Syringe of Filler:",
+                "CustomerGroups": [
+                    {
+                        "id": 0,
+                        "code": "NOT LOGGED IN",
+                        "tax_class_id": 3,
+                        "tax_class_name": "Retail Customer"
+                    },
+                    {
+                        "id": 1,
+                        "code": "General",
+                        "tax_class_id": 3,
+                        "tax_class_name": "Retail Customer"
+                    },
+                    {
+                        "id": 188,
+                        "code": "Anti-Aging Customer",
+                        "tax_class_id": 3,
+                        "tax_class_name": "Retail Customer",
+                        "extension_attributes": {
+                            "customer_group_store_code": "184"
+                        }
+                    },
+                    {
+                        "id": 189,
+                        "code": "Anti-Aging Membership",
+                        "tax_class_id": 3,
+                        "tax_class_name": "Retail Customer",
+                        "extension_attributes": {
+                            "customer_group_store_code": "184"
+                        }
+                    }
+                ],
+                "discountAmount": 75,
+                "minQtyForDiscount": 1,
+                "discardSubsequentRules": true,
+                "rulePriority": 5,
+                "label": "$75 OFF",
+                "freeShipping": false
+            }
+        ],
+        "store": {
+            "id": 184,
+            "code": "antiageinstitute",
+            "name": "Institute of Anti-Aging Medicine and Skin Spa Store View",
+            "website_id": 184,
+            "store_group_id": 184
+        },
+        "typeCode": "SC-2A",
+        "labelsEvents": [],
+        "labelsGenerals": [],
+        "labelsManufactures": []
+    },
+    {
+        "promoID": "5fbd12d944b48e003baceca7",
+        "promoName": "Purchase 50 or More Units of BOTOX® for $12/Unit (Reg. $14/Unit) (Institute of Anti-Aging)",
+        "salesRules": [
+            {
+                "_id": "5fbd12d944b48e003baceca8",
+                "discountType": "eachn_fixdisc",
+                "ruleConditions": {
+                    "aggregator": {
+                        "type": "all",
+                        "value": "1"
+                    },
+                    "conditions": [
+                        {
+                            "type": "qty",
+                            "operator": ">=",
+                            "data": "50",
+                            "subConditions": [
+                                {
+                                    "type": "sku",
+                                    "operator": "==",
+                                    "data": {
+                                        "id": 1160,
+                                        "sku": "SKUTREAT1072",
+                                        "name": "BOTOX® by the Unit",
+                                        "attribute_set_id": 15,
+                                        "price": 14,
+                                        "status": 1,
+                                        "visibility": 4,
+                                        "type_id": "virtual",
+                                        "created_at": "2016-01-19 12:30:14",
+                                        "updated_at": "2020-11-23 18:38:28",
+                                        "product_links": [],
+                                        "tier_prices": [],
+                                        "custom_attributes": []
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "ruleActions": {
+                    "aggregator": {
+                        "type": "all",
+                        "value": "1"
+                    },
+                    "conditions": [
+                        {
+                            "type": "sku",
+                            "operator": "==",
+                            "data": {
+                                "id": 1160,
+                                "sku": "SKUTREAT1072",
+                                "name": "BOTOX® by the Unit",
+                                "attribute_set_id": 15,
+                                "price": 14,
+                                "status": 1,
+                                "visibility": 4,
+                                "type_id": "virtual",
+                                "created_at": "2016-01-19 12:30:14",
+                                "updated_at": "2020-11-23 18:38:28",
+                                "product_links": [],
+                                "tier_prices": [],
+                                "custom_attributes": []
+                            }
+                        }
+                    ]
+                },
+                "ruleName": "Purchase 50 or More Units of BOTOX® for $12/Unit (Reg. $14/Unit)",
+                "ruleDescription": "Purchase 50 or More Units of BOTOX® for $12/Unit (Reg. $14/Unit)",
+                "CustomerGroups": [
+                    {
+                        "id": 0,
+                        "code": "NOT LOGGED IN",
+                        "tax_class_id": 3,
+                        "tax_class_name": "Retail Customer"
+                    },
+                    {
+                        "id": 1,
+                        "code": "General",
+                        "tax_class_id": 3,
+                        "tax_class_name": "Retail Customer"
+                    },
+                    {
+                        "id": 188,
+                        "code": "Anti-Aging Customer",
+                        "tax_class_id": 3,
+                        "tax_class_name": "Retail Customer",
+                        "extension_attributes": {
+                            "customer_group_store_code": "184"
+                        }
+                    },
+                    {
+                        "id": 189,
+                        "code": "Anti-Aging Membership",
+                        "tax_class_id": 3,
+                        "tax_class_name": "Retail Customer",
+                        "extension_attributes": {
+                            "customer_group_store_code": "184"
+                        }
+                    }
+                ],
+                "discountAmount": 2,
+                "minQtyForDiscount": 1,
+                "discardSubsequentRules": true,
+                "rulePriority": 5,
+                "label": "Special Discount",
+                "freeShipping": false
+            }
+        ],
+        "store": {
+            "id": 184,
+            "code": "antiageinstitute",
+            "name": "Institute of Anti-Aging Medicine and Skin Spa Store View",
+            "website_id": 184,
+            "store_group_id": 184
+        },
+        "typeCode": "SC-13A",
+        "labelsEvents": [],
+        "labelsGenerals": [],
+        "labelsManufactures": []
+    },
+    {
+        "promoID": "5fbcfa6f44b48e003baceca0",
+        "promoName": "A New You’s Coolspa  (A New You) ",
+        "salesRules": [
+            {
+                "_id": "5fbcf8cb44b48e003bacec92",
+                "discountType": "by_fixed",
+                "ruleConditions": {
+                    "aggregator": {
+                        "type": "all",
+                        "value": "1"
+                    },
+                    "conditions": []
+                },
+                "ruleActions": {
+                    "aggregator": {
+                        "type": "all",
+                        "value": "1"
+                    },
+                    "conditions": [
+                        {
+                            "type": "sku",
+                            "operator": "==",
+                            "data": {
+                                "id": 16911,
+                                "sku": "SKUTREAT00345-LTS",
+                                "name": "A New You’s Coolspa  CoolTone™ Membership Workout without the WORK!",
+                                "attribute_set_id": 4,
+                                "price": 2800,
+                                "status": 1,
+                                "visibility": 2,
+                                "type_id": "virtual",
+                                "created_at": "2020-10-28 03:57:53",
+                                "updated_at": "2020-11-22 16:32:42",
+                                "product_links": [],
+                                "tier_prices": [],
+                                "custom_attributes": []
+                            }
+                        }
+                    ]
+                },
+                "ruleName": "CoolTone™ Membership Workout without the WORK! $1600 (Reg. $2800)",
+                "ruleDescription": "CoolTone™ Membership Workout without the WORK! $1600 (Reg. $2800)",
+                "CustomerGroups": [
+                    {
+                        "id": 0,
+                        "code": "NOT LOGGED IN",
+                        "tax_class_id": 3,
+                        "tax_class_name": "Retail Customer"
+                    },
+                    {
+                        "id": 1,
+                        "code": "General",
+                        "tax_class_id": 3,
+                        "tax_class_name": "Retail Customer"
+                    },
+                    {
+                        "id": 92,
+                        "code": "A New You Customer",
+                        "tax_class_id": 3,
+                        "tax_class_name": "Retail Customer",
+                        "extension_attributes": {
+                            "customer_group_store_code": "55"
+                        }
+                    }
+                ],
+                "discountAmount": 1200,
+                "maxQtyForDiscount": null,
+                "minQtyForDiscount": 1,
+                "discardSubsequentRules": true,
+                "rulePriority": 5,
+                "label": "Special Discount",
+                "freeShipping": false
+            }
+        ],
+        "store": {
+            "id": 55,
+            "code": "anewyouskinbodyclinic",
+            "name": "A New You Skin & Body Clinic Store View",
+            "website_id": 55,
+            "store_group_id": 55
+        },
+        "typeCode": "LTS-D",
+        "labelsEvents": [],
+        "labelsGenerals": [],
+        "labelsManufactures": []
+    },
+    {
+        "promoID": "5fbcfa0244b48e003bacec9b",
+        "promoName": "12days Dec4 alabama",
+        "salesRules": [
+            {
+                "_id": "5fbcfa0244b48e003bacec9c",
+                "discountType": "by_percent",
+                "ruleConditions": {
+                    "aggregator": {
+                        "type": "all",
+                        "value": "1"
+                    },
+                    "conditions": []
+                },
+                "ruleActions": {
+                    "aggregator": {
+                        "type": "all",
+                        "value": "1"
+                    },
+                    "conditions": [
+                        {
+                            "type": "category_ids",
+                            "operator": "==",
+                            "data": {
+                                "id": 3152,
+                                "parent_id": 2,
+                                "name": "Shop EltaMD Products",
+                                "is_active": true,
+                                "position": 8,
+                                "level": 2,
+                                "children": "",
+                                "created_at": "2020-04-09 16:13:07",
+                                "updated_at": "2020-05-19 19:14:04",
+                                "path": "1/2/3152",
+                                "available_sort_by": [],
+                                "include_in_menu": true,
+                                "custom_attributes": [],
+                                "nameWithPath": "Shop EltaMD Products"
+                            }
+                        }
+                    ]
+                },
+                "ruleName": "20% OFF All eltaMD® Products",
+                "ruleDescription": "20% OFF All eltaMD® Products",
+                "CustomerGroups": [
+                    {
+                        "id": 0,
+                        "code": "NOT LOGGED IN",
+                        "tax_class_id": 3,
+                        "tax_class_name": "Retail Customer"
+                    },
+                    {
+                        "id": 1,
+                        "code": "General",
+                        "tax_class_id": 3,
+                        "tax_class_name": "Retail Customer"
+                    },
+                    {
+                        "id": 127,
+                        "code": "Alabama Derm Associates Customer",
+                        "tax_class_id": 3,
+                        "tax_class_name": "Retail Customer",
+                        "extension_attributes": {
+                            "customer_group_store_code": "68"
+                        }
+                    }
+                ],
+                "discountAmount": 20,
+                "minQtyForDiscount": 1,
+                "discardSubsequentRules": true,
+                "rulePriority": 4,
+                "label": "20% OFF",
+                "freeShipping": false
+            }
+        ],
+        "store": {
+            "id": 68,
+            "code": "alabamaderm",
+            "name": "Alabama Dermatology Associates Store View",
+            "website_id": 68,
+            "store_group_id": 68
+        },
+        "typeCode": "SC-1A",
+        "labelsEvents": [],
+        "labelsGenerals": [],
+        "labelsManufactures": []
+    },
+    {
+        "promoID": "5fbcf9e144b48e003bacec99",
+        "promoName": "PR (A New You)",
+        "salesRules": [],
+        "store": {
+            "id": 55,
+            "code": "anewyouskinbodyclinic",
+            "name": "A New You Skin & Body Clinic Store View",
+            "website_id": 55,
+            "store_group_id": 55
+        },
+        "typeCode": "PR",
+        "labelsEvents": [],
+        "labelsGenerals": [],
+        "labelsManufactures": []
+    },
+    {
+        "promoID": "5fbcf93844b48e003bacec94",
+        "promoName": "12days Dec3 alabama",
+        "salesRules": [
+            {
+                "_id": "5fbcf93844b48e003bacec95",
+                "discountType": "by_percent",
+                "ruleConditions": {
+                    "aggregator": {
+                        "type": "all",
+                        "value": "1"
+                    },
+                    "conditions": []
+                },
+                "ruleActions": {
+                    "aggregator": {
+                        "type": "all",
+                        "value": "1"
+                    },
+                    "conditions": [
+                        {
+                            "type": "category_ids",
+                            "operator": "==",
+                            "data": {
+                                "id": 1958,
+                                "parent_id": 194,
+                                "name": "Eye & Lip Care",
+                                "is_active": true,
+                                "position": 5,
+                                "level": 4,
+                                "children": "",
+                                "created_at": "2018-11-21 10:05:45",
+                                "updated_at": "2020-03-02 11:04:53",
+                                "path": "1/2/39/194/1958",
+                                "available_sort_by": [],
+                                "include_in_menu": true,
+                                "custom_attributes": [],
+                                "nameWithPath": "Shop SkinCeuticals / Category / Eye & Lip Care"
+                            }
+                        },
+                        {
+                            "type": "sku",
+                            "operator": "!=",
+                            "data": {
+                                "id": 19192,
+                                "sku": "SKUPROD0001376",
+                                "name": "Eye & Lip Essentials",
+                                "attribute_set_id": 13,
+                                "price": 158,
+                                "status": 1,
+                                "visibility": 4,
+                                "type_id": "simple",
+                                "created_at": "2020-05-25 18:20:41",
+                                "updated_at": "2020-09-30 16:42:50",
+                                "weight": 1,
+                                "product_links": [],
+                                "tier_prices": [],
+                                "custom_attributes": []
+                            }
+                        }
+                    ]
+                },
+                "ruleName": "20% OFF SkinCeuticals Eye and Lip Care **Exclude bundles.",
+                "ruleDescription": "20% OFF SkinCeuticals Eye and Lip Care **Exclude bundles.",
+                "CustomerGroups": [
+                    {
+                        "id": 0,
+                        "code": "NOT LOGGED IN",
+                        "tax_class_id": 3,
+                        "tax_class_name": "Retail Customer"
+                    },
+                    {
+                        "id": 1,
+                        "code": "General",
+                        "tax_class_id": 3,
+                        "tax_class_name": "Retail Customer"
+                    },
+                    {
+                        "id": 127,
+                        "code": "Alabama Derm Associates Customer",
+                        "tax_class_id": 3,
+                        "tax_class_name": "Retail Customer",
+                        "extension_attributes": {
+                            "customer_group_store_code": "68"
+                        }
+                    }
+                ],
+                "discountAmount": 20,
+                "minQtyForDiscount": 1,
+                "discardSubsequentRules": true,
+                "rulePriority": 4,
+                "label": "20% OFF",
+                "freeShipping": false
+            }
+        ],
+        "store": {
+            "id": 68,
+            "code": "alabamaderm",
+            "name": "Alabama Dermatology Associates Store View",
+            "website_id": 68,
+            "store_group_id": 68
+        },
+        "typeCode": "SC-1A",
+        "labelsEvents": [],
+        "labelsGenerals": [],
+        "labelsManufactures": []
+    },
+    {
+        "promoID": "5fbcf8cb44b48e003bacec91",
+        "promoName": "Vanilla Ginger Facial for $99 (Reg. Price $125) (A New You)",
+        "salesRules": [
+            {
+                "_id": "5fbcf8cb44b48e003bacec92",
+                "discountType": "eachn_fixdisc",
+                "ruleConditions": {
+                    "aggregator": {
+                        "type": "all",
+                        "value": "1"
+                    },
+                    "conditions": []
+                },
+                "ruleActions": {
+                    "aggregator": {
+                        "type": "all",
+                        "value": "1"
+                    },
+                    "conditions": [
+                        {
+                            "type": "sku",
+                            "operator": "==",
+                            "data": {
+                                "id": 16921,
+                                "sku": "SKUTREAT00406-LTS",
+                                "name": "Vanilla Ginger Facial ",
+                                "attribute_set_id": 15,
+                                "price": 125,
+                                "status": 1,
+                                "visibility": 2,
+                                "type_id": "virtual",
+                                "created_at": "2020-11-19 12:18:46",
+                                "updated_at": "2020-11-24 11:55:39",
+                                "product_links": [],
+                                "tier_prices": [],
+                                "custom_attributes": []
+                            }
+                        }
+                    ]
+                },
+                "ruleName": "Vanilla Ginger Facial for $99 (Reg. Price $125)",
+                "ruleDescription": "Vanilla Ginger Facial for $99 (Reg. Price $125)",
+                "CustomerGroups": [
+                    {
+                        "id": 0,
+                        "code": "NOT LOGGED IN",
+                        "tax_class_id": 3,
+                        "tax_class_name": "Retail Customer"
+                    },
+                    {
+                        "id": 1,
+                        "code": "General",
+                        "tax_class_id": 3,
+                        "tax_class_name": "Retail Customer"
+                    },
+                    {
+                        "id": 92,
+                        "code": "A New You Customer",
+                        "tax_class_id": 3,
+                        "tax_class_name": "Retail Customer",
+                        "extension_attributes": {
+                            "customer_group_store_code": "55"
+                        }
+                    }
+                ],
+                "discountAmount": 26,
+                "maxQtyForDiscount": 1,
+                "minQtyForDiscount": 1,
+                "discardSubsequentRules": true,
+                "rulePriority": 5,
+                "label": "Special Discount",
+                "freeShipping": false
+            }
+        ],
+        "store": {
+            "id": 55,
+            "code": "anewyouskinbodyclinic",
+            "name": "A New You Skin & Body Clinic Store View",
+            "website_id": 55,
+            "store_group_id": 55
+        },
+        "typeCode": "LTS-D",
+        "labelsEvents": [],
+        "labelsGenerals": [],
+        "labelsManufactures": []
+    },
+    {
+        "promoID": "5fbcf7e544b48e003bacec8d",
+        "promoName": "12days Dec2 alabama",
+        "salesRules": [
+            {
+                "_id": "5fbcf7e544b48e003bacec8e",
+                "discountType": "by_percent",
+                "ruleConditions": {
+                    "aggregator": {
+                        "type": "all",
+                        "value": "1"
+                    },
+                    "conditions": []
+                },
+                "ruleActions": {
+                    "aggregator": {
+                        "type": "all",
+                        "value": "1"
+                    },
+                    "conditions": [
+                        {
+                            "type": "category_ids",
+                            "operator": "==",
+                            "data": {
+                                "id": 1951,
+                                "parent_id": 194,
+                                "name": "Corrective Serums",
+                                "is_active": true,
+                                "position": 4,
+                                "level": 4,
+                                "children": "",
+                                "created_at": "2018-11-21 10:05:32",
+                                "updated_at": "2020-07-01 15:27:32",
+                                "path": "1/2/39/194/1951",
+                                "available_sort_by": [],
+                                "include_in_menu": true,
+                                "custom_attributes": [],
+                                "nameWithPath": "Shop SkinCeuticals / Category / Corrective Serums"
+                            }
+                        },
+                        {
+                            "type": "sku",
+                            "operator": "!()",
+                            "data": [
+                                {
+                                    "id": 19195,
+                                    "sku": "SKUPROD0001380",
+                                    "name": "Microneedling Prep Pack",
+                                    "attribute_set_id": 13,
+                                    "price": 185,
+                                    "status": 1,
+                                    "visibility": 4,
+                                    "type_id": "simple",
+                                    "created_at": "2020-05-25 20:14:40",
+                                    "updated_at": "2020-09-30 15:52:54",
+                                    "weight": 0.192,
+                                    "product_links": [],
+                                    "tier_prices": [],
+                                    "custom_attributes": []
+                                },
+                                {
+                                    "id": 19190,
+                                    "sku": "SKUPROD0001374",
+                                    "name": "Clear Skin Essentials",
+                                    "attribute_set_id": 13,
+                                    "price": 209,
+                                    "status": 1,
+                                    "visibility": 4,
+                                    "type_id": "simple",
+                                    "created_at": "2020-05-25 17:39:16",
+                                    "updated_at": "2020-09-30 16:33:57",
+                                    "weight": 1,
+                                    "product_links": [],
+                                    "tier_prices": [],
+                                    "custom_attributes": []
+                                },
+                                {
+                                    "id": 12667,
+                                    "sku": "SKUPROD200449-DS",
+                                    "name": "SkinCeuticals Brightening Skin System",
+                                    "attribute_set_id": 13,
+                                    "price": 275,
+                                    "status": 1,
+                                    "visibility": 4,
+                                    "type_id": "simple",
+                                    "created_at": "2018-08-17 04:53:00",
+                                    "updated_at": "2020-08-05 22:32:34",
+                                    "weight": 1,
+                                    "product_links": [],
+                                    "tier_prices": [],
+                                    "custom_attributes": []
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "ruleName": "20% OFF SkinCeuticals Corrective Serums **Exclude bundles and skin system.",
+                "ruleDescription": "20% OFF SkinCeuticals Corrective Serums **Exclude bundles and skin system.",
+                "CustomerGroups": [
+                    {
+                        "id": 0,
+                        "code": "NOT LOGGED IN",
+                        "tax_class_id": 3,
+                        "tax_class_name": "Retail Customer"
+                    },
+                    {
+                        "id": 127,
+                        "code": "Alabama Derm Associates Customer",
+                        "tax_class_id": 3,
+                        "tax_class_name": "Retail Customer",
+                        "extension_attributes": {
+                            "customer_group_store_code": "68"
+                        }
+                    },
+                    {
+                        "id": 1,
+                        "code": "General",
+                        "tax_class_id": 3,
+                        "tax_class_name": "Retail Customer"
+                    }
+                ],
+                "discountAmount": 20,
+                "minQtyForDiscount": 1,
+                "discardSubsequentRules": true,
+                "rulePriority": 4,
+                "label": "20% OFF",
+                "freeShipping": false
+            }
+        ],
+        "store": {
+            "id": 68,
+            "code": "alabamaderm",
+            "name": "Alabama Dermatology Associates Store View",
+            "website_id": 68,
+            "store_group_id": 68
+        },
+        "typeCode": "SC-1A",
+        "labelsEvents": [],
+        "labelsGenerals": [],
+        "labelsManufactures": []
+    },
+    {
+        "promoID": "5fbcf70144b48e003bacec8a",
+        "promoName": "Gift Card (A New You)",
+        "salesRules": [],
+        "store": {
+            "id": 55,
+            "code": "anewyouskinbodyclinic",
+            "name": "A New You Skin & Body Clinic Store View",
+            "website_id": 55,
+            "store_group_id": 55
+        },
+        "typeCode": "LTS-A",
+        "labelsEvents": [],
+        "labelsGenerals": [],
+        "labelsManufactures": []
+    },
+    {
+        "promoID": "5fbcf67444b48e003bacec84",
+        "promoName": "12days Dec1 alabama",
+        "salesRules": [
+            {
+                "_id": "5fbcf67444b48e003bacec85",
+                "discountType": "by_percent",
+                "ruleConditions": {
+                    "aggregator": {
+                        "type": "all",
+                        "value": "1"
+                    },
+                    "conditions": []
+                },
+                "ruleActions": {
+                    "aggregator": {
+                        "type": "all",
+                        "value": "1"
+                    },
+                    "conditions": [
+                        {
+                            "type": "category_ids",
+                            "operator": "==",
+                            "data": {
+                                "id": 1950,
+                                "parent_id": 194,
+                                "name": "Sunscreens",
+                                "is_active": true,
+                                "position": 15,
+                                "level": 4,
+                                "children": "",
+                                "created_at": "2018-11-21 10:05:31",
+                                "updated_at": "2020-07-01 18:59:55",
+                                "path": "1/2/39/194/1950",
+                                "available_sort_by": [],
+                                "include_in_menu": true,
+                                "custom_attributes": [],
+                                "nameWithPath": "Shop SkinCeuticals / Category / Sunscreens"
+                            }
+                        },
+                        {
+                            "type": "sku",
+                            "operator": "!=",
+                            "data": {
+                                "id": 19188,
+                                "sku": "SKUPROD0001372",
+                                "name": "Rejuvenation Essentials",
+                                "attribute_set_id": 13,
+                                "price": 175,
+                                "status": 1,
+                                "visibility": 4,
+                                "type_id": "simple",
+                                "created_at": "2020-05-25 17:11:05",
+                                "updated_at": "2020-07-20 15:04:41",
+                                "weight": 1,
+                                "product_links": [],
+                                "tier_prices": [],
+                                "custom_attributes": []
+                            }
+                        }
+                    ]
+                },
+                "ruleName": "20% OFF SkinCeuticals Sunscreens Exclude bundles.",
+                "ruleDescription": "20% OFF SkinCeuticals Sunscreens Exclude bundles.",
+                "CustomerGroups": [
+                    {
+                        "id": 0,
+                        "code": "NOT LOGGED IN",
+                        "tax_class_id": 3,
+                        "tax_class_name": "Retail Customer"
+                    },
+                    {
+                        "id": 1,
+                        "code": "General",
+                        "tax_class_id": 3,
+                        "tax_class_name": "Retail Customer"
+                    },
+                    {
+                        "id": 127,
+                        "code": "Alabama Derm Associates Customer",
+                        "tax_class_id": 3,
+                        "tax_class_name": "Retail Customer",
+                        "extension_attributes": {
+                            "customer_group_store_code": "68"
+                        }
+                    }
+                ],
+                "discountAmount": 20,
+                "minQtyForDiscount": 1,
+                "discardSubsequentRules": true,
+                "rulePriority": 5,
+                "label": "20% OFF",
+                "freeShipping": false
+            }
+        ],
+        "store": {
+            "id": 68,
+            "code": "alabamaderm",
+            "name": "Alabama Dermatology Associates Store View",
+            "website_id": 68,
+            "store_group_id": 68
+        },
+        "typeCode": "SC-1A",
+        "labelsEvents": [],
+        "labelsGenerals": [],
+        "labelsManufactures": []
+    },
+    {
+        "promoID": "5fbcf37244b48e003bacec80",
+        "promoName": "Virginia Purchase Any Filler for $75 OFF",
+        "salesRules": [
+            {
+                "_id": "5fbcf37244b48e003bacec81",
+                "discountType": "by_fixed",
+                "ruleConditions": {
+                    "aggregator": {
+                        "type": "all",
+                        "value": "1"
+                    },
+                    "conditions": []
+                },
+                "ruleActions": {
+                    "aggregator": {
+                        "type": "all",
+                        "value": "1"
+                    },
+                    "conditions": [
+                        {
+                            "type": "category_ids",
+                            "operator": "==",
+                            "data": {
+                                "id": 914,
+                                "parent_id": 154,
+                                "name": "Fillers",
+                                "is_active": true,
+                                "position": 24,
+                                "level": 4,
+                                "children": "",
+                                "created_at": "2018-11-21 09:34:57",
+                                "updated_at": "2020-09-29 13:03:49",
+                                "path": "1/2/31/154/914",
+                                "available_sort_by": [],
+                                "include_in_menu": true,
+                                "custom_attributes": [],
+                                "nameWithPath": "Medspa / Medspa Services by Treatment Type / Fillers"
+                            }
+                        }
+                    ]
+                },
+                "ruleName": "Purchase Any Filler for $75 OFF",
+                "ruleDescription": "Purchase Any Filler for $75 OFF",
+                "CustomerGroups": [
+                    {
+                        "id": 0,
+                        "code": "NOT LOGGED IN",
+                        "tax_class_id": 3,
+                        "tax_class_name": "Retail Customer"
+                    },
+                    {
+                        "id": 1,
+                        "code": "General",
+                        "tax_class_id": 3,
+                        "tax_class_name": "Retail Customer"
+                    },
+                    {
+                        "id": 94,
+                        "code": "VirginiaDermatologyCustomers",
+                        "tax_class_id": 3,
+                        "tax_class_name": "Retail Customer",
+                        "extension_attributes": {
+                            "customer_group_store_code": "57"
+                        }
+                    }
+                ],
+                "discountAmount": 75,
+                "minQtyForDiscount": 1,
+                "discardSubsequentRules": true,
+                "rulePriority": 5,
+                "label": "$75 OFF",
+                "freeShipping": false
+            }
+        ],
+        "store": {
+            "id": 57,
+            "code": "virginiamohs",
+            "name": "Virginia Dermatology Store View",
+            "website_id": 57,
+            "store_group_id": 57
+        },
+        "typeCode": "SC-2A",
+        "labelsEvents": [],
+        "labelsGenerals": [],
+        "labelsManufactures": []
+    },
+    {
+        "promoID": "5fbcf26544b48e003bacec78",
+        "promoName": "Virginia Purchase BOTOX® $11 Per Unit (Reg. $13/Unit)",
+        "salesRules": [
+            {
+                "_id": "5fbcf26544b48e003bacec79",
+                "discountType": "by_fixed",
+                "ruleConditions": {
+                    "aggregator": {
+                        "type": "all",
+                        "value": "1"
+                    },
+                    "conditions": []
+                },
+                "ruleActions": {
+                    "aggregator": {
+                        "type": "all",
+                        "value": "1"
+                    },
+                    "conditions": [
+                        {
+                            "type": "sku",
+                            "operator": "==",
+                            "data": {
+                                "id": 7421,
+                                "sku": "SKUTREAT9705",
+                                "name": "Botox® by the Unit",
+                                "attribute_set_id": 4,
+                                "price": 13,
+                                "status": 1,
+                                "visibility": 4,
+                                "type_id": "virtual",
+                                "created_at": "2017-02-27 15:32:52",
+                                "updated_at": "2020-10-19 14:57:19",
+                                "product_links": [],
+                                "tier_prices": [],
+                                "custom_attributes": []
+                            }
+                        }
+                    ]
+                },
+                "ruleName": "Purchase BOTOX® $11 Per Unit (Reg. $13/Unit)",
+                "ruleDescription": "Purchase BOTOX® $11 Per Unit (Reg. $13/Unit)",
+                "CustomerGroups": [
+                    {
+                        "id": 0,
+                        "code": "NOT LOGGED IN",
+                        "tax_class_id": 3,
+                        "tax_class_name": "Retail Customer"
+                    },
+                    {
+                        "id": 1,
+                        "code": "General",
+                        "tax_class_id": 3,
+                        "tax_class_name": "Retail Customer"
+                    },
+                    {
+                        "id": 94,
+                        "code": "VirginiaDermatologyCustomers",
+                        "tax_class_id": 3,
+                        "tax_class_name": "Retail Customer",
+                        "extension_attributes": {
+                            "customer_group_store_code": "57"
+                        }
+                    }
+                ],
+                "discountAmount": 2,
+                "minQtyForDiscount": 1,
+                "discardSubsequentRules": true,
+                "label": "Special Discount",
+                "freeShipping": false,
+                "rulePriority": 5
+            }
+        ],
+        "store": {
+            "id": 57,
+            "code": "virginiamohs",
+            "name": "Virginia Dermatology Store View",
+            "website_id": 57,
+            "store_group_id": 57
+        },
+        "typeCode": "SC-2A",
+        "labelsEvents": [],
+        "labelsGenerals": [],
+        "labelsManufactures": []
+    },
+    {
+        "promoID": "5fbcf1ad44b48e003bacec75",
+        "promoName": "Virginia PR",
+        "salesRules": [],
+        "store": {
+            "id": 57,
+            "code": "virginiamohs",
+            "name": "Virginia Dermatology Store View",
+            "website_id": 57,
+            "store_group_id": 57
+        },
+        "typeCode": "PR",
+        "labelsEvents": [],
+        "labelsGenerals": [],
+        "labelsManufactures": []
+    },
+    {
+        "promoID": "5fbce94e44b48e003bacec63",
+        "promoName": "BOTOX® 20 Units for $220 (Reg. $260)",
+        "salesRules": [
+            {
+                "_id": "5fbce94e44b48e003bacec64",
+                "discountType": "by_fixed",
+                "ruleConditions": {
+                    "aggregator": {
+                        "type": "all",
+                        "value": "1"
+                    },
+                    "conditions": []
+                },
+                "ruleActions": {
+                    "aggregator": {
+                        "type": "all",
+                        "value": "1"
+                    },
+                    "conditions": [
+                        {
+                            "type": "sku",
+                            "operator": "==",
+                            "data": {
+                                "id": 1061,
+                                "sku": "SKUTREAT1021",
+                                "name": "Botox® Cosmetic",
+                                "attribute_set_id": 15,
+                                "price": 260,
+                                "status": 1,
+                                "visibility": 4,
+                                "type_id": "virtual",
+                                "created_at": "2016-01-19 12:30:09",
+                                "updated_at": "2020-09-21 14:05:50",
+                                "product_links": [],
+                                "tier_prices": [],
+                                "custom_attributes": []
+                            }
+                        }
+                    ]
+                },
+                "ruleName": "BOTOX® 20 Units for $220 (Reg. $260)",
+                "ruleDescription": "BOTOX® 20 Units for $220 (Reg. $260)",
+                "CustomerGroups": [
+                    {
+                        "id": 0,
+                        "code": "NOT LOGGED IN",
+                        "tax_class_id": 3,
+                        "tax_class_name": "Retail Customer"
+                    },
+                    {
+                        "id": 1,
+                        "code": "General",
+                        "tax_class_id": 3,
+                        "tax_class_name": "Retail Customer"
+                    },
+                    {
+                        "id": 219,
+                        "code": "Village Dermatology Customer",
+                        "tax_class_id": 3,
+                        "tax_class_name": "Retail Customer",
+                        "extension_attributes": {
+                            "customer_group_store_code": "124"
+                        }
+                    },
+                    {
+                        "id": 220,
+                        "code": "Village Dermatology Membe",
+                        "tax_class_id": 3,
+                        "tax_class_name": "Retail Customer",
+                        "extension_attributes": {
+                            "customer_group_store_code": "124"
+                        }
+                    }
+                ],
+                "discountAmount": 40,
+                "minQtyForDiscount": 1,
+                "discardSubsequentRules": true,
+                "rulePriority": 5,
+                "label": "Special Discount",
+                "freeShipping": false
+            }
+        ],
+        "store": {
+            "id": 124,
+            "code": "villagedermatology",
+            "name": "Village Dermatology Store View",
+            "website_id": 124,
+            "store_group_id": 124
+        },
+        "typeCode": "SC-2A",
+        "labelsEvents": [],
+        "labelsGenerals": [],
+        "labelsManufactures": []
+    },
+    {
+        "promoID": "5fbc006544b48e003bacec45",
+        "promoName": "20% OFF All Products and Services *Exclude BOTOX® and package treatments.",
+        "salesRules": [
+            {
+                "_id": "5fbc006544b48e003bacec46",
+                "discountType": "by_percent",
+                "ruleConditions": {
+                    "aggregator": {
+                        "type": "all",
+                        "value": "1"
+                    },
+                    "conditions": []
+                },
+                "ruleActions": {
+                    "aggregator": {
+                        "type": "all",
+                        "value": "1"
+                    },
+                    "conditions": [
+                        {
+                            "type": "category_ids",
+                            "operator": "()",
+                            "data": [
+                                {
+                                    "id": 4,
+                                    "parent_id": 2,
+                                    "name": "Products",
+                                    "is_active": true,
+                                    "position": 13,
+                                    "level": 2,
+                                    "children": "106,181,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,69,70,72,73,87,93",
+                                    "created_at": "2018-11-21 09:25:08",
+                                    "updated_at": "2020-11-16 14:40:18",
+                                    "path": "1/2/4",
+                                    "available_sort_by": [],
+                                    "include_in_menu": true,
+                                    "custom_attributes": [],
+                                    "nameWithPath": "Products"
+                                },
+                                {
+                                    "id": 6,
+                                    "parent_id": 2,
+                                    "name": "Treatments",
+                                    "is_active": true,
+                                    "position": 11,
+                                    "level": 2,
+                                    "children": "101,108,109,110,112,117,129,136,149,168,199,55,56,59,68,74,75,76,77,80,84,86,88",
+                                    "created_at": "2018-11-21 09:25:09",
+                                    "updated_at": "2020-08-10 17:56:43",
+                                    "path": "1/2/6",
+                                    "available_sort_by": [],
+                                    "include_in_menu": true,
+                                    "custom_attributes": [],
+                                    "nameWithPath": "Treatments"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "sku",
+                            "operator": "!()",
+                            "data": [
+                                {
+                                    "id": 1061,
+                                    "sku": "SKUTREAT1021",
+                                    "name": "Botox® Cosmetic",
+                                    "attribute_set_id": 15,
+                                    "price": 260,
+                                    "status": 1,
+                                    "visibility": 4,
+                                    "type_id": "virtual",
+                                    "created_at": "2016-01-19 12:30:09",
+                                    "updated_at": "2020-09-21 14:05:50",
+                                    "product_links": [],
+                                    "tier_prices": [],
+                                    "custom_attributes": []
+                                },
+                                {
+                                    "id": 5504,
+                                    "sku": "SKUTREAT9488",
+                                    "name": "Cosmetic Consultation with Physician",
+                                    "attribute_set_id": 4,
+                                    "price": 75,
+                                    "status": 1,
+                                    "visibility": 4,
+                                    "type_id": "virtual",
+                                    "created_at": "2016-01-19 12:34:12",
+                                    "updated_at": "2020-05-26 01:21:50",
+                                    "product_links": [],
+                                    "tier_prices": [],
+                                    "custom_attributes": []
+                                }
+                            ]
+                        },
+                        {
+                            "type": "sku",
+                            "operator": "!{}",
+                            "data": "SKUGIFT"
+                        },
+                        {
+                            "type": "quote_item_sku",
+                            "operator": "!{}",
+                            "data": "bdsku"
+                        },
+                        {
+                            "type": "quote_item_sku",
+                            "operator": "!{}",
+                            "data": "pkg"
+                        }
+                    ]
+                },
+                "ruleName": "20% OFF All Products and Services *Exclude BOTOX® and package treatments.",
+                "ruleDescription": "20% OFF All Products and Services *Exclude BOTOX® and package treatments.",
+                "CustomerGroups": [
+                    {
+                        "id": 0,
+                        "code": "NOT LOGGED IN",
+                        "tax_class_id": 3,
+                        "tax_class_name": "Retail Customer"
+                    },
+                    {
+                        "id": 1,
+                        "code": "General",
+                        "tax_class_id": 3,
+                        "tax_class_name": "Retail Customer"
+                    },
+                    {
+                        "id": 219,
+                        "code": "Village Dermatology Customer",
+                        "tax_class_id": 3,
+                        "tax_class_name": "Retail Customer",
+                        "extension_attributes": {
+                            "customer_group_store_code": "124"
+                        }
+                    },
+                    {
+                        "id": 220,
+                        "code": "Village Dermatology Membe",
+                        "tax_class_id": 3,
+                        "tax_class_name": "Retail Customer",
+                        "extension_attributes": {
+                            "customer_group_store_code": "124"
+                        }
+                    }
+                ],
+                "discountAmount": 20,
+                "minQtyForDiscount": 1,
+                "discardSubsequentRules": true,
+                "rulePriority": 5,
+                "label": "20% OFF",
+                "freeShipping": false
+            }
+        ],
+        "store": {
+            "id": 124,
+            "code": "villagedermatology",
+            "name": "Village Dermatology Store View",
+            "website_id": 124,
+            "store_group_id": 124
+        },
+        "typeCode": "SC-1B",
+        "labelsEvents": [],
+        "labelsGenerals": [],
+        "labelsManufactures": []
+    },
+    {
+        "promoID": "5fbbfc5a44b48e003bacec39",
+        "promoName": "LTS Gift Card",
+        "salesRules": [],
+        "store": {
+            "id": 188,
+            "code": "sbplasticsurgery",
+            "name": "Santa Barbara Plastic Surgery Center & Medi Spa Store View",
+            "website_id": 188,
+            "store_group_id": 188
+        },
+        "typeCode": "LTS-A",
+        "labelsEvents": [],
+        "labelsGenerals": [],
+        "labelsManufactures": []
+    },
+    {
+        "promoID": "5fbbfb2744b48e003bacec36",
+        "promoName": "LTS Gift Card",
+        "salesRules": [],
+        "store": {
+            "id": 185,
+            "code": "simplyskinmedspa",
+            "name": "Simply Skin & Medi Spa Store View",
+            "website_id": 185,
+            "store_group_id": 185
+        },
+        "typeCode": "LTS-A",
+        "labelsEvents": [],
+        "labelsGenerals": [],
+        "labelsManufactures": []
+    },
+    {
+        "promoID": "5fbbec8344b48e003bacec2f",
+        "promoName": "EyeLash Extensions - Full Set Classic for $199 (Reg. $250)(Bella) ",
+        "salesRules": [
+            {
+                "_id": "5fbbed7d44b48e003bacec31",
+                "discountType": "by_fixed",
+                "ruleConditions": {
+                    "aggregator": {
+                        "type": "all",
+                        "value": "1"
+                    },
+                    "conditions": []
+                },
+                "ruleActions": {
+                    "aggregator": {
+                        "type": "all",
+                        "value": "1"
+                    },
+                    "conditions": [
+                        {
+                            "type": "quote_item_sku",
+                            "operator": "==",
+                            "data": "SKUTREAT002656-opt2"
+                        }
+                    ]
+                },
+                "ruleName": " Eyelash Extensions - Full Set Classic for $199 (Reg. $250)",
+                "ruleDescription": " Eyelash Extensions - Full Set Classic for $199 (Reg. $250)",
+                "CustomerGroups": [
+                    {
+                        "id": 0,
+                        "code": "NOT LOGGED IN",
+                        "tax_class_id": 3,
+                        "tax_class_name": "Retail Customer"
+                    },
+                    {
+                        "id": 1,
+                        "code": "General",
+                        "tax_class_id": 3,
+                        "tax_class_name": "Retail Customer"
+                    },
+                    {
+                        "id": 136,
+                        "code": "Bella Body  Customer",
+                        "tax_class_id": 3,
+                        "tax_class_name": "Retail Customer",
+                        "extension_attributes": {
+                            "customer_group_store_code": "74"
+                        }
+                    },
+                    {
+                        "id": 137,
+                        "code": "Bella Body  VIP Club",
+                        "tax_class_id": 3,
+                        "tax_class_name": "Retail Customer",
+                        "extension_attributes": {
+                            "customer_group_store_code": "74"
+                        }
+                    }
+                ],
+                "discountAmount": 51,
+                "minQtyForDiscount": 1,
+                "discardSubsequentRules": true,
+                "rulePriority": 5,
+                "label": "Special Discount",
+                "freeShipping": false
+            }
+        ],
+        "store": {
+            "id": 74,
+            "code": "bellabodymedicalspa",
+            "name": "Bella Body Medical Spa Store View",
+            "website_id": 74,
+            "store_group_id": 74
+        },
+        "typeCode": "SC-2B",
+        "labelsEvents": [],
+        "labelsGenerals": [],
+        "labelsManufactures": []
+    },
+    {
+        "promoID": "5fbbebb444b48e003bacec2b",
+        "promoName": "PR (Bella) ",
+        "salesRules": [],
+        "store": {
+            "id": 74,
+            "code": "bellabodymedicalspa",
+            "name": "Bella Body Medical Spa Store View",
+            "website_id": 74,
+            "store_group_id": 74
+        },
+        "typeCode": "PR",
+        "labelsEvents": [],
+        "labelsGenerals": [],
+        "labelsManufactures": []
+    },
+    {
+        "promoID": "5fbbeb6944b48e003bacec28",
+        "promoName": "PR (Bella)",
+        "salesRules": [],
+        "store": {
+            "id": 74,
+            "code": "bellabodymedicalspa",
+            "name": "Bella Body Medical Spa Store View",
+            "website_id": 74,
+            "store_group_id": 74
+        },
+        "typeCode": "PR",
+        "labelsEvents": [],
+        "labelsGenerals": [],
+        "labelsManufactures": []
+    },
+    {
+        "promoID": "5fbba29844b48e003bacec1e",
+        "promoName": "LTS Gift Card",
+        "salesRules": [],
+        "store": {
+            "id": 59,
+            "code": "invernessderm",
+            "name": "Inverness Dermatology & Laser Store View",
+            "website_id": 59,
+            "store_group_id": 59
+        },
+        "typeCode": "LTS-A",
+        "labelsEvents": [],
+        "labelsGenerals": [],
+        "labelsManufactures": []
+    },
+    {
+        "promoID": "5fbb9d5e44b48e003bacec14",
+        "promoName": "PR",
+        "salesRules": [],
+        "store": {
+            "id": 76,
+            "code": "shellplasticsurgery",
+            "name": "Shell Plastic Surgery Store View",
+            "website_id": 76,
+            "store_group_id": 76
+        },
+        "typeCode": "PR",
+        "labelsEvents": [],
+        "labelsGenerals": [],
+        "labelsManufactures": []
+    },
+    {
+        "promoID": "5fbb9d1544b48e003bacec11",
+        "promoName": "PR",
+        "salesRules": [],
+        "store": {
+            "id": 76,
+            "code": "shellplasticsurgery",
+            "name": "Shell Plastic Surgery Store View",
+            "website_id": 76,
+            "store_group_id": 76
+        },
+        "typeCode": "PR",
+        "labelsEvents": [],
+        "labelsGenerals": [],
+        "labelsManufactures": []
+    },
+    {
+        "promoID": "5fbb9c9644b48e003bacec0d",
+        "promoName": "dec2020 shell clear+brilliant",
+        "salesRules": [
+            {
+                "_id": "5fc54456c63877003b81aeb3",
+                "discountType": "by_fixed",
+                "ruleConditions": {
+                    "aggregator": {
+                        "type": "all",
+                        "value": "1"
+                    },
+                    "conditions": []
+                },
+                "ruleActions": {
+                    "aggregator": {
+                        "type": "all",
+                        "value": "1"
+                    },
+                    "conditions": [
+                        {
+                            "type": "sku",
+                            "operator": "==",
+                            "data": {
+                                "id": 18544,
+                                "sku": "SKUTREAT002713",
+                                "name": "Clear + Brilliant",
+                                "attribute_set_id": 15,
+                                "price": 350,
+                                "status": 1,
+                                "visibility": 4,
+                                "type_id": "virtual",
+                                "created_at": "2020-04-28 02:46:03",
+                                "updated_at": "2020-11-13 20:16:09",
+                                "product_links": [],
+                                "tier_prices": [],
+                                "custom_attributes": []
+                            }
+                        },
+                        {
+                            "type": "quote_item_sku",
+                            "operator": "{}",
+                            "data": "sgl-addon"
+                        }
+                    ]
+                },
+                "ruleName": "Purchase a Clear + Brilliant® Treatment, Receive a FREE Dermaplane",
+                "ruleDescription": "Purchase a Clear + Brilliant® Treatment, Receive a FREE Dermaplane",
+                "CustomerGroups": [
+                    {
+                        "id": 0,
+                        "code": "NOT LOGGED IN",
+                        "tax_class_id": 3,
+                        "tax_class_name": "Retail Customer"
+                    },
+                    {
+                        "id": 1,
+                        "code": "General",
+                        "tax_class_id": 3,
+                        "tax_class_name": "Retail Customer"
+                    },
+                    {
+                        "id": 139,
+                        "code": "Shell Plastic Surgery Customer",
+                        "tax_class_id": 3,
+                        "tax_class_name": "Retail Customer",
+                        "extension_attributes": {
+                            "customer_group_store_code": "76"
+                        }
+                    },
+                    {
+                        "id": 140,
+                        "code": "Shell Plastic Surgery Member",
+                        "tax_class_id": 3,
+                        "tax_class_name": "Retail Customer",
+                        "extension_attributes": {
+                            "customer_group_store_code": "76"
+                        }
+                    }
+                ],
+                "discountAmount": 25,
+                "minQtyForDiscount": 1,
+                "discardSubsequentRules": true,
+                "rulePriority": 5,
+                "label": "Special Discount",
+                "freeShipping": false
+            }
+        ],
+        "store": {
+            "id": 76,
+            "code": "shellplasticsurgery",
+            "name": "Shell Plastic Surgery Store View",
+            "website_id": 76,
+            "store_group_id": 76
+        },
+        "typeCode": "SC-2A",
+        "labelsEvents": [],
+        "labelsGenerals": [],
+        "labelsManufactures": []
+    },
+    {
+        "promoID": "5fbb9a8e44b48e003bacec09",
+        "promoName": "sandlake PR",
+        "salesRules": [],
+        "store": {
+            "id": 120,
+            "code": "sandlakedermatology",
+            "name": "Sand Lake Dermatology Center Store View",
+            "website_id": 120,
+            "store_group_id": 120
+        },
+        "typeCode": "PR",
+        "labelsEvents": [],
+        "labelsGenerals": [],
+        "labelsManufactures": []
+    },
+    {
+        "promoID": "5fbb99fe44b48e003bacec02",
+        "promoName": "sandlake Spend $300 or More on Products and Receive a FREE Rejuvenating Oxygen Facial",
+        "salesRules": [
+            {
+                "_id": "5fbb99fe44b48e003bacec03",
+                "discountType": "eachn_perc",
+                "ruleConditions": {
+                    "aggregator": {
+                        "type": "all",
+                        "value": "1"
+                    },
+                    "conditions": [
+                        {
+                            "type": "base_row_total",
+                            "operator": ">=",
+                            "data": "300.00",
+                            "subConditions": [
+                                {
+                                    "type": "sku",
+                                    "operator": "{}",
+                                    "data": "SKUPROD"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "ruleActions": {
+                    "aggregator": {
+                        "type": "all",
+                        "value": "1"
+                    },
+                    "conditions": [
+                        {
+                            "type": "sku",
+                            "operator": "==",
+                            "data": {
+                                "id": 19702,
+                                "sku": "SKUTREAT00374-LTS",
+                                "name": " Rejuvenating Oxygen Facial",
+                                "attribute_set_id": 4,
+                                "price": 130,
+                                "status": 1,
+                                "visibility": 2,
+                                "type_id": "virtual",
+                                "created_at": "2020-11-12 14:58:06",
+                                "updated_at": "2020-11-12 15:11:26",
+                                "product_links": [],
+                                "tier_prices": [],
+                                "custom_attributes": []
+                            }
+                        }
+                    ]
+                },
+                "ruleName": "Spend $300 or More on Products and Receive a FREE Rejuvenating Oxygen Facial ($130 Value)",
+                "ruleDescription": "Spend $300 or More on Products and Receive a FREE Rejuvenating Oxygen Facial ($130 Value)",
+                "CustomerGroups": [
+                    {
+                        "id": 0,
+                        "code": "NOT LOGGED IN",
+                        "tax_class_id": 3,
+                        "tax_class_name": "Retail Customer"
+                    },
+                    {
+                        "id": 1,
+                        "code": "General",
+                        "tax_class_id": 3,
+                        "tax_class_name": "Retail Customer"
+                    },
+                    {
+                        "id": 210,
+                        "code": "Sand Lake Dermatology Customer",
+                        "tax_class_id": 3,
+                        "tax_class_name": "Retail Customer",
+                        "extension_attributes": {
+                            "customer_group_store_code": "120"
+                        }
+                    }
+                ],
+                "discountAmount": 100,
+                "maxQtyForDiscount": 1,
+                "minQtyForDiscount": 1,
+                "rulePriority": 5,
+                "label": "FREE",
+                "freeShipping": false,
+                "discardSubsequentRules": true
+            }
+        ],
+        "store": {
+            "id": 120,
+            "code": "sandlakedermatology",
+            "name": "Sand Lake Dermatology Center Store View",
+            "website_id": 120,
+            "store_group_id": 120
+        },
+        "typeCode": "SC-12A",
+        "labelsEvents": [],
+        "labelsGenerals": [],
+        "labelsManufactures": []
+    },
+    {
+        "promoID": "5fbb96cd44b48e003bacebfc",
+        "promoName": "sandlake BOGO Special Purchase 1 and Receive 1 50% OFF",
+        "salesRules": [
+            {
+                "_id": "5fbb96cd44b48e003bacebfd",
+                "discountType": "thecheapest",
+                "ruleConditions": {
+                    "aggregator": {
+                        "type": "all",
+                        "value": "1"
+                    },
+                    "conditions": []
+                },
+                "ruleActions": {
+                    "aggregator": {
+                        "type": "all",
+                        "value": "1"
+                    },
+                    "conditions": [
+                        {
+                            "type": "category_ids",
+                            "operator": "()",
+                            "data": [
+                                {
+                                    "id": 168,
+                                    "parent_id": 6,
+                                    "name": "Facials",
+                                    "is_active": true,
+                                    "position": 25,
+                                    "level": 3,
+                                    "children": "",
+                                    "created_at": "2018-11-21 09:26:26",
+                                    "updated_at": "2020-11-12 15:06:44",
+                                    "path": "1/2/6/168",
+                                    "available_sort_by": [],
+                                    "include_in_menu": true,
+                                    "custom_attributes": [],
+                                    "nameWithPath": "Treatments & Aesthetic Services / Facials"
+                                },
+                                {
+                                    "id": 55,
+                                    "parent_id": 6,
+                                    "name": "Peels",
+                                    "is_active": true,
+                                    "position": 59,
+                                    "level": 3,
+                                    "children": "",
+                                    "created_at": "2018-11-21 09:25:34",
+                                    "updated_at": "2020-09-15 17:19:30",
+                                    "path": "1/2/6/55",
+                                    "available_sort_by": [],
+                                    "include_in_menu": true,
+                                    "custom_attributes": [],
+                                    "nameWithPath": "Treatments & Aesthetic Services / Peels"
+                                },
+                                {
+                                    "id": 74,
+                                    "parent_id": 6,
+                                    "name": "Dermaplaning",
+                                    "is_active": true,
+                                    "position": 18,
+                                    "level": 3,
+                                    "children": "",
+                                    "created_at": "2018-11-21 09:25:43",
+                                    "updated_at": "2020-07-01 14:18:48",
+                                    "path": "1/2/6/74",
+                                    "available_sort_by": [],
+                                    "include_in_menu": true,
+                                    "custom_attributes": [],
+                                    "nameWithPath": "Treatments & Aesthetic Services / Dermaplaning"
+                                },
+                                {
+                                    "id": 58,
+                                    "parent_id": 6,
+                                    "name": "Microdermabrasion",
+                                    "is_active": true,
+                                    "position": 53,
+                                    "level": 3,
+                                    "children": "",
+                                    "created_at": "2018-11-21 09:25:36",
+                                    "updated_at": "2020-07-01 04:59:36",
+                                    "path": "1/2/6/58",
+                                    "available_sort_by": [],
+                                    "include_in_menu": true,
+                                    "custom_attributes": [],
+                                    "nameWithPath": "Treatments & Aesthetic Services / Microdermabrasion"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "quote_item_sku",
+                            "operator": "!{}",
+                            "data": "pkg"
+                        }
+                    ]
+                },
+                "ruleName": "Purchase 1 and Receive 1 50% OFF Includes: Facials, Peels, Dermaplaning, and Microdermabrasion Treatments",
+                "ruleDescription": "Purchase 1 and Receive 1 50% OFF Includes: Facials, Peels, Dermaplaning, and Microdermabrasion Treatments",
+                "CustomerGroups": [
+                    {
+                        "id": 0,
+                        "code": "NOT LOGGED IN",
+                        "tax_class_id": 3,
+                        "tax_class_name": "Retail Customer"
+                    },
+                    {
+                        "id": 1,
+                        "code": "General",
+                        "tax_class_id": 3,
+                        "tax_class_name": "Retail Customer"
+                    },
+                    {
+                        "id": 210,
+                        "code": "Sand Lake Dermatology Customer",
+                        "tax_class_id": 3,
+                        "tax_class_name": "Retail Customer",
+                        "extension_attributes": {
+                            "customer_group_store_code": "120"
+                        }
+                    }
+                ],
+                "discountAmount": 50,
+                "minQtyForDiscount": 2,
+                "discardSubsequentRules": true,
+                "label": "50% OFF",
+                "rulePriority": 5,
+                "freeShipping": false
+            }
+        ],
+        "store": {
+            "id": 120,
+            "code": "sandlakedermatology",
+            "name": "Sand Lake Dermatology Center Store View",
+            "website_id": 120,
+            "store_group_id": 120
+        },
+        "typeCode": "SC-4B",
+        "labelsEvents": [],
+        "labelsGenerals": [],
+        "labelsManufactures": []
+    },
+    {
+        "promoID": "5fbb92c044b48e003bacebf2",
+        "promoName": "PR",
+        "salesRules": [],
+        "store": {
+            "id": 64,
+            "code": "revivemedicalspa",
+            "name": "Revive Medical Spa, LLC Store View",
+            "website_id": 64,
+            "store_group_id": 64
+        },
+        "typeCode": "PR",
+        "labelsEvents": [],
+        "labelsGenerals": [],
+        "labelsManufactures": []
+    },
+    {
+        "promoID": "5fbb918344b48e003bacebef",
+        "promoName": "LTS-D DAD",
+        "salesRules": [],
+        "store": {
+            "id": 47,
+            "code": "dallasassocderm",
+            "name": "Dallas Associated Dermatologists Store View",
+            "website_id": 47,
+            "store_group_id": 47
+        },
+        "typeCode": "LTS-A",
+        "labelsEvents": [],
+        "labelsGenerals": [],
+        "labelsManufactures": []
+    },
+    {
+        "promoID": "5fbb7d75cee325003bcd0558",
+        "promoName": "For the Week of December 28th Only (The Skin Institute)",
+        "salesRules": [],
+        "store": {
+            "id": 173,
+            "code": "theskininstitute",
+            "name": "The Skin Institute Store View",
+            "website_id": 173,
+            "store_group_id": 173
+        },
+        "typeCode": "SP",
+        "labelsEvents": [],
+        "labelsGenerals": [],
+        "labelsManufactures": []
+    },
+    {
+        "promoID": "5fbb7c2bcee325003bcd0553",
+        "promoName": "For the Week of December 21st Only 15% OFF Jan Marini® Age Intervention Retinol Plus and Retinol Plus MD (The Skin Institute)  ",
+        "salesRules": [],
+        "store": {
+            "id": 173,
+            "code": "theskininstitute",
+            "name": "The Skin Institute Store View",
+            "website_id": 173,
+            "store_group_id": 173
+        },
+        "typeCode": "SP",
+        "labelsEvents": [],
+        "labelsGenerals": [],
+        "labelsManufactures": []
+    },
+    {
+        "promoID": "5fbb7b3ecee325003bcd054f",
+        "promoName": "For the Week of December 14th Only 15% OFF K-Derm Cream (The Skin Institute) ",
+        "salesRules": [],
+        "store": {
+            "id": 173,
+            "code": "theskininstitute",
+            "name": "The Skin Institute Store View",
+            "website_id": 173,
+            "store_group_id": 173
+        },
+        "typeCode": "SP",
+        "labelsEvents": [],
+        "labelsGenerals": [],
+        "labelsManufactures": []
+    }
+]

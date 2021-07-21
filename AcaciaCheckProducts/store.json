@@ -1,0 +1,10 @@
+{
+	"stores": {
+			"id": 211,
+			"code": "acaciaspa",
+			"name": "Acacia Spa Store View",
+			"website_id": 211,
+			"store_group_id": 211
+		},
+	"env": "https://acaciaspa.dermpro.com" 
+}
